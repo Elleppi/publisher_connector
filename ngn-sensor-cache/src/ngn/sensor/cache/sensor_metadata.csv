@@ -1,0 +1,1900 @@
+﻿sensor_key,building_name,floor_name,room_name,service_type,object_name,measurement_type,last_shared_value,unit_of_measure,last_shared_datetime
+CO@10_0_0,Weather Stations,Floor2,,ExternalTemp,,ExternalTemp,5.100,Celsius degrees,2025-01-22 13:11:24
+CO@10_0_1,Weather Stations,Floor2,,ExternalHumidity,,ExternalHumidity,77.680,%,2024-12-21 04:55:05
+CO@10_0_2,Weather Stations,Floor2,,ExternalRadiation,,ExternalRadiation,186.880,Watt/m^2,2025-01-22 14:07:24
+CO@10_0_3,Weather Stations,Floor2,,ExternalPrecipitation,,ExternalPrecipitation,0.000,,2024-11-25 09:15:38
+CO@10_0_4,Weather Stations,Floor2,,ExternalWindSpeed,,ExternalWindSpeed,0.000,m/s,2025-01-21 14:53:01
+CO@10_0_5,Weather Stations,Floor2,,ExternalWindDirection,,ExternalWindDirection,0.000,degrees,2025-01-21 15:16:41
+CO@1_0_1,1910s Terrace Left,Floor,Global,Electric,,Voltage,239.000,Volts,2025-01-22 06:57:19
+CO@1_0_10,1910s Terrace Left,Floor1,LivingRoom,Electric,Sockets,Control,1.000,,2025-01-09 16:49:38
+CO@1_0_11,1910s Terrace Left,Floor1,LivingRoom,Electric,Sockets,Status,1.000,,2025-01-09 16:49:38
+CO@1_0_122,1910s Terrace Left,Floor2,Landing,Electric,Lights,Control,0.000,,2024-10-13 10:21:08
+CO@1_0_123,1910s Terrace Left,Floor2,Landing,Electric,Lights,Status,0.000,,2024-10-13 10:21:08
+CO@1_0_125,1910s Terrace Left,Floor2,Landing,Electric,Lights,Current,0.000,MegaAmpere,2024-08-27 10:13:16
+CO@1_0_126,1910s Terrace Left,Floor2,Landing,Electric,Lights,Power,0.000,Watt,2024-08-27 10:13:16
+CO@1_0_128,1910s Terrace Left,Floor2,Landing,Electric,Lights,CumEnergy,1.000,Watt,2024-07-22 15:02:17
+CO@1_0_13,1910s Terrace Left,Floor1,LivingRoom,Electric,Sockets,Current,0.000,MegaAmpere,2024-07-22 15:02:24
+CO@1_0_130,1910s Terrace Left,Floor2,Bed1,Electric,Lights,Control,0.000,,2025-01-07 13:30:07
+CO@1_0_131,1910s Terrace Left,Floor2,Bed1,Electric,Lights,Status,0.000,,2025-01-07 13:30:07
+CO@1_0_133,1910s Terrace Left,Floor2,Bed1,Electric,Lights,Current,0.000,MegaAmpere,2024-07-22 15:02:18
+CO@1_0_134,1910s Terrace Left,Floor2,Bed1,Electric,Lights,Power,0.000,Watt,2024-07-22 15:02:18
+CO@1_0_136,1910s Terrace Left,Floor2,Bed1,Electric,Lights,CumEnergy,0.000,Watt,2024-07-22 15:02:18
+CO@1_0_138,1910s Terrace Left,Floor2,Bed2,Electric,Lights,Control,0.000,,2025-01-07 13:30:13
+CO@1_0_139,1910s Terrace Left,Floor2,Bed2,Electric,Lights,Status,0.000,,2025-01-07 13:30:13
+CO@1_0_14,1910s Terrace Left,Floor1,LivingRoom,Electric,Sockets,Power,0.000,Watt,2024-07-22 15:02:24
+CO@1_0_141,1910s Terrace Left,Floor2,Bed2,Electric,Lights,Current,0.000,MegaAmpere,2024-07-22 15:02:22
+CO@1_0_142,1910s Terrace Left,Floor2,Bed2,Electric,Lights,Power,0.000,Watt,2024-07-22 15:02:22
+CO@1_0_144,1910s Terrace Left,Floor2,Bed2,Electric,Lights,CumEnergy,0.000,Watt,2024-07-22 15:02:22
+CO@1_0_16,1910s Terrace Left,Floor1,LivingRoom,Electric,Sockets,CumEnergy,0.000,Watt,2024-07-22 15:02:24
+CO@1_0_162,1910s Terrace Left,Floor1,Bathroom,Electric,Lights,Control,0.000,,2024-12-11 08:30:05
+CO@1_0_163,1910s Terrace Left,Floor1,Bathroom,Electric,Lights,Status,0.000,,2024-12-11 08:30:05
+CO@1_0_165,1910s Terrace Left,Floor1,Bathroom,Electric,Lights,Current,0.000,MegaAmpere,2024-12-11 08:30:10
+CO@1_0_166,1910s Terrace Left,Floor1,Bathroom,Electric,Lights,Power,0.000,Watt,2024-12-11 08:30:09
+CO@1_0_168,1910s Terrace Left,Floor1,Bathroom,Electric,Lights,CumEnergy,0.000,Watt,2024-07-22 15:02:19
+CO@1_0_18,1910s Terrace Left,Floor1,Kitchen,Electric,Sockets,Control,1.000,,2025-01-09 16:49:43
+CO@1_0_19,1910s Terrace Left,Floor1,Kitchen,Electric,Sockets,Status,1.000,,2025-01-09 16:49:43
+CO@1_0_194,1910s Terrace Left,Floor,Global,Electric,Immersion,Control,,,
+CO@1_0_195,1910s Terrace Left,Floor,Global,Electric,Immersion,Status,,,
+CO@1_0_197,1910s Terrace Left,Floor,Global,Electric,Immersion,Current,,MegaAmpere,
+CO@1_0_198,1910s Terrace Left,Floor,Global,Electric,Immersion,Power,,Watt,
+CO@1_0_2,1910s Terrace Left,Floor,Global,Electric,,Current,0.942,MegaAmpere,2024-07-22 15:01:59
+CO@1_0_200,1910s Terrace Left,Floor,Global,Electric,Immersion,CumEnergy,,Watt,
+CO@1_0_202,1910s Terrace Left,Floor1,Kitchen,Electric,Hob,Control,0.000,,2024-10-13 10:21:26
+CO@1_0_203,1910s Terrace Left,Floor1,Kitchen,Electric,Hob,Status,0.000,,2024-10-13 10:21:26
+CO@1_0_205,1910s Terrace Left,Floor1,Kitchen,Electric,Hob,Current,0.000,MegaAmpere,2024-10-13 10:21:23
+CO@1_0_206,1910s Terrace Left,Floor1,Kitchen,Electric,Hob,Power,5.051,Watt,2025-01-09 14:10:25
+CO@1_0_208,1910s Terrace Left,Floor1,Kitchen,Electric,Hob,CumEnergy,24.000,Watt,2024-12-14 06:14:54
+CO@1_0_21,1910s Terrace Left,Floor1,Kitchen,Electric,Sockets,Current,0.000,MegaAmpere,2024-07-22 15:02:19
+CO@1_0_22,1910s Terrace Left,Floor1,Kitchen,Electric,Sockets,Power,0.000,Watt,2024-07-22 15:02:19
+CO@1_0_24,1910s Terrace Left,Floor1,Kitchen,Electric,Sockets,CumEnergy,0.000,Watt,2024-07-22 15:02:19
+CO@1_0_240,1910s Terrace Left,Floor,Global,Electric,Lights,ALL Control,0.000,,2025-01-16 12:24:00
+CO@1_0_241,1910s Terrace Left,Floor,Global,Electric,Sockets,All Control,0.000,,2024-10-13 10:20:41
+CO@1_0_3,1910s Terrace Left,Floor,Global,Electric,,Power,5287.140,Watt,2025-01-22 14:07:20
+CO@1_0_34,1910s Terrace Left,Floor2,Bed1,Electric,Sockets,Control,1.000,,2025-01-09 16:49:55
+CO@1_0_35,1910s Terrace Left,Floor2,Bed1,Electric,Sockets,Status,1.000,,2025-01-09 16:49:55
+CO@1_0_37,1910s Terrace Left,Floor2,Bed1,Electric,Sockets,Current,0.000,MegaAmpere,2024-07-22 15:02:21
+CO@1_0_38,1910s Terrace Left,Floor2,Bed1,Electric,Sockets,Power,0.000,Watt,2024-07-22 15:02:21
+CO@1_0_4,1910s Terrace Left,Floor,Global,Electric,,AppPower,127.680,Watt,2024-12-21 03:57:34
+CO@1_0_40,1910s Terrace Left,Floor2,Bed1,Electric,Sockets,CumEnergy,0.000,Watt,2024-07-22 15:02:21
+CO@1_0_42,1910s Terrace Left,Floor2,Bed2,Electric,Sockets,Control,1.000,,2025-01-09 16:50:04
+CO@1_0_43,1910s Terrace Left,Floor2,Bed2,Electric,Sockets,Status,1.000,,2025-01-09 16:50:04
+CO@1_0_45,1910s Terrace Left,Floor2,Bed2,Electric,Sockets,Current,0.000,MegaAmpere,2024-07-22 15:02:20
+CO@1_0_46,1910s Terrace Left,Floor2,Bed2,Electric,Sockets,Power,0.000,Watt,2024-07-22 15:02:19
+CO@1_0_48,1910s Terrace Left,Floor2,Bed2,Electric,Sockets,CumEnergy,0.000,Watt,2024-07-22 15:02:20
+CO@1_0_5,1910s Terrace Left,Floor,Global,Electric,,ReacPower,-92.070,Watt,2024-07-22 15:01:59
+CO@1_0_6,1910s Terrace Left,Floor,Global,Electric,,PowerFactor,1.000,Watt,2025-01-22 13:41:55
+CO@1_0_66,1910s Terrace Left,Floor1,LivingRoom,Electric,Lights,Control,0.000,,2025-01-14 08:09:51
+CO@1_0_67,1910s Terrace Left,Floor1,LivingRoom,Electric,Lights,Status,0.000,,2025-01-11 13:08:46
+CO@1_0_69,1910s Terrace Left,Floor1,LivingRoom,Electric,Lights,Current,0.000,MegaAmpere,2025-01-11 13:08:50
+CO@1_0_7,1910s Terrace Left,Floor,Global,Electric,,CumEnergy,1515.090,Watt,2024-12-21 04:47:39
+CO@1_0_70,1910s Terrace Left,Floor1,LivingRoom,Electric,Lights,Power,0.000,Watt,2025-01-21 07:34:48
+CO@1_0_72,1910s Terrace Left,Floor1,LivingRoom,Electric,Lights,CumEnergy,1.000,Watt,2025-01-11 11:20:19
+CO@1_0_74,1910s Terrace Left,Floor1,Kitchen,Electric,Lights,Control,0.000,,2024-12-18 07:34:11
+CO@1_0_75,1910s Terrace Left,Floor1,Kitchen,Electric,Lights,Status,0.000,,2024-12-18 07:34:11
+CO@1_0_77,1910s Terrace Left,Floor1,Kitchen,Electric,Lights,Current,0.000,MegaAmpere,2024-12-18 07:34:15
+CO@1_0_78,1910s Terrace Left,Floor1,Kitchen,Electric,Lights,Power,0.000,Watt,2024-12-18 07:34:15
+CO@1_0_8,1910s Terrace Left,Floor,Global,Electric,,CumReactEnergy,2040.000,,2025-01-22 14:04:00
+CO@1_0_80,1910s Terrace Left,Floor1,Kitchen,Electric,Lights,CumEnergy,1.000,Watt,2024-07-22 15:02:22
+CO@1_0_82,1910s Terrace Left,Floor1,Hallway,Electric,Lights,Control,0.000,,2024-10-13 10:21:16
+CO@1_0_83,1910s Terrace Left,Floor1,Hallway,Electric,Lights,Status,0.000,,2024-12-18 07:34:11
+CO@1_0_85,1910s Terrace Left,Floor1,Hallway,Electric,Lights,Current,0.000,MegaAmpere,2024-12-18 07:34:15
+CO@1_0_86,1910s Terrace Left,Floor1,Hallway,Electric,Lights,Power,0.000,Watt,2024-12-18 07:34:15
+CO@1_0_88,1910s Terrace Left,Floor1,Hallway,Electric,Lights,CumEnergy,0.000,Watt,2024-07-22 15:02:16
+CO@1_0_9,1910s Terrace Left,Floor,Global,Electric,,ACFrequency,50.090,,2025-01-22 13:23:57
+CO@1_1_11,1910s Terrace Left,Floor1,Bathroom,Electric,Radiator,Current,0.000,MegaAmpere,2024-10-13 10:20:50
+CO@1_1_12,1910s Terrace Left,Floor1,Bathroom,Electric,Radiator,Power,0.000,Watt,2024-10-13 10:20:50
+CO@1_1_14,1910s Terrace Left,Floor1,Bathroom,Electric,Radiator,CumEnergy,0.000,Watt,2024-10-13 10:20:50
+CO@1_1_8,1910s Terrace Left,Floor1,Bathroom,Electric,Radiator,Control,0.000,,2024-10-13 10:20:58
+CO@1_1_9,1910s Terrace Left,Floor1,Bathroom,Electric,Radiator,Status,0.000,,2024-10-13 10:20:58
+CO@1_2_0,1910s Terrace Left,Floor,Global,Gas,,Volume,389.270,m^3,2024-12-21 04:55:31
+CO@1_3_0,1910s Terrace Left,Floor,Global,Water,Meter,Volume,3234.600,m^3,2024-12-21 04:56:11
+CO@1_3_1,1910s Terrace Left,Floor,Global,Water,Meter,Flow,0.000,,2025-01-22 14:05:13
+CO@1_3_10,1910s Terrace Left,Floor1,Kitchen,Water,SinkCold,Temp,5.500,Celsius degrees,2024-12-05 07:36:43
+CO@1_3_11,1910s Terrace Left,Floor1,Kitchen,Water,SinkHot,Volume,0.000,m^3,2025-01-13 10:13:13
+CO@1_3_12,1910s Terrace Left,Floor1,Kitchen,Water,SinkHot,Flow,0.000,,2025-01-13 10:13:25
+CO@1_3_13,1910s Terrace Left,Floor1,Kitchen,Water,SinkHot,Temp,8.200,Celsius degrees,2025-01-14 20:31:28
+CO@1_3_20,1910s Terrace Left,Floor1,Bathroom,Water,SinkCold,Volume,0.000,m^3,2025-01-09 11:44:36
+CO@1_3_21,1910s Terrace Left,Floor1,Bathroom,Water,SinkCold,Flow,0.000,,2025-01-09 11:44:54
+CO@1_3_22,1910s Terrace Left,Floor1,Bathroom,Water,SinkCold,Temp,8.500,Celsius degrees,2025-01-15 03:18:43
+CO@1_3_23,1910s Terrace Left,Floor1,Bathroom,Water,SinkHot,Volume,0.000,m^3,2024-07-30 13:48:53
+CO@1_3_24,1910s Terrace Left,Floor1,Bathroom,Water,SinkHot,Flow,0.000,,2025-01-09 12:23:57
+CO@1_3_25,1910s Terrace Left,Floor1,Bathroom,Water,SinkHot,Temp,13.000,Celsius degrees,2025-01-14 20:31:29
+CO@1_3_26,1910s Terrace Left,Floor1,Bathroom,Water,BathCold,Volume,0.000,m^3,2025-01-09 11:44:37
+CO@1_3_27,1910s Terrace Left,Floor1,Bathroom,Water,BathCold,Flow,0.000,,2025-01-09 11:44:51
+CO@1_3_28,1910s Terrace Left,Floor1,Bathroom,Water,BathCold,Temp,9.200,Celsius degrees,2025-01-21 13:10:37
+CO@1_3_29,1910s Terrace Left,Floor1,Bathroom,Water,BathHot,Volume,0.000,m^3,2024-07-30 13:48:25
+CO@1_3_30,1910s Terrace Left,Floor1,Bathroom,Water,BathHot,Flow,0.000,,2024-07-30 13:48:40
+CO@1_3_31,1910s Terrace Left,Floor1,Bathroom,Water,BathHot,Temp,4.000,Celsius degrees,2024-12-21 03:58:01
+CO@1_3_32,1910s Terrace Left,Floor1,Bathroom,Water,ShowerCold,Volume,17.000,m^3,2024-07-30 13:49:13
+CO@1_3_33,1910s Terrace Left,Floor1,Bathroom,Water,ShowerCold,Flow,0.000,,2024-07-30 13:49:14
+CO@1_3_34,1910s Terrace Left,Floor1,Bathroom,Water,ShowerCold,Temp,6.300,Celsius degrees,2024-12-01 17:00:25
+CO@1_3_35,1910s Terrace Left,Floor1,Bathroom,Water,ShowerHot,Volume,14.000,m^3,2024-07-26 11:12:49
+CO@1_3_36,1910s Terrace Left,Floor1,Bathroom,Water,ShowerHot,Flow,0.000,,2024-07-30 13:49:16
+CO@1_3_37,1910s Terrace Left,Floor1,Bathroom,Water,ShowerHot,Temp,8.000,Celsius degrees,2025-01-13 13:24:08
+CO@1_3_8,1910s Terrace Left,Floor1,Kitchen,Water,SinkCold,Volume,0.000,m^3,2025-01-09 11:45:21
+CO@1_3_83,1910s Terrace Left,Floor1,Bathroom,Water,ToiletCold,Volume,0.000,m^3,2024-07-24 10:34:07
+CO@1_3_84,1910s Terrace Left,Floor1,Bathroom,Water,ToiletCold,Flow,0.000,,2024-09-10 11:24:42
+CO@1_3_85,1910s Terrace Left,Floor1,Bathroom,Water,ToiletCold,Temp,13.500,Celsius degrees,2025-01-20 16:25:13
+CO@1_3_9,1910s Terrace Left,Floor1,Kitchen,Water,SinkCold,Flow,0.000,,2025-01-09 11:45:33
+CO@1_4_0,1910s Terrace Left,Floor1,LivingRoom,Other,,Temperature,20.540,Celsius degrees,2025-01-22 14:03:40
+CO@1_4_1,1910s Terrace Left,Floor1,LivingRoom,Other,,Humidity,44.200,%,2025-01-22 14:03:29
+CO@1_4_10,1910s Terrace Left,Floor1,Kitchen,Other,,Temperature,18.420,Celsius degrees,2024-12-21 04:55:12
+CO@1_4_11,1910s Terrace Left,Floor1,Kitchen,Other,,Humidity,50.360,%,2024-12-21 04:52:32
+CO@1_4_12,1910s Terrace Left,Floor1,Kitchen,Other,,CO2,404.800,Parts per million,2025-01-22 14:03:41
+CO@1_4_120,1910s Terrace Left,Floor1,Bathroom,Other,,Temperature,13.840,Celsius degrees,2024-12-21 04:54:56
+CO@1_4_121,1910s Terrace Left,Floor1,Bathroom,Other,,Humidity,62.240,%,2024-12-21 04:57:26
+CO@1_4_122,1910s Terrace Left,Floor1,Bathroom,Other,,CO2,200.000,Parts per million,2025-01-22 14:03:33
+CO@1_4_123,1910s Terrace Left,Floor1,Bathroom,Other,,Occupancy,1.000,,2025-01-22 14:06:25
+CO@1_4_124,1910s Terrace Left,Floor1,Bathroom,Other,,Window1,,,
+CO@1_4_127,1910s Terrace Left,Floor1,Bathroom,Other,,Door1,0.000,,2025-01-09 14:01:07
+CO@1_4_13,1910s Terrace Left,Floor1,Kitchen,Other,,Occupancy,0.000,,2025-01-22 03:57:19
+CO@1_4_14,1910s Terrace Left,Floor1,Kitchen,Other,,Window1,,,
+CO@1_4_158,1910s Terrace Left,Floor1,Rear,Other,,Door1,1.000,,2024-12-19 07:57:45
+CO@1_4_2,1910s Terrace Left,Floor1,LivingRoom,Other,,CO2,260.000,Parts per million,2025-01-22 14:03:39
+CO@1_4_20,1910s Terrace Left,Floor1,Hallway,Other,,Temperature,,Celsius degrees,
+CO@1_4_27,1910s Terrace Left,Floor1,Hallway,Other,,Door1,1.000,,2024-11-22 15:08:07
+CO@1_4_3,1910s Terrace Left,Floor1,LivingRoom,Other,,Occupancy,1.000,,2025-01-22 14:07:26
+CO@1_4_4,1910s Terrace Left,Floor1,LivingRoom,Other,,Window1,1.000,,2024-12-11 12:07:21
+CO@1_4_7,1910s Terrace Left,Floor1,LivingRoom,Other,,Door1,0.000,,2025-01-08 10:40:11
+CO@1_4_70,1910s Terrace Left,Floor2,Landing,Other,,Temperature,15.910,Celsius degrees,2025-01-22 14:05:29
+CO@1_4_80,1910s Terrace Left,Floor2,Bed1,Other,,Temperature,17.080,Celsius degrees,2024-12-21 04:55:03
+CO@1_4_81,1910s Terrace Left,Floor2,Bed1,Other,,Humidity,44.400,%,2025-01-22 14:03:28
+CO@1_4_82,1910s Terrace Left,Floor2,Bed1,Other,,CO2,294.880,Parts per million,2025-01-22 14:03:38
+CO@1_4_83,1910s Terrace Left,Floor2,Bed1,Other,,Occupancy,0.000,,2024-11-26 12:47:07
+CO@1_4_84,1910s Terrace Left,Floor2,Bed1,Other,,Window1,1.000,,2024-07-23 12:50:39
+CO@1_4_87,1910s Terrace Left,Floor2,Bed1,Other,,Door1,0.000,,2024-08-05 09:05:47
+CO@1_4_90,1910s Terrace Left,Floor2,Bed2,Other,,Temperature,21.460,Celsius degrees,2025-01-22 14:03:37
+CO@1_4_91,1910s Terrace Left,Floor2,Bed2,Other,,Humidity,42.720,%,2025-01-22 14:03:26
+CO@1_4_92,1910s Terrace Left,Floor2,Bed2,Other,,CO2,352.960,Parts per million,2025-01-22 14:03:37
+CO@1_4_93,1910s Terrace Left,Floor2,Bed2,Other,,Occupancy,0.000,,2024-11-21 20:49:02
+CO@1_4_94,1910s Terrace Left,Floor2,Bed2,Other,,Window1,1.000,,2023-12-18 12:17:01
+CO@1_4_97,1910s Terrace Left,Floor2,Bed2,Other,,Door1,0.000,,2023-12-20 13:52:46
+CO@1_5_0,1910s Terrace Left,Floor,Global,HeatingControl,,HeatDemandPWM,0.000,,2025-01-22 14:07:22
+CO@1_5_10,1910s Terrace Left,Floor1,Kitchen,HeatingControl,,Setpoint,21.000,,2024-11-24 22:47:11
+CO@1_5_11,1910s Terrace Left,Floor1,Kitchen,HeatingControl,Setpoint,Status,21.000,,2024-11-24 22:47:11
+CO@1_5_13,1910s Terrace Left,Floor1,Kitchen,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:07:37
+CO@1_5_14,1910s Terrace Left,Floor1,Kitchen,HeatingControl,HeatDemand,Status,0.000,,2025-01-20 10:33:32
+CO@1_5_2,1910s Terrace Left,Floor,Global,HeatingControl,HeatDemand,Status,0.000,,2025-01-09 10:15:30
+CO@1_5_200,1910s Terrace Left,Floor,Global,HeatingControl,CentralSetpoint,Control,21.000,,2024-11-24 22:47:10
+CO@1_5_201,1910s Terrace Left,Floor,Global,HeatingControl,CentralSetpoint,Status,21.000,,2024-11-24 22:47:10
+CO@1_5_202,1910s Terrace Left,Floor,Global,HeatingControl,CentralOnOff,Control,1.000,,2025-01-16 12:24:00
+CO@1_5_203,1910s Terrace Left,Floor,Global,HeatingControl,CentralOnOff,Status,,,
+CO@1_5_3,1910s Terrace Left,Floor,Global,HeatingControl,HotWater,Control,0.000,,2024-10-13 10:20:42
+CO@1_5_4,1910s Terrace Left,Floor,Global,HeatingControl,HotWater,Status,0.000,,2024-10-13 10:20:42
+CO@1_5_40,1910s Terrace Left,Floor2,Bed1,HeatingControl,,Setpoint,18.000,,2024-11-22 20:49:42
+CO@1_5_41,1910s Terrace Left,Floor2,Bed1,HeatingControl,Setpoint,Status,18.000,,2024-11-22 20:49:42
+CO@1_5_43,1910s Terrace Left,Floor2,Bed1,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:07:37
+CO@1_5_44,1910s Terrace Left,Floor2,Bed1,HeatingControl,HeatDemand,Status,0.000,,2025-01-20 10:33:27
+CO@1_5_45,1910s Terrace Left,Floor2,Bed2,HeatingControl,,Setpoint,21.000,,2025-01-07 13:30:34
+CO@1_5_46,1910s Terrace Left,Floor2,Bed2,HeatingControl,Setpoint,Status,21.000,,2025-01-07 13:30:34
+CO@1_5_48,1910s Terrace Left,Floor2,Bed2,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:07:22
+CO@1_5_49,1910s Terrace Left,Floor2,Bed2,HeatingControl,HeatDemand,Status,0.000,,2024-12-05 07:57:46
+CO@1_5_5,1910s Terrace Left,Floor1,LivingRoom,HeatingControl,,Setpoint,21.000,,2024-11-24 22:47:10
+CO@1_5_6,1910s Terrace Left,Floor1,LivingRoom,HeatingControl,Setpoint,Status,21.000,,2024-11-24 22:47:10
+CO@1_5_8,1910s Terrace Left,Floor1,LivingRoom,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:07:37
+CO@1_5_9,1910s Terrace Left,Floor1,LivingRoom,HeatingControl,HeatDemand,Status,0.000,,2025-01-20 10:33:25
+CO@2_0_1,1910s Terrace Mid,Floor,Global,Electric,,Voltage,246.100,Volts,2024-12-05 07:02:15
+CO@2_0_10,1910s Terrace Mid,Floor1,LivingRoom,Electric,Sockets,Control,1.000,,2025-01-09 16:50:09
+CO@2_0_11,1910s Terrace Mid,Floor1,LivingRoom,Electric,Sockets,Status,1.000,,2025-01-09 16:50:09
+CO@2_0_122,1910s Terrace Mid,Floor2,Landing,Electric,Lights,Control,0.000,,2024-10-13 10:19:48
+CO@2_0_123,1910s Terrace Mid,Floor2,Landing,Electric,Lights,Status,0.000,,2024-10-13 10:19:48
+CO@2_0_125,1910s Terrace Mid,Floor2,Landing,Electric,Lights,Current,0.000,MegaAmpere,2024-08-05 15:03:45
+CO@2_0_126,1910s Terrace Mid,Floor2,Landing,Electric,Lights,Power,0.000,Watt,2024-08-05 15:03:45
+CO@2_0_128,1910s Terrace Mid,Floor2,Landing,Electric,Lights,CumEnergy,0.000,Watt,2024-07-22 14:25:16
+CO@2_0_13,1910s Terrace Mid,Floor1,LivingRoom,Electric,Sockets,Current,0.000,MegaAmpere,2024-10-13 10:20:26
+CO@2_0_130,1910s Terrace Mid,Floor2,Bed1,Electric,Lights,Control,0.000,,2025-01-07 13:40:22
+CO@2_0_131,1910s Terrace Mid,Floor2,Bed1,Electric,Lights,Status,0.000,,2025-01-07 13:40:22
+CO@2_0_133,1910s Terrace Mid,Floor2,Bed1,Electric,Lights,Current,0.000,MegaAmpere,2025-01-07 13:40:28
+CO@2_0_134,1910s Terrace Mid,Floor2,Bed1,Electric,Lights,Power,0.000,Watt,2025-01-07 13:40:28
+CO@2_0_136,1910s Terrace Mid,Floor2,Bed1,Electric,Lights,CumEnergy,0.000,Watt,2024-07-22 14:25:16
+CO@2_0_138,1910s Terrace Mid,Floor2,Bed2,Electric,Lights,Control,0.000,,2025-01-09 13:47:22
+CO@2_0_139,1910s Terrace Mid,Floor2,Bed2,Electric,Lights,Status,0.000,,2025-01-09 13:47:22
+CO@2_0_14,1910s Terrace Mid,Floor1,LivingRoom,Electric,Sockets,Power,0.000,Watt,2024-10-13 10:20:26
+CO@2_0_141,1910s Terrace Mid,Floor2,Bed2,Electric,Lights,Current,0.000,MegaAmpere,2025-01-09 13:47:26
+CO@2_0_142,1910s Terrace Mid,Floor2,Bed2,Electric,Lights,Power,0.000,Watt,2025-01-09 13:47:26
+CO@2_0_144,1910s Terrace Mid,Floor2,Bed2,Electric,Lights,CumEnergy,0.000,Watt,2024-07-22 14:25:18
+CO@2_0_16,1910s Terrace Mid,Floor1,LivingRoom,Electric,Sockets,CumEnergy,0.000,Watt,2024-10-13 10:20:26
+CO@2_0_162,1910s Terrace Mid,Floor1,Bathroom,Electric,Lights,Control,0.000,,2024-12-11 08:26:13
+CO@2_0_163,1910s Terrace Mid,Floor1,Bathroom,Electric,Lights,Status,0.000,,2024-12-11 08:26:13
+CO@2_0_165,1910s Terrace Mid,Floor1,Bathroom,Electric,Lights,Current,0.000,MegaAmpere,2024-12-11 08:26:17
+CO@2_0_166,1910s Terrace Mid,Floor1,Bathroom,Electric,Lights,Power,0.000,Watt,2024-12-11 08:26:17
+CO@2_0_168,1910s Terrace Mid,Floor1,Bathroom,Electric,Lights,CumEnergy,0.000,Watt,2024-07-22 14:25:19
+CO@2_0_18,1910s Terrace Mid,Floor1,Kitchen,Electric,Sockets,Control,1.000,,2025-01-09 16:50:13
+CO@2_0_19,1910s Terrace Mid,Floor1,Kitchen,Electric,Sockets,Status,1.000,,2025-01-09 16:50:13
+CO@2_0_194,1910s Terrace Mid,Floor,Global,Electric,Immersion,Control,,,
+CO@2_0_195,1910s Terrace Mid,Floor,Global,Electric,Immersion,Status,,,
+CO@2_0_197,1910s Terrace Mid,Floor,Global,Electric,Immersion,Current,,MegaAmpere,
+CO@2_0_198,1910s Terrace Mid,Floor,Global,Electric,Immersion,Power,,Watt,
+CO@2_0_2,1910s Terrace Mid,Floor,Global,Electric,,Current,0.799,MegaAmpere,2024-07-22 14:25:00
+CO@2_0_200,1910s Terrace Mid,Floor,Global,Electric,Immersion,CumEnergy,,Watt,
+CO@2_0_202,1910s Terrace Mid,Floor1,Kitchen,Electric,Hob,Control,0.000,,2024-10-13 10:20:09
+CO@2_0_203,1910s Terrace Mid,Floor1,Kitchen,Electric,Hob,Status,0.000,,2024-10-13 10:20:09
+CO@2_0_205,1910s Terrace Mid,Floor1,Kitchen,Electric,Hob,Current,0.000,MegaAmpere,2024-10-13 10:20:13
+CO@2_0_206,1910s Terrace Mid,Floor1,Kitchen,Electric,Hob,Power,5.198,Watt,2025-01-21 16:04:07
+CO@2_0_208,1910s Terrace Mid,Floor1,Kitchen,Electric,Hob,CumEnergy,28.000,Watt,2024-12-19 19:28:07
+CO@2_0_21,1910s Terrace Mid,Floor1,Kitchen,Electric,Sockets,Current,0.000,MegaAmpere,2024-07-22 14:25:21
+CO@2_0_22,1910s Terrace Mid,Floor1,Kitchen,Electric,Sockets,Power,0.000,Watt,2024-07-22 14:25:21
+CO@2_0_24,1910s Terrace Mid,Floor1,Kitchen,Electric,Sockets,CumEnergy,0.000,Watt,2024-07-22 14:25:21
+CO@2_0_240,1910s Terrace Mid,Floor,Global,Electric,Lights,ALL Control,0.000,,2025-01-16 12:23:38
+CO@2_0_241,1910s Terrace Mid,Floor,Global,Electric,Sockets,All Control,0.000,,2024-10-13 10:19:24
+CO@2_0_3,1910s Terrace Mid,Floor,Global,Electric,,Power,3130.600,Watt,2025-01-22 03:55:33
+CO@2_0_34,1910s Terrace Mid,Floor2,Bed1,Electric,Sockets,Control,1.000,,2025-01-09 16:50:17
+CO@2_0_35,1910s Terrace Mid,Floor2,Bed1,Electric,Sockets,Status,1.000,,2025-01-09 16:50:18
+CO@2_0_37,1910s Terrace Mid,Floor2,Bed1,Electric,Sockets,Current,0.000,MegaAmpere,2024-10-13 10:19:48
+CO@2_0_38,1910s Terrace Mid,Floor2,Bed1,Electric,Sockets,Power,0.000,Watt,2024-10-13 10:19:48
+CO@2_0_4,1910s Terrace Mid,Floor,Global,Electric,,AppPower,3082.300,Watt,2025-01-22 14:07:40
+CO@2_0_40,1910s Terrace Mid,Floor2,Bed1,Electric,Sockets,CumEnergy,0.000,Watt,2024-10-13 10:19:48
+CO@2_0_42,1910s Terrace Mid,Floor2,Bed2,Electric,Sockets,Control,1.000,,2025-01-09 16:50:20
+CO@2_0_43,1910s Terrace Mid,Floor2,Bed2,Electric,Sockets,Status,1.000,,2025-01-09 16:50:20
+CO@2_0_45,1910s Terrace Mid,Floor2,Bed2,Electric,Sockets,Current,3.096,MegaAmpere,2025-01-22 14:06:05
+CO@2_0_46,1910s Terrace Mid,Floor2,Bed2,Electric,Sockets,Power,750.780,Watt,2025-01-22 14:06:05
+CO@2_0_48,1910s Terrace Mid,Floor2,Bed2,Electric,Sockets,CumEnergy,177.000,Watt,2025-01-22 13:03:15
+CO@2_0_5,1910s Terrace Mid,Floor,Global,Electric,,ReacPower,-42.920,Watt,2024-11-29 12:03:35
+CO@2_0_6,1910s Terrace Mid,Floor,Global,Electric,,PowerFactor,0.653,Watt,2024-12-20 18:28:42
+CO@2_0_66,1910s Terrace Mid,Floor1,LivingRoom,Electric,Lights,Control,0.000,,2025-01-21 07:33:33
+CO@2_0_67,1910s Terrace Mid,Floor1,LivingRoom,Electric,Lights,Status,0.000,,2025-01-21 07:33:33
+CO@2_0_69,1910s Terrace Mid,Floor1,LivingRoom,Electric,Lights,Current,0.000,MegaAmpere,2025-01-21 07:33:37
+CO@2_0_7,1910s Terrace Mid,Floor,Global,Electric,,CumEnergy,1212.830,Watt,2024-12-21 04:48:07
+CO@2_0_70,1910s Terrace Mid,Floor1,LivingRoom,Electric,Lights,Power,0.000,Watt,2025-01-21 07:33:37
+CO@2_0_72,1910s Terrace Mid,Floor1,LivingRoom,Electric,Lights,CumEnergy,0.000,Watt,2024-07-22 14:25:16
+CO@2_0_74,1910s Terrace Mid,Floor1,Kitchen,Electric,Lights,Control,0.000,,2025-01-13 10:14:48
+CO@2_0_75,1910s Terrace Mid,Floor1,Kitchen,Electric,Lights,Status,0.000,,2025-01-13 10:14:49
+CO@2_0_77,1910s Terrace Mid,Floor1,Kitchen,Electric,Lights,Current,0.000,MegaAmpere,2025-01-13 10:14:53
+CO@2_0_78,1910s Terrace Mid,Floor1,Kitchen,Electric,Lights,Power,0.000,Watt,2025-01-13 10:14:53
+CO@2_0_8,1910s Terrace Mid,Floor,Global,Electric,,CumReactEnergy,5630.000,,2025-01-22 14:04:09
+CO@2_0_80,1910s Terrace Mid,Floor1,Kitchen,Electric,Lights,CumEnergy,1.000,Watt,2024-07-22 14:25:20
+CO@2_0_82,1910s Terrace Mid,Floor1,Hallway,Electric,Lights,Control,0.000,,2024-10-13 10:19:58
+CO@2_0_83,1910s Terrace Mid,Floor1,Hallway,Electric,Lights,Status,0.000,,2025-01-13 10:14:49
+CO@2_0_85,1910s Terrace Mid,Floor1,Hallway,Electric,Lights,Current,0.000,MegaAmpere,2025-01-13 10:14:53
+CO@2_0_86,1910s Terrace Mid,Floor1,Hallway,Electric,Lights,Power,0.000,Watt,2025-01-13 10:14:53
+CO@2_0_88,1910s Terrace Mid,Floor1,Hallway,Electric,Lights,CumEnergy,0.000,Watt,2024-07-22 14:25:21
+CO@2_0_9,1910s Terrace Mid,Floor,Global,Electric,,ACFrequency,49.840,,2024-12-21 04:35:10
+CO@2_1_11,1910s Terrace Mid,Floor1,Bathroom,Electric,Radiator,Current,0.000,MegaAmpere,2024-07-22 14:25:18
+CO@2_1_12,1910s Terrace Mid,Floor1,Bathroom,Electric,Radiator,Power,0.000,Watt,2024-07-22 14:25:18
+CO@2_1_14,1910s Terrace Mid,Floor1,Bathroom,Electric,Radiator,CumEnergy,0.000,Watt,2024-07-22 14:25:18
+CO@2_1_8,1910s Terrace Mid,Floor1,Bathroom,Electric,Radiator,Control,0.000,,2024-10-13 10:19:31
+CO@2_1_9,1910s Terrace Mid,Floor1,Bathroom,Electric,Radiator,Status,0.000,,2024-10-13 10:19:31
+CO@2_2_0,1910s Terrace Mid,Floor,Global,Gas,,Volume,304.900,m^3,2024-12-21 04:56:46
+CO@2_3_0,1910s Terrace Mid,Floor,Global,Water,Meter,Volume,324.800,m^3,2025-01-22 14:06:54
+CO@2_3_1,1910s Terrace Mid,Floor,Global,Water,Meter,Flow,0.000,,2024-12-21 04:56:47
+CO@2_3_10,1910s Terrace Mid,Floor1,Kitchen,Water,SinkCold,Temp,4.700,Celsius degrees,2025-01-02 03:29:12
+CO@2_3_11,1910s Terrace Mid,Floor1,Kitchen,Water,SinkHot,Volume,0.000,m^3,2025-01-13 09:53:54
+CO@2_3_12,1910s Terrace Mid,Floor1,Kitchen,Water,SinkHot,Flow,0.000,,2025-01-13 09:54:14
+CO@2_3_13,1910s Terrace Mid,Floor1,Kitchen,Water,SinkHot,Temp,6.600,Celsius degrees,2024-12-01 12:16:24
+CO@2_3_20,1910s Terrace Mid,Floor1,Bathroom,Water,SinkCold,Volume,0.000,m^3,2024-11-29 12:13:15
+CO@2_3_21,1910s Terrace Mid,Floor1,Bathroom,Water,SinkCold,Flow,0.000,,2024-12-15 17:06:21
+CO@2_3_22,1910s Terrace Mid,Floor1,Bathroom,Water,SinkCold,Temp,11.100,Celsius degrees,2025-01-19 09:33:55
+CO@2_3_23,1910s Terrace Mid,Floor1,Bathroom,Water,SinkHot,Volume,0.000,m^3,2025-01-07 12:59:24
+CO@2_3_24,1910s Terrace Mid,Floor1,Bathroom,Water,SinkHot,Flow,0.000,,2025-01-09 10:58:55
+CO@2_3_25,1910s Terrace Mid,Floor1,Bathroom,Water,SinkHot,Temp,10.700,Celsius degrees,2025-01-19 09:33:54
+CO@2_3_26,1910s Terrace Mid,Floor1,Bathroom,Water,BathCold,Volume,0.000,m^3,2024-11-25 09:51:26
+CO@2_3_27,1910s Terrace Mid,Floor1,Bathroom,Water,BathCold,Flow,0.000,,2024-11-25 09:51:28
+CO@2_3_28,1910s Terrace Mid,Floor1,Bathroom,Water,BathCold,Temp,2.200,Celsius degrees,2025-01-07 03:46:00
+CO@2_3_29,1910s Terrace Mid,Floor1,Bathroom,Water,BathHot,Volume,0.000,m^3,2024-11-25 09:51:16
+CO@2_3_30,1910s Terrace Mid,Floor1,Bathroom,Water,BathHot,Flow,0.000,,2024-11-25 09:51:24
+CO@2_3_31,1910s Terrace Mid,Floor1,Bathroom,Water,BathHot,Temp,10.800,Celsius degrees,2025-01-17 14:31:09
+CO@2_3_32,1910s Terrace Mid,Floor1,Bathroom,Water,ShowerCold,Volume,14.000,m^3,2024-07-30 13:54:21
+CO@2_3_33,1910s Terrace Mid,Floor1,Bathroom,Water,ShowerCold,Flow,0.000,,2024-09-06 12:38:02
+CO@2_3_34,1910s Terrace Mid,Floor1,Bathroom,Water,ShowerCold,Temp,11.800,Celsius degrees,2025-01-16 09:58:42
+CO@2_3_35,1910s Terrace Mid,Floor1,Bathroom,Water,ShowerHot,Volume,15.000,m^3,2024-07-30 13:54:27
+CO@2_3_36,1910s Terrace Mid,Floor1,Bathroom,Water,ShowerHot,Flow,0.000,,2024-09-06 12:37:56
+CO@2_3_37,1910s Terrace Mid,Floor1,Bathroom,Water,ShowerHot,Temp,6.500,Celsius degrees,2024-11-20 08:36:48
+CO@2_3_8,1910s Terrace Mid,Floor1,Kitchen,Water,SinkCold,Volume,0.000,m^3,2024-07-24 10:38:00
+CO@2_3_83,1910s Terrace Mid,Floor1,Bathroom,Water,ToiletCold,Volume,0.000,m^3,2025-01-09 10:58:33
+CO@2_3_84,1910s Terrace Mid,Floor1,Bathroom,Water,ToiletCold,Flow,0.000,,2025-01-22 13:56:12
+CO@2_3_85,1910s Terrace Mid,Floor1,Bathroom,Water,ToiletCold,Temp,4.400,Celsius degrees,2024-11-29 17:37:24
+CO@2_3_9,1910s Terrace Mid,Floor1,Kitchen,Water,SinkCold,Flow,0.000,,2024-07-24 10:38:00
+CO@2_4_0,1910s Terrace Mid,Floor1,LivingRoom,Other,,Temperature,21.960,Celsius degrees,2025-01-22 14:03:31
+CO@2_4_1,1910s Terrace Mid,Floor1,LivingRoom,Other,,Humidity,41.680,%,2025-01-22 14:03:21
+CO@2_4_10,1910s Terrace Mid,Floor1,Kitchen,Other,,Temperature,21.700,Celsius degrees,2025-01-22 14:03:33
+CO@2_4_11,1910s Terrace Mid,Floor1,Kitchen,Other,,Humidity,53.120,%,2024-12-21 04:52:30
+CO@2_4_12,1910s Terrace Mid,Floor1,Kitchen,Other,,CO2,336.960,Parts per million,2024-12-21 04:56:26
+CO@2_4_120,1910s Terrace Mid,Floor1,Bathroom,Other,,Temperature,18.740,Celsius degrees,2025-01-22 14:03:27
+CO@2_4_121,1910s Terrace Mid,Floor1,Bathroom,Other,,Humidity,52.200,%,2025-01-22 14:03:17
+CO@2_4_122,1910s Terrace Mid,Floor1,Bathroom,Other,,CO2,409.920,Parts per million,2025-01-22 14:03:27
+CO@2_4_123,1910s Terrace Mid,Floor1,Bathroom,Other,,Occupancy,0.000,,2025-01-15 09:39:43
+CO@2_4_124,1910s Terrace Mid,Floor1,Bathroom,Other,,Window1,0.000,,2023-11-28 15:11:08
+CO@2_4_127,1910s Terrace Mid,Floor1,Bathroom,Other,,Door1,0.000,,2025-01-09 10:58:58
+CO@2_4_13,1910s Terrace Mid,Floor1,Kitchen,Other,,Occupancy,0.000,,2024-11-29 13:15:41
+CO@2_4_14,1910s Terrace Mid,Floor1,Kitchen,Other,,Window1,1.000,,2025-01-07 10:49:56
+CO@2_4_158,1910s Terrace Mid,Floor1,Rear,Other,,Door1,1.000,,2024-12-17 11:29:41
+CO@2_4_2,1910s Terrace Mid,Floor1,LivingRoom,Other,,CO2,360.960,Parts per million,2025-01-22 14:03:31
+CO@2_4_20,1910s Terrace Mid,Floor1,Hallway,Other,,Temperature,,Celsius degrees,
+CO@2_4_27,1910s Terrace Mid,Floor1,Hallway,Other,,Door1,1.000,,2025-01-21 15:01:58
+CO@2_4_3,1910s Terrace Mid,Floor1,LivingRoom,Other,,Occupancy,0.000,,2025-01-22 14:04:03
+CO@2_4_4,1910s Terrace Mid,Floor1,LivingRoom,Other,,Window1,1.000,,2024-12-11 09:58:47
+CO@2_4_7,1910s Terrace Mid,Floor1,LivingRoom,Other,,Door1,0.000,,2024-06-14 11:29:04
+CO@2_4_70,1910s Terrace Mid,Floor2,Landing,Other,,Temperature,19.390,Celsius degrees,2025-01-22 14:05:32
+CO@2_4_80,1910s Terrace Mid,Floor2,Bed1,Other,,Temperature,15.150,Celsius degrees,2024-12-21 04:55:09
+CO@2_4_81,1910s Terrace Mid,Floor2,Bed1,Other,,Humidity,44.160,%,2025-01-22 14:03:23
+CO@2_4_82,1910s Terrace Mid,Floor2,Bed1,Other,,CO2,408.000,Parts per million,2025-01-22 14:03:33
+CO@2_4_83,1910s Terrace Mid,Floor2,Bed1,Other,,Occupancy,0.000,,2025-01-15 08:56:53
+CO@2_4_84,1910s Terrace Mid,Floor2,Bed1,Other,,Window1,1.000,,2025-01-07 10:51:54
+CO@2_4_87,1910s Terrace Mid,Floor2,Bed1,Other,,Door1,0.000,,2024-05-23 11:49:05
+CO@2_4_90,1910s Terrace Mid,Floor2,Bed2,Other,,Temperature,21.520,Celsius degrees,2025-01-22 14:03:31
+CO@2_4_91,1910s Terrace Mid,Floor2,Bed2,Other,,Humidity,43.520,%,2025-01-22 14:03:21
+CO@2_4_92,1910s Terrace Mid,Floor2,Bed2,Other,,CO2,293.920,Parts per million,2025-01-22 14:03:31
+CO@2_4_93,1910s Terrace Mid,Floor2,Bed2,Other,,Occupancy,0.000,,2025-01-22 07:56:55
+CO@2_4_94,1910s Terrace Mid,Floor2,Bed2,Other,,Window1,1.000,,2024-12-16 13:49:33
+CO@2_4_97,1910s Terrace Mid,Floor2,Bed2,Other,,Door1,0.000,,2024-05-21 12:08:25
+CO@2_5_0,1910s Terrace Mid,Floor,Global,HeatingControl,,HeatDemandPWM,0.000,,2025-01-22 14:07:04
+CO@2_5_10,1910s Terrace Mid,Floor1,Kitchen,HeatingControl,,Setpoint,21.000,,2025-01-08 10:10:50
+CO@2_5_11,1910s Terrace Mid,Floor1,Kitchen,HeatingControl,Setpoint,Status,21.000,,2025-01-08 10:10:50
+CO@2_5_13,1910s Terrace Mid,Floor1,Kitchen,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:07:10
+CO@2_5_14,1910s Terrace Mid,Floor1,Kitchen,HeatingControl,HeatDemand,Status,90.000,,2024-12-05 06:58:09
+CO@2_5_2,1910s Terrace Mid,Floor,Global,HeatingControl,HeatDemand,Status,1.000,,2024-12-05 06:57:41
+CO@2_5_200,1910s Terrace Mid,Floor,Global,HeatingControl,CentralSetpoint,Control,21.000,,2025-01-08 10:10:49
+CO@2_5_201,1910s Terrace Mid,Floor,Global,HeatingControl,CentralSetpoint,Status,21.000,,2025-01-08 10:10:50
+CO@2_5_202,1910s Terrace Mid,Floor,Global,HeatingControl,CentralOnOff,Control,1.000,,2025-01-16 12:23:38
+CO@2_5_203,1910s Terrace Mid,Floor,Global,HeatingControl,CentralOnOff,Status,,,
+CO@2_5_3,1910s Terrace Mid,Floor,Global,HeatingControl,HotWater,Control,0.000,,2024-10-13 10:19:17
+CO@2_5_4,1910s Terrace Mid,Floor,Global,HeatingControl,HotWater,Status,0.000,,2024-10-13 10:19:17
+CO@2_5_40,1910s Terrace Mid,Floor2,Bed1,HeatingControl,,Setpoint,18.000,,2024-11-22 15:42:38
+CO@2_5_41,1910s Terrace Mid,Floor2,Bed1,HeatingControl,Setpoint,Status,18.000,,2024-11-22 15:42:38
+CO@2_5_43,1910s Terrace Mid,Floor2,Bed1,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:07:10
+CO@2_5_44,1910s Terrace Mid,Floor2,Bed1,HeatingControl,HeatDemand,Status,0.000,,2024-11-29 22:58:07
+CO@2_5_45,1910s Terrace Mid,Floor2,Bed2,HeatingControl,,Setpoint,21.000,,2025-01-08 10:10:49
+CO@2_5_46,1910s Terrace Mid,Floor2,Bed2,HeatingControl,Setpoint,Status,21.000,,2025-01-08 10:10:49
+CO@2_5_48,1910s Terrace Mid,Floor2,Bed2,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:07:04
+CO@2_5_49,1910s Terrace Mid,Floor2,Bed2,HeatingControl,HeatDemand,Status,0.000,,2025-01-20 10:38:21
+CO@2_5_5,1910s Terrace Mid,Floor1,LivingRoom,HeatingControl,,Setpoint,21.000,,2025-01-08 10:10:49
+CO@2_5_6,1910s Terrace Mid,Floor1,LivingRoom,HeatingControl,Setpoint,Status,21.000,,2025-01-08 10:10:49
+CO@2_5_8,1910s Terrace Mid,Floor1,LivingRoom,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:07:10
+CO@2_5_9,1910s Terrace Mid,Floor1,LivingRoom,HeatingControl,HeatDemand,Status,90.000,,2024-12-05 06:58:14
+CO@3_0_1,1910s Terrace Right,Floor,Global,Electric,,Voltage,242.200,Volts,2025-01-22 06:44:32
+CO@3_0_10,1910s Terrace Right,Floor1,LivingRoom,Electric,Sockets,Control,1.000,,2025-01-09 16:50:45
+CO@3_0_11,1910s Terrace Right,Floor1,LivingRoom,Electric,Sockets,Status,1.000,,2025-01-09 16:50:45
+CO@3_0_122,1910s Terrace Right,Floor2,Landing,Electric,Lights,Control,0.000,,2024-10-13 10:18:15
+CO@3_0_123,1910s Terrace Right,Floor2,Landing,Electric,Lights,Status,0.000,,2024-10-13 10:18:16
+CO@3_0_125,1910s Terrace Right,Floor2,Landing,Electric,Lights,Current,0.000,MegaAmpere,2024-08-28 10:09:31
+CO@3_0_126,1910s Terrace Right,Floor2,Landing,Electric,Lights,Power,0.000,Watt,2024-08-28 10:09:31
+CO@3_0_128,1910s Terrace Right,Floor2,Landing,Electric,Lights,CumEnergy,0.000,Watt,2024-03-28 09:47:12
+CO@3_0_13,1910s Terrace Right,Floor1,LivingRoom,Electric,Sockets,Current,0.246,MegaAmpere,2025-01-22 14:07:20
+CO@3_0_130,1910s Terrace Right,Floor2,Bed1,Electric,Lights,Control,0.000,,2025-01-10 13:41:57
+CO@3_0_131,1910s Terrace Right,Floor2,Bed1,Electric,Lights,Status,0.000,,2025-01-10 13:41:57
+CO@3_0_133,1910s Terrace Right,Floor2,Bed1,Electric,Lights,Current,0.000,MegaAmpere,2025-01-10 13:42:01
+CO@3_0_134,1910s Terrace Right,Floor2,Bed1,Electric,Lights,Power,0.000,Watt,2025-01-10 13:42:01
+CO@3_0_136,1910s Terrace Right,Floor2,Bed1,Electric,Lights,CumEnergy,0.000,Watt,2024-03-28 09:47:02
+CO@3_0_138,1910s Terrace Right,Floor2,Bed2,Electric,Lights,Control,0.000,,2025-01-07 13:26:12
+CO@3_0_139,1910s Terrace Right,Floor2,Bed2,Electric,Lights,Status,0.000,,2025-01-07 13:26:12
+CO@3_0_14,1910s Terrace Right,Floor1,LivingRoom,Electric,Sockets,Power,59.581,Watt,2025-01-22 14:07:19
+CO@3_0_141,1910s Terrace Right,Floor2,Bed2,Electric,Lights,Current,0.000,MegaAmpere,2024-12-10 07:27:50
+CO@3_0_142,1910s Terrace Right,Floor2,Bed2,Electric,Lights,Power,0.000,Watt,2024-12-10 07:27:50
+CO@3_0_144,1910s Terrace Right,Floor2,Bed2,Electric,Lights,CumEnergy,0.000,Watt,2024-03-28 09:47:13
+CO@3_0_16,1910s Terrace Right,Floor1,LivingRoom,Electric,Sockets,CumEnergy,191.000,Watt,2025-01-21 12:04:08
+CO@3_0_162,1910s Terrace Right,Floor1,Bathroom,Electric,Lights,Control,0.000,,2024-12-11 08:22:27
+CO@3_0_163,1910s Terrace Right,Floor1,Bathroom,Electric,Lights,Status,0.000,,2024-12-11 08:22:26
+CO@3_0_165,1910s Terrace Right,Floor1,Bathroom,Electric,Lights,Current,0.000,MegaAmpere,2024-12-06 14:56:53
+CO@3_0_166,1910s Terrace Right,Floor1,Bathroom,Electric,Lights,Power,0.000,Watt,2024-12-06 14:56:53
+CO@3_0_168,1910s Terrace Right,Floor1,Bathroom,Electric,Lights,CumEnergy,0.000,Watt,2024-03-28 09:47:08
+CO@3_0_18,1910s Terrace Right,Floor1,Kitchen,Electric,Sockets,Control,1.000,,2025-01-09 16:50:49
+CO@3_0_19,1910s Terrace Right,Floor1,Kitchen,Electric,Sockets,Status,1.000,,2025-01-09 16:50:49
+CO@3_0_194,1910s Terrace Right,Floor,Global,Electric,Immersion,Control,,,
+CO@3_0_195,1910s Terrace Right,Floor,Global,Electric,Immersion,Status,,,
+CO@3_0_197,1910s Terrace Right,Floor,Global,Electric,Immersion,Current,,MegaAmpere,
+CO@3_0_198,1910s Terrace Right,Floor,Global,Electric,Immersion,Power,,Watt,
+CO@3_0_2,1910s Terrace Right,Floor,Global,Electric,,Current,0.553,MegaAmpere,2024-09-09 13:36:41
+CO@3_0_200,1910s Terrace Right,Floor,Global,Electric,Immersion,CumEnergy,,Watt,
+CO@3_0_202,1910s Terrace Right,Floor1,Kitchen,Electric,Hob,Control,0.000,,2024-10-13 10:19:03
+CO@3_0_203,1910s Terrace Right,Floor1,Kitchen,Electric,Hob,Status,0.000,,2024-10-13 10:19:03
+CO@3_0_205,1910s Terrace Right,Floor1,Kitchen,Electric,Hob,Current,0.000,MegaAmpere,2024-10-13 10:18:34
+CO@3_0_206,1910s Terrace Right,Floor1,Kitchen,Electric,Hob,Power,5.055,Watt,2025-01-09 15:10:54
+CO@3_0_208,1910s Terrace Right,Floor1,Kitchen,Electric,Hob,CumEnergy,29.000,Watt,2025-01-08 17:06:29
+CO@3_0_21,1910s Terrace Right,Floor1,Kitchen,Electric,Sockets,Current,0.000,MegaAmpere,2025-01-21 11:38:28
+CO@3_0_22,1910s Terrace Right,Floor1,Kitchen,Electric,Sockets,Power,0.000,Watt,2025-01-21 11:38:28
+CO@3_0_24,1910s Terrace Right,Floor1,Kitchen,Electric,Sockets,CumEnergy,1.000,Watt,2025-01-21 11:37:11
+CO@3_0_240,1910s Terrace Right,Floor,Global,Electric,Lights,ALL Control,0.000,,2025-01-11 13:09:15
+CO@3_0_241,1910s Terrace Right,Floor,Global,Electric,Sockets,All Control,1.000,,2024-03-14 09:19:02
+CO@3_0_3,1910s Terrace Right,Floor,Global,Electric,,Power,1722.530,Watt,2025-01-22 03:58:03
+CO@3_0_34,1910s Terrace Right,Floor2,Bed1,Electric,Sockets,Control,1.000,,2025-01-09 16:50:57
+CO@3_0_35,1910s Terrace Right,Floor2,Bed1,Electric,Sockets,Status,1.000,,2025-01-09 16:50:57
+CO@3_0_37,1910s Terrace Right,Floor2,Bed1,Electric,Sockets,Current,0.000,MegaAmpere,2024-03-28 09:47:03
+CO@3_0_38,1910s Terrace Right,Floor2,Bed1,Electric,Sockets,Power,0.000,Watt,2024-03-28 09:47:03
+CO@3_0_4,1910s Terrace Right,Floor,Global,Electric,,AppPower,1699.380,Watt,2025-01-22 14:07:39
+CO@3_0_40,1910s Terrace Right,Floor2,Bed1,Electric,Sockets,CumEnergy,0.000,Watt,2024-03-28 09:47:04
+CO@3_0_42,1910s Terrace Right,Floor2,Bed2,Electric,Sockets,Control,1.000,,2025-01-09 16:50:59
+CO@3_0_43,1910s Terrace Right,Floor2,Bed2,Electric,Sockets,Status,1.000,,2025-01-09 16:50:59
+CO@3_0_45,1910s Terrace Right,Floor2,Bed2,Electric,Sockets,Current,0.184,MegaAmpere,2025-01-22 14:07:41
+CO@3_0_46,1910s Terrace Right,Floor2,Bed2,Electric,Sockets,Power,44.565,Watt,2025-01-22 14:07:41
+CO@3_0_48,1910s Terrace Right,Floor2,Bed2,Electric,Sockets,CumEnergy,174.000,Watt,2025-01-21 18:07:45
+CO@3_0_5,1910s Terrace Right,Floor,Global,Electric,,ReacPower,-58.210,Watt,2024-09-10 14:24:13
+CO@3_0_6,1910s Terrace Right,Floor,Global,Electric,,PowerFactor,0.664,Watt,2024-12-21 04:06:36
+CO@3_0_66,1910s Terrace Right,Floor1,LivingRoom,Electric,Lights,Control,0.000,,2025-01-07 10:44:16
+CO@3_0_67,1910s Terrace Right,Floor1,LivingRoom,Electric,Lights,Status,0.000,,2025-01-07 10:44:16
+CO@3_0_69,1910s Terrace Right,Floor1,LivingRoom,Electric,Lights,Current,0.000,MegaAmpere,2025-01-07 10:44:20
+CO@3_0_7,1910s Terrace Right,Floor,Global,Electric,,CumEnergy,2202.740,Watt,2025-01-22 14:04:15
+CO@3_0_70,1910s Terrace Right,Floor1,LivingRoom,Electric,Lights,Power,0.000,Watt,2025-01-22 07:55:33
+CO@3_0_72,1910s Terrace Right,Floor1,LivingRoom,Electric,Lights,CumEnergy,0.000,Watt,2024-03-28 09:47:10
+CO@3_0_74,1910s Terrace Right,Floor1,Kitchen,Electric,Lights,Control,0.000,,2024-12-18 07:30:35
+CO@3_0_75,1910s Terrace Right,Floor1,Kitchen,Electric,Lights,Status,0.000,,2024-12-18 07:30:35
+CO@3_0_77,1910s Terrace Right,Floor1,Kitchen,Electric,Lights,Current,0.000,MegaAmpere,2024-12-18 07:30:39
+CO@3_0_78,1910s Terrace Right,Floor1,Kitchen,Electric,Lights,Power,0.000,Watt,2024-12-18 07:30:39
+CO@3_0_8,1910s Terrace Right,Floor,Global,Electric,,CumReactEnergy,30780.000,,2024-12-21 04:48:29
+CO@3_0_80,1910s Terrace Right,Floor1,Kitchen,Electric,Lights,CumEnergy,1.000,Watt,2024-05-23 12:54:31
+CO@3_0_82,1910s Terrace Right,Floor1,Hallway,Electric,Lights,Control,0.000,,2024-10-13 10:18:53
+CO@3_0_83,1910s Terrace Right,Floor1,Hallway,Electric,Lights,Status,0.000,,2024-12-18 07:30:35
+CO@3_0_85,1910s Terrace Right,Floor1,Hallway,Electric,Lights,Current,0.000,MegaAmpere,2024-12-18 07:30:39
+CO@3_0_86,1910s Terrace Right,Floor1,Hallway,Electric,Lights,Power,0.000,Watt,2024-12-18 07:30:39
+CO@3_0_88,1910s Terrace Right,Floor1,Hallway,Electric,Lights,CumEnergy,0.000,Watt,2024-03-28 09:47:02
+CO@3_0_9,1910s Terrace Right,Floor,Global,Electric,,ACFrequency,49.980,,2024-12-07 11:06:07
+CO@3_1_11,1910s Terrace Right,Floor1,Bathroom,Electric,Radiator,Current,0.000,MegaAmpere,2024-03-28 09:47:11
+CO@3_1_12,1910s Terrace Right,Floor1,Bathroom,Electric,Radiator,Power,0.000,Watt,2024-03-28 09:47:11
+CO@3_1_14,1910s Terrace Right,Floor1,Bathroom,Electric,Radiator,CumEnergy,0.000,Watt,2024-03-28 09:47:12
+CO@3_1_8,1910s Terrace Right,Floor1,Bathroom,Electric,Radiator,Control,0.000,,2024-10-13 10:17:36
+CO@3_1_9,1910s Terrace Right,Floor1,Bathroom,Electric,Radiator,Status,0.000,,2024-10-13 10:17:36
+CO@3_2_0,1910s Terrace Right,Floor,Global,Gas,,Volume,441.490,m^3,2025-01-22 14:02:35
+CO@3_3_0,1910s Terrace Right,Floor,Global,Water,Meter,Volume,390.100,m^3,2025-01-22 14:03:14
+CO@3_3_1,1910s Terrace Right,Floor,Global,Water,Meter,Flow,0.000,,2024-12-21 04:53:52
+CO@3_3_10,1910s Terrace Right,Floor1,Kitchen,Water,SinkCold,Temp,8.700,Celsius degrees,2025-01-21 12:59:24
+CO@3_3_11,1910s Terrace Right,Floor1,Kitchen,Water,SinkHot,Volume,0.000,m^3,2025-01-13 10:16:13
+CO@3_3_12,1910s Terrace Right,Floor1,Kitchen,Water,SinkHot,Flow,0.000,,2025-01-13 10:16:29
+CO@3_3_13,1910s Terrace Right,Floor1,Kitchen,Water,SinkHot,Temp,8.300,Celsius degrees,2025-01-20 05:31:14
+CO@3_3_140,1910s Terrace Right,,,WWHRS,PreHeat,Volume,824.000,m^3,2024-09-23 15:24:33
+CO@3_3_141,1910s Terrace Right,,,WWHRS,PreHeat,Flow,0.000,,2024-09-23 15:24:40
+CO@3_3_142,1910s Terrace Right,,,WWHRS,PreHeat,Temp,11.700,Celsius degrees,2025-01-14 17:45:52
+CO@3_3_143,1910s Terrace Right,,,WWHRS,ShowerMIX,Volume,1539.000,m^3,2024-09-23 15:24:37
+CO@3_3_144,1910s Terrace Right,,,WWHRS,ShowerMIX,Flow,0.000,,2024-09-23 15:24:43
+CO@3_3_145,1910s Terrace Right,,,WWHRS,ShowerMIX,Temp,12.800,Celsius degrees,2025-01-15 11:10:35
+CO@3_3_146,1910s Terrace Right,,,WWHRS,BathWaste,Temp,18.200,Celsius degrees,2025-01-22 14:07:08
+CO@3_3_147,1910s Terrace Right,,,WWHRS,Return,Volume,529.000,m^3,2024-09-19 13:15:33
+CO@3_3_148,1910s Terrace Right,,,WWHRS,Return,Flow,0.000,,2024-09-19 13:15:37
+CO@3_3_149,1910s Terrace Right,,,WWHRS,Return,Temp,9.900,Celsius degrees,2024-12-21 02:54:39
+CO@3_3_20,1910s Terrace Right,Floor1,Bathroom,Water,SinkCold,Volume,0.000,m^3,2025-01-09 12:20:36
+CO@3_3_21,1910s Terrace Right,Floor1,Bathroom,Water,SinkCold,Flow,0.000,,2025-01-09 12:20:52
+CO@3_3_22,1910s Terrace Right,Floor1,Bathroom,Water,SinkCold,Temp,13.100,Celsius degrees,2025-01-21 16:17:37
+CO@3_3_23,1910s Terrace Right,Floor1,Bathroom,Water,SinkHot,Volume,0.000,m^3,2025-01-07 13:00:46
+CO@3_3_24,1910s Terrace Right,Floor1,Bathroom,Water,SinkHot,Flow,0.000,,2025-01-07 13:01:00
+CO@3_3_25,1910s Terrace Right,Floor1,Bathroom,Water,SinkHot,Temp,13.600,Celsius degrees,2025-01-21 15:55:46
+CO@3_3_26,1910s Terrace Right,Floor1,Bathroom,Water,BathCold,Volume,0.000,m^3,2025-01-09 12:21:03
+CO@3_3_27,1910s Terrace Right,Floor1,Bathroom,Water,BathCold,Flow,0.000,,2025-01-09 12:21:05
+CO@3_3_28,1910s Terrace Right,Floor1,Bathroom,Water,BathCold,Temp,6.100,Celsius degrees,2024-12-21 03:56:21
+CO@3_3_29,1910s Terrace Right,Floor1,Bathroom,Water,BathHot,Volume,,m^3,
+CO@3_3_30,1910s Terrace Right,Floor1,Bathroom,Water,BathHot,Flow,0.000,,2024-09-06 12:17:32
+CO@3_3_31,1910s Terrace Right,Floor1,Bathroom,Water,BathHot,Temp,11.500,Celsius degrees,2025-01-22 12:52:33
+CO@3_3_32,1910s Terrace Right,Floor1,Bathroom,Water,ShowerCold,Volume,844.000,m^3,2024-09-23 15:24:28
+CO@3_3_33,1910s Terrace Right,Floor1,Bathroom,Water,ShowerCold,Flow,0.000,,2024-09-23 15:24:35
+CO@3_3_34,1910s Terrace Right,Floor1,Bathroom,Water,ShowerCold,Temp,9.900,Celsius degrees,2024-12-21 02:29:25
+CO@3_3_35,1910s Terrace Right,Floor1,Bathroom,Water,ShowerHot,Volume,686.000,m^3,2024-09-23 15:24:29
+CO@3_3_36,1910s Terrace Right,Floor1,Bathroom,Water,ShowerHot,Flow,0.000,,2024-09-23 15:24:41
+CO@3_3_37,1910s Terrace Right,Floor1,Bathroom,Water,ShowerHot,Temp,12.600,Celsius degrees,2025-01-21 14:06:33
+CO@3_3_8,1910s Terrace Right,Floor1,Kitchen,Water,SinkCold,Volume,0.000,m^3,2025-01-21 11:29:41
+CO@3_3_83,1910s Terrace Right,Floor1,Bathroom,Water,ToiletCold,Volume,0.000,m^3,2025-01-07 15:10:13
+CO@3_3_84,1910s Terrace Right,Floor1,Bathroom,Water,ToiletCold,Flow,0.000,,2025-01-07 15:10:20
+CO@3_3_85,1910s Terrace Right,Floor1,Bathroom,Water,ToiletCold,Temp,13.100,Celsius degrees,2025-01-22 12:44:44
+CO@3_3_9,1910s Terrace Right,Floor1,Kitchen,Water,SinkCold,Flow,0.000,,2025-01-21 11:29:45
+CO@3_4_0,1910s Terrace Right,Floor1,LivingRoom,Other,,Temperature,22.020,Celsius degrees,2025-01-22 14:03:52
+CO@3_4_1,1910s Terrace Right,Floor1,LivingRoom,Other,,Humidity,43.640,%,2025-01-22 14:03:42
+CO@3_4_10,1910s Terrace Right,Floor1,Kitchen,Other,,Temperature,18.690,Celsius degrees,2024-12-21 04:55:10
+CO@3_4_11,1910s Terrace Right,Floor1,Kitchen,Other,,Humidity,43.960,%,2025-01-22 14:03:41
+CO@3_4_12,1910s Terrace Right,Floor1,Kitchen,Other,,CO2,373.760,Parts per million,2025-01-22 14:03:51
+CO@3_4_120,1910s Terrace Right,Floor1,Bathroom,Other,,Temperature,18.850,Celsius degrees,2025-01-22 14:03:49
+CO@3_4_121,1910s Terrace Right,Floor1,Bathroom,Other,,Humidity,50.560,%,2024-12-21 04:52:31
+CO@3_4_122,1910s Terrace Right,Floor1,Bathroom,Other,,CO2,410.880,Parts per million,2024-12-21 04:55:11
+CO@3_4_123,1910s Terrace Right,Floor1,Bathroom,Other,,Occupancy,0.000,,2025-01-22 12:14:14
+CO@3_4_124,1910s Terrace Right,Floor1,Bathroom,Other,,Window1,0.000,,2024-03-07 13:36:59
+CO@3_4_127,1910s Terrace Right,Floor1,Bathroom,Other,,Door1,0.000,,2025-01-07 13:20:42
+CO@3_4_13,1910s Terrace Right,Floor1,Kitchen,Other,,Occupancy,0.000,,2025-01-22 13:37:27
+CO@3_4_14,1910s Terrace Right,Floor1,Kitchen,Other,,Window1,1.000,,2024-03-14 09:19:37
+CO@3_4_158,1910s Terrace Right,Floor1,Rear,Other,,Door1,,,
+CO@3_4_2,1910s Terrace Right,Floor1,LivingRoom,Other,,CO2,364.800,Parts per million,2025-01-22 14:03:52
+CO@3_4_20,1910s Terrace Right,Floor1,Hallway,Other,,Temperature,,Celsius degrees,
+CO@3_4_27,1910s Terrace Right,Floor1,Hallway,Other,,Door1,1.000,,2025-01-22 12:14:13
+CO@3_4_3,1910s Terrace Right,Floor1,LivingRoom,Other,,Occupancy,0.000,,2025-01-21 14:53:34
+CO@3_4_4,1910s Terrace Right,Floor1,LivingRoom,Other,,Window1,1.000,,2024-03-14 09:22:08
+CO@3_4_7,1910s Terrace Right,Floor1,LivingRoom,Other,,Door1,0.000,,2024-04-17 06:36:59
+CO@3_4_70,1910s Terrace Right,Floor2,Landing,Other,,Temperature,20.140,Celsius degrees,2025-01-22 14:05:29
+CO@3_4_80,1910s Terrace Right,Floor2,Bed1,Other,,Temperature,21.080,Celsius degrees,2025-01-22 14:03:49
+CO@3_4_81,1910s Terrace Right,Floor2,Bed1,Other,,Humidity,47.320,%,2025-01-22 14:03:39
+CO@3_4_82,1910s Terrace Right,Floor2,Bed1,Other,,CO2,524.800,Parts per million,2025-01-22 14:03:49
+CO@3_4_83,1910s Terrace Right,Floor2,Bed1,Other,,Occupancy,0.000,,2025-01-21 11:29:20
+CO@3_4_84,1910s Terrace Right,Floor2,Bed1,Other,,Window1,1.000,,2024-07-02 07:22:30
+CO@3_4_87,1910s Terrace Right,Floor2,Bed1,Other,,Door1,1.000,,2023-12-21 11:25:31
+CO@3_4_90,1910s Terrace Right,Floor2,Bed2,Other,,Temperature,17.120,Celsius degrees,2024-12-21 04:55:01
+CO@3_4_91,1910s Terrace Right,Floor2,Bed2,Other,,Humidity,46.680,%,2025-01-22 14:03:36
+CO@3_4_92,1910s Terrace Right,Floor2,Bed2,Other,,CO2,128.000,Parts per million,2024-12-21 04:55:01
+CO@3_4_93,1910s Terrace Right,Floor2,Bed2,Other,,Occupancy,,,
+CO@3_4_94,1910s Terrace Right,Floor2,Bed2,Other,,Window1,0.000,,2024-03-07 13:37:42
+CO@3_4_97,1910s Terrace Right,Floor2,Bed2,Other,,Door1,0.000,,2025-01-07 13:24:03
+CO@3_5_0,1910s Terrace Right,Floor,Global,HeatingControl,,HeatDemandPWM,0.000,,2025-01-22 14:07:24
+CO@3_5_10,1910s Terrace Right,Floor1,Kitchen,HeatingControl,,Setpoint,21.000,,2024-11-24 22:47:32
+CO@3_5_11,1910s Terrace Right,Floor1,Kitchen,HeatingControl,Setpoint,Status,21.000,,2024-11-24 22:47:32
+CO@3_5_13,1910s Terrace Right,Floor1,Kitchen,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:05:08
+CO@3_5_14,1910s Terrace Right,Floor1,Kitchen,HeatingControl,HeatDemand,Status,0.000,,2025-01-20 10:38:47
+CO@3_5_2,1910s Terrace Right,Floor,Global,HeatingControl,HeatDemand,Status,0.000,,2025-01-09 10:15:59
+CO@3_5_200,1910s Terrace Right,Floor,Global,HeatingControl,CentralSetpoint,Control,21.000,,2024-11-24 22:47:30
+CO@3_5_201,1910s Terrace Right,Floor,Global,HeatingControl,CentralSetpoint,Status,21.000,,2024-11-24 22:47:32
+CO@3_5_202,1910s Terrace Right,Floor,Global,HeatingControl,CentralOnOff,Control,1.000,,2024-12-20 22:57:20
+CO@3_5_203,1910s Terrace Right,Floor,Global,HeatingControl,CentralOnOff,Status,,,
+CO@3_5_3,1910s Terrace Right,Floor,Global,HeatingControl,HotWater,Control,0.000,,2024-10-13 10:17:21
+CO@3_5_4,1910s Terrace Right,Floor,Global,HeatingControl,HotWater,Status,0.000,,2024-10-13 10:17:21
+CO@3_5_40,1910s Terrace Right,Floor2,Bed1,HeatingControl,,Setpoint,18.000,,2024-11-22 15:43:19
+CO@3_5_41,1910s Terrace Right,Floor2,Bed1,HeatingControl,Setpoint,Status,18.000,,2024-11-22 15:43:19
+CO@3_5_43,1910s Terrace Right,Floor2,Bed1,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:05:08
+CO@3_5_44,1910s Terrace Right,Floor2,Bed1,HeatingControl,HeatDemand,Status,0.000,,2024-12-20 22:57:36
+CO@3_5_45,1910s Terrace Right,Floor2,Bed2,HeatingControl,,Setpoint,18.000,,2024-12-03 16:18:50
+CO@3_5_46,1910s Terrace Right,Floor2,Bed2,HeatingControl,Setpoint,Status,18.000,,2024-12-03 16:18:50
+CO@3_5_48,1910s Terrace Right,Floor2,Bed2,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:05:24
+CO@3_5_49,1910s Terrace Right,Floor2,Bed2,HeatingControl,HeatDemand,Status,15.000,,2024-12-05 07:57:43
+CO@3_5_5,1910s Terrace Right,Floor1,LivingRoom,HeatingControl,,Setpoint,21.000,,2024-11-24 22:47:32
+CO@3_5_6,1910s Terrace Right,Floor1,LivingRoom,HeatingControl,Setpoint,Status,21.000,,2024-11-24 22:47:32
+CO@3_5_8,1910s Terrace Right,Floor1,LivingRoom,HeatingControl,,HeatDemandPERC,0.000,,2024-12-21 04:57:15
+CO@3_5_9,1910s Terrace Right,Floor1,LivingRoom,HeatingControl,HeatDemand,Status,0.000,,2025-01-20 10:33:53
+CO@4_0_1,1930s Semi-Detached Left,Floor,Global,Electric,,Voltage,250.900,Volts,2024-12-20 22:17:22
+CO@4_0_10,1930s Semi-Detached Left,Floor1,LivingRoom,Electric,Sockets,Control,1.000,,2025-01-09 16:51:10
+CO@4_0_11,1930s Semi-Detached Left,Floor1,LivingRoom,Electric,Sockets,Status,1.000,,2025-01-09 16:51:10
+CO@4_0_122,1930s Semi-Detached Left,Floor2,Landing,Electric,Lights,Control,0.000,,2025-01-07 14:08:54
+CO@4_0_123,1930s Semi-Detached Left,Floor2,Landing,Electric,Lights,Status,0.000,,2025-01-07 14:08:54
+CO@4_0_125,1930s Semi-Detached Left,Floor2,Landing,Electric,Lights,Current,0.000,MegaAmpere,2024-11-05 09:13:56
+CO@4_0_126,1930s Semi-Detached Left,Floor2,Landing,Electric,Lights,Power,0.000,Watt,2024-11-05 09:13:56
+CO@4_0_128,1930s Semi-Detached Left,Floor2,Landing,Electric,Lights,CumEnergy,0.000,Watt,2024-11-05 09:13:56
+CO@4_0_13,1930s Semi-Detached Left,Floor1,LivingRoom,Electric,Sockets,Current,0.000,MegaAmpere,2025-01-09 16:51:15
+CO@4_0_130,1930s Semi-Detached Left,Floor2,Bed1,Electric,Lights,Control,0.000,,2025-01-07 14:04:51
+CO@4_0_131,1930s Semi-Detached Left,Floor2,Bed1,Electric,Lights,Status,0.000,,2025-01-07 14:04:51
+CO@4_0_133,1930s Semi-Detached Left,Floor2,Bed1,Electric,Lights,Current,0.000,MegaAmpere,2025-01-07 14:04:57
+CO@4_0_134,1930s Semi-Detached Left,Floor2,Bed1,Electric,Lights,Power,0.000,Watt,2025-01-07 14:04:57
+CO@4_0_136,1930s Semi-Detached Left,Floor2,Bed1,Electric,Lights,CumEnergy,0.000,Watt,2024-11-05 09:13:57
+CO@4_0_138,1930s Semi-Detached Left,Floor2,Bed2,Electric,Lights,Control,0.000,,2025-01-14 15:25:35
+CO@4_0_139,1930s Semi-Detached Left,Floor2,Bed2,Electric,Lights,Status,0.000,,2025-01-14 15:25:35
+CO@4_0_14,1930s Semi-Detached Left,Floor1,LivingRoom,Electric,Sockets,Power,0.000,Watt,2025-01-09 16:51:14
+CO@4_0_141,1930s Semi-Detached Left,Floor2,Bed2,Electric,Lights,Current,0.000,MegaAmpere,2025-01-14 15:25:39
+CO@4_0_142,1930s Semi-Detached Left,Floor2,Bed2,Electric,Lights,Power,0.000,Watt,2025-01-14 15:25:39
+CO@4_0_144,1930s Semi-Detached Left,Floor2,Bed2,Electric,Lights,CumEnergy,0.000,Watt,2024-11-05 09:13:57
+CO@4_0_146,1930s Semi-Detached Left,Floor2,Bed3,Electric,Lights,Control,0.000,,2024-11-21 13:31:37
+CO@4_0_147,1930s Semi-Detached Left,Floor2,Bed3,Electric,Lights,Status,0.000,,2024-11-21 13:31:37
+CO@4_0_149,1930s Semi-Detached Left,Floor2,Bed3,Electric,Lights,Current,0.000,MegaAmpere,2024-11-05 09:13:58
+CO@4_0_150,1930s Semi-Detached Left,Floor2,Bed3,Electric,Lights,Power,0.000,Watt,2024-11-05 09:13:58
+CO@4_0_152,1930s Semi-Detached Left,Floor2,Bed3,Electric,Lights,CumEnergy,0.000,Watt,2024-11-05 09:13:58
+CO@4_0_16,1930s Semi-Detached Left,Floor1,LivingRoom,Electric,Sockets,CumEnergy,0.000,Watt,2025-01-09 16:51:15
+CO@4_0_162,1930s Semi-Detached Left,Floor2,Bathroom,Electric,Lights,Control,0.000,,2025-01-09 13:49:40
+CO@4_0_163,1930s Semi-Detached Left,Floor2,Bathroom,Electric,Lights,Status,0.000,,2024-11-18 14:36:42
+CO@4_0_165,1930s Semi-Detached Left,Floor2,Bathroom,Electric,Lights,Current,0.000,MegaAmpere,2024-11-05 09:13:58
+CO@4_0_166,1930s Semi-Detached Left,Floor2,Bathroom,Electric,Lights,Power,0.000,Watt,2024-11-05 09:13:58
+CO@4_0_168,1930s Semi-Detached Left,Floor2,Bathroom,Electric,Lights,CumEnergy,0.000,Watt,2024-11-05 09:13:58
+CO@4_0_170,1930s Semi-Detached Left,Floor2,WCFF,Electric,Lights,Control,0.000,,2024-11-12 16:39:36
+CO@4_0_171,1930s Semi-Detached Left,Floor2,WCFF,Electric,Lights,Status,0.000,,2024-11-18 14:36:46
+CO@4_0_173,1930s Semi-Detached Left,Floor2,WCFF,Electric,Lights,Current,0.000,MegaAmpere,2024-11-18 14:36:50
+CO@4_0_174,1930s Semi-Detached Left,Floor2,WCFF,Electric,Lights,Power,0.000,Watt,2024-11-18 14:36:50
+CO@4_0_176,1930s Semi-Detached Left,Floor2,WCFF,Electric,Lights,CumEnergy,0.000,Watt,2024-11-05 09:13:58
+CO@4_0_18,1930s Semi-Detached Left,Floor1,Kitchen,Electric,Sockets,Control,1.000,,2025-01-09 16:51:14
+CO@4_0_19,1930s Semi-Detached Left,Floor1,Kitchen,Electric,Sockets,Status,1.000,,2025-01-09 16:51:14
+CO@4_0_194,1930s Semi-Detached Left,Floor,Global,Electric,Immersion,Control,,,
+CO@4_0_195,1930s Semi-Detached Left,Floor,Global,Electric,Immersion,Status,,,
+CO@4_0_197,1930s Semi-Detached Left,Floor,Global,Electric,Immersion,Current,,MegaAmpere,
+CO@4_0_198,1930s Semi-Detached Left,Floor,Global,Electric,Immersion,Power,,Watt,
+CO@4_0_2,1930s Semi-Detached Left,Floor,Global,Electric,,Current,0.509,MegaAmpere,2024-11-05 09:14:09
+CO@4_0_200,1930s Semi-Detached Left,Floor,Global,Electric,Immersion,CumEnergy,,Watt,
+CO@4_0_202,1930s Semi-Detached Left,Floor1,Kitchen,Electric,Hob,Control,1.000,,2024-11-18 14:23:37
+CO@4_0_203,1930s Semi-Detached Left,Floor1,Kitchen,Electric,Hob,Status,1.000,,2024-11-05 09:13:51
+CO@4_0_204,1930s Semi-Detached Left,Floor1,Kitchen,Electric,Hob,Voltage,,Volts,
+CO@4_0_205,1930s Semi-Detached Left,Floor1,Kitchen,Electric,Hob,Current,0.022,MegaAmpere,2025-01-13 13:37:53
+CO@4_0_206,1930s Semi-Detached Left,Floor1,Kitchen,Electric,Hob,Power,5.186,Watt,2025-01-17 11:20:25
+CO@4_0_208,1930s Semi-Detached Left,Floor1,Kitchen,Electric,Hob,CumEnergy,32.000,Watt,2024-12-14 11:39:11
+CO@4_0_21,1930s Semi-Detached Left,Floor1,Kitchen,Electric,Sockets,Current,0.000,MegaAmpere,2024-11-05 09:13:54
+CO@4_0_22,1930s Semi-Detached Left,Floor1,Kitchen,Electric,Sockets,Power,0.000,Watt,2024-11-05 09:13:54
+CO@4_0_24,1930s Semi-Detached Left,Floor1,Kitchen,Electric,Sockets,CumEnergy,0.000,Watt,2024-11-05 09:13:54
+CO@4_0_240,1930s Semi-Detached Left,Floor,Global,Electric,Lights,ALL Control,0.000,,2024-11-18 14:36:41
+CO@4_0_241,1930s Semi-Detached Left,Floor,Global,Electric,Sockets,All Control,1.000,,2024-11-18 14:36:56
+CO@4_0_26,1930s Semi-Detached Left,Floor1,DiningRoom,Electric,Sockets,Control,1.000,,2025-01-09 16:51:18
+CO@4_0_27,1930s Semi-Detached Left,Floor1,DiningRoom,Electric,Sockets,Status,1.000,,2025-01-09 16:51:18
+CO@4_0_29,1930s Semi-Detached Left,Floor1,DiningRoom,Electric,Sockets,Current,0.000,MegaAmpere,2025-01-09 16:51:22
+CO@4_0_3,1930s Semi-Detached Left,Floor,Global,Electric,,Power,5244.740,Watt,2025-01-22 14:07:38
+CO@4_0_30,1930s Semi-Detached Left,Floor1,DiningRoom,Electric,Sockets,Power,0.000,Watt,2025-01-09 16:51:22
+CO@4_0_32,1930s Semi-Detached Left,Floor1,DiningRoom,Electric,Sockets,CumEnergy,0.000,Watt,2025-01-09 16:51:22
+CO@4_0_34,1930s Semi-Detached Left,Floor2,Bed1,Electric,Sockets,Control,1.000,,2025-01-11 13:09:31
+CO@4_0_35,1930s Semi-Detached Left,Floor2,Bed1,Electric,Sockets,Status,1.000,,2025-01-09 16:51:28
+CO@4_0_37,1930s Semi-Detached Left,Floor2,Bed1,Electric,Sockets,Current,0.000,MegaAmpere,2024-11-21 13:31:54
+CO@4_0_38,1930s Semi-Detached Left,Floor2,Bed1,Electric,Sockets,Power,0.000,Watt,2024-11-21 13:31:54
+CO@4_0_4,1930s Semi-Detached Left,Floor,Global,Electric,,AppPower,5230.390,Watt,2025-01-22 14:07:45
+CO@4_0_40,1930s Semi-Detached Left,Floor2,Bed1,Electric,Sockets,CumEnergy,0.000,Watt,2024-11-21 13:31:54
+CO@4_0_42,1930s Semi-Detached Left,Floor2,Bed2,Electric,Sockets,Control,1.000,,2025-01-09 16:51:30
+CO@4_0_43,1930s Semi-Detached Left,Floor2,Bed2,Electric,Sockets,Status,1.000,,2025-01-09 16:51:30
+CO@4_0_45,1930s Semi-Detached Left,Floor2,Bed2,Electric,Sockets,Current,0.000,MegaAmpere,2025-01-09 16:51:34
+CO@4_0_46,1930s Semi-Detached Left,Floor2,Bed2,Electric,Sockets,Power,0.000,Watt,2025-01-09 16:51:34
+CO@4_0_48,1930s Semi-Detached Left,Floor2,Bed2,Electric,Sockets,CumEnergy,0.000,Watt,2025-01-09 16:51:34
+CO@4_0_5,1930s Semi-Detached Left,Floor,Global,Electric,,ReacPower,-40.250,Watt,2024-11-05 09:14:08
+CO@4_0_50,1930s Semi-Detached Left,Floor2,Bed3,Electric,Sockets,Control,1.000,,2025-01-09 16:51:32
+CO@4_0_51,1930s Semi-Detached Left,Floor2,Bed3,Electric,Sockets,Status,1.000,,2025-01-09 16:51:33
+CO@4_0_53,1930s Semi-Detached Left,Floor2,Bed3,Electric,Sockets,Current,0.000,MegaAmpere,2024-11-21 13:31:42
+CO@4_0_54,1930s Semi-Detached Left,Floor2,Bed3,Electric,Sockets,Power,0.000,Watt,2024-11-21 13:31:41
+CO@4_0_56,1930s Semi-Detached Left,Floor2,Bed3,Electric,Sockets,CumEnergy,0.000,Watt,2024-11-21 13:31:42
+CO@4_0_6,1930s Semi-Detached Left,Floor,Global,Electric,,PowerFactor,0.659,Watt,2024-12-20 22:58:05
+CO@4_0_66,1930s Semi-Detached Left,Floor1,LivingRoom,Electric,Lights,Control,0.000,,2024-12-17 08:34:51
+CO@4_0_67,1930s Semi-Detached Left,Floor1,LivingRoom,Electric,Lights,Status,0.000,,2024-12-17 08:34:51
+CO@4_0_69,1930s Semi-Detached Left,Floor1,LivingRoom,Electric,Lights,Current,0.000,MegaAmpere,2024-12-17 08:34:55
+CO@4_0_7,1930s Semi-Detached Left,Floor,Global,Electric,,CumEnergy,2660.220,Watt,2025-01-22 14:03:58
+CO@4_0_70,1930s Semi-Detached Left,Floor1,LivingRoom,Electric,Lights,Power,0.000,Watt,2024-12-17 08:34:55
+CO@4_0_72,1930s Semi-Detached Left,Floor1,LivingRoom,Electric,Lights,CumEnergy,0.000,Watt,2024-11-05 09:13:55
+CO@4_0_74,1930s Semi-Detached Left,Floor1,Kitchen,Electric,Lights,Control,0.000,,2024-12-17 07:41:16
+CO@4_0_75,1930s Semi-Detached Left,Floor1,Kitchen,Electric,Lights,Status,0.000,,2025-01-07 08:13:25
+CO@4_0_77,1930s Semi-Detached Left,Floor1,Kitchen,Electric,Lights,Current,0.000,MegaAmpere,2025-01-07 08:13:29
+CO@4_0_78,1930s Semi-Detached Left,Floor1,Kitchen,Electric,Lights,Power,0.000,Watt,2025-01-07 08:13:29
+CO@4_0_8,1930s Semi-Detached Left,Floor,Global,Electric,,CumReactEnergy,1560.000,,2025-01-22 14:03:58
+CO@4_0_80,1930s Semi-Detached Left,Floor1,Kitchen,Electric,Lights,CumEnergy,1.000,Watt,2024-11-05 09:13:55
+CO@4_0_82,1930s Semi-Detached Left,Floor1,Hallway,Electric,Lights,Control,0.000,,2025-01-07 09:27:22
+CO@4_0_83,1930s Semi-Detached Left,Floor1,Hallway,Electric,Lights,Status,0.000,,2025-01-07 09:27:22
+CO@4_0_85,1930s Semi-Detached Left,Floor1,Hallway,Electric,Lights,Current,0.000,MegaAmpere,2025-01-07 09:27:26
+CO@4_0_86,1930s Semi-Detached Left,Floor1,Hallway,Electric,Lights,Power,0.000,Watt,2025-01-07 09:27:26
+CO@4_0_88,1930s Semi-Detached Left,Floor1,Hallway,Electric,Lights,CumEnergy,1.000,Watt,2024-11-05 09:13:56
+CO@4_0_9,1930s Semi-Detached Left,Floor,Global,Electric,,ACFrequency,50.100,,2025-01-22 12:54:56
+CO@4_0_90,1930s Semi-Detached Left,Floor1,DiningRoom,Electric,Lights,Control,0.000,,2025-01-14 15:20:35
+CO@4_0_91,1930s Semi-Detached Left,Floor1,DiningRoom,Electric,Lights,Status,0.000,,2025-01-14 15:20:35
+CO@4_0_93,1930s Semi-Detached Left,Floor1,DiningRoom,Electric,Lights,Current,0.000,MegaAmpere,2025-01-14 15:20:39
+CO@4_0_94,1930s Semi-Detached Left,Floor1,DiningRoom,Electric,Lights,Power,0.000,Watt,2025-01-14 15:20:39
+CO@4_0_96,1930s Semi-Detached Left,Floor1,DiningRoom,Electric,Lights,CumEnergy,0.000,Watt,2024-11-05 09:13:56
+CO@4_1_11,1930s Semi-Detached Left,Floor2,Bathroom,Electric,Radiator,Current,0.000,MegaAmpere,2024-07-23 10:16:41
+CO@4_1_12,1930s Semi-Detached Left,Floor2,Bathroom,Electric,Radiator,Power,0.000,Watt,2024-07-23 10:16:41
+CO@4_1_14,1930s Semi-Detached Left,Floor2,Bathroom,Electric,Radiator,CumEnergy,228.000,Watt,2024-07-23 10:16:41
+CO@4_1_8,1930s Semi-Detached Left,Floor2,Bathroom,Electric,Radiator,Control,0.000,,2024-10-13 10:15:56
+CO@4_1_9,1930s Semi-Detached Left,Floor2,Bathroom,Electric,Radiator,Status,0.000,,2024-10-13 10:15:56
+CO@4_2_0,1930s Semi-Detached Left,Floor,Global,Gas,,Volume,698.010,m^3,2025-01-22 14:03:11
+CO@4_3_0,1930s Semi-Detached Left,Floor,Global,Water,Meter,Volume,326.900,m^3,2024-12-21 04:54:09
+CO@4_3_1,1930s Semi-Detached Left,Floor,Global,Water,Meter,Flow,0.000,,2024-12-21 04:54:09
+CO@4_3_10,1930s Semi-Detached Left,Floor1,Kitchen,Water,SinkCold,Temp,6.400,Celsius degrees,2024-11-24 09:17:22
+CO@4_3_11,1930s Semi-Detached Left,Floor1,Kitchen,Water,SinkHot,Volume,0.000,m^3,2024-10-31 07:59:22
+CO@4_3_12,1930s Semi-Detached Left,Floor1,Kitchen,Water,SinkHot,Flow,0.000,,2024-11-12 16:38:49
+CO@4_3_13,1930s Semi-Detached Left,Floor1,Kitchen,Water,SinkHot,Temp,5.000,Celsius degrees,2024-11-27 02:59:59
+CO@4_3_140,1930s Semi-Detached Left,,,WWHRS,MainCold,Volume,893.000,m^3,2024-09-19 14:53:24
+CO@4_3_141,1930s Semi-Detached Left,,,WWHRS,MainCold,Flow,0.000,,2024-09-19 14:53:28
+CO@4_3_142,1930s Semi-Detached Left,,,WWHRS,MainCold,Temp,12.400,Celsius degrees,2025-01-22 14:07:27
+CO@4_3_143,1930s Semi-Detached Left,,,WWHRS,PreHeat,Volume,438.000,m^3,2024-09-19 14:44:54
+CO@4_3_144,1930s Semi-Detached Left,,,WWHRS,PreHeat,Flow,0.000,,2024-09-19 14:45:08
+CO@4_3_145,1930s Semi-Detached Left,,,WWHRS,PreHeat,Temp,12.700,Celsius degrees,2025-01-22 14:07:27
+CO@4_3_146,1930s Semi-Detached Left,,,WWHRS,ShowerMIX,Volume,1605.000,m^3,2024-09-19 15:03:42
+CO@4_3_147,1930s Semi-Detached Left,,,WWHRS,ShowerMIX,Flow,0.000,,2024-09-19 15:03:53
+CO@4_3_148,1930s Semi-Detached Left,,,WWHRS,ShowerMIX,Temp,13.700,Celsius degrees,2025-01-22 14:05:59
+CO@4_3_149,1930s Semi-Detached Left,,,WWHRS,ShowerHOT,Volume,720.000,m^3,2024-09-19 15:03:43
+CO@4_3_150,1930s Semi-Detached Left,,,WWHRS,ShowerHOT,Flow,0.000,,2024-09-19 15:03:56
+CO@4_3_151,1930s Semi-Detached Left,,,WWHRS,ShowerHOT,Temp,8.700,Celsius degrees,2024-12-21 04:48:51
+CO@4_3_152,1930s Semi-Detached Left,,,WWHRS,BathWaste,Temp,16.900,Celsius degrees,2025-01-22 14:07:08
+CO@4_3_20,1930s Semi-Detached Left,Floor2,Bathroom,Water,SinkCold,Volume,0.000,m^3,2024-09-19 08:57:06
+CO@4_3_21,1930s Semi-Detached Left,Floor2,Bathroom,Water,SinkCold,Flow,0.000,,2024-09-19 08:57:28
+CO@4_3_22,1930s Semi-Detached Left,Floor2,Bathroom,Water,SinkCold,Temp,6.800,Celsius degrees,2024-11-30 03:37:33
+CO@4_3_23,1930s Semi-Detached Left,Floor2,Bathroom,Water,SinkHot,Volume,0.000,m^3,2024-11-29 13:01:30
+CO@4_3_24,1930s Semi-Detached Left,Floor2,Bathroom,Water,SinkHot,Flow,0.000,,2024-11-29 13:01:34
+CO@4_3_25,1930s Semi-Detached Left,Floor2,Bathroom,Water,SinkHot,Temp,7.200,Celsius degrees,2024-11-26 15:06:03
+CO@4_3_26,1930s Semi-Detached Left,Floor2,Bathroom,Water,BathCold,Volume,0.000,m^3,2024-09-19 08:57:25
+CO@4_3_27,1930s Semi-Detached Left,Floor2,Bathroom,Water,BathCold,Flow,0.000,,2024-10-31 07:39:50
+CO@4_3_28,1930s Semi-Detached Left,Floor2,Bathroom,Water,BathCold,Temp,7.100,Celsius degrees,2024-11-30 01:32:52
+CO@4_3_29,1930s Semi-Detached Left,Floor2,Bathroom,Water,BathHot,Volume,0.000,m^3,2024-10-30 14:38:10
+CO@4_3_30,1930s Semi-Detached Left,Floor2,Bathroom,Water,BathHot,Flow,0.000,,2024-10-30 14:38:07
+CO@4_3_31,1930s Semi-Detached Left,Floor2,Bathroom,Water,BathHot,Temp,10.800,Celsius degrees,2025-01-14 19:08:26
+CO@4_3_32,1930s Semi-Detached Left,Floor2,Bathroom,Water,ShowerCold,Volume,,m^3,
+CO@4_3_33,1930s Semi-Detached Left,Floor2,Bathroom,Water,ShowerCold,Flow,,,
+CO@4_3_34,1930s Semi-Detached Left,Floor2,Bathroom,Water,ShowerCold,Temp,,Celsius degrees,
+CO@4_3_35,1930s Semi-Detached Left,Floor2,Bathroom,Water,ShowerHot,Volume,,m^3,
+CO@4_3_36,1930s Semi-Detached Left,Floor2,Bathroom,Water,ShowerHot,Flow,,,
+CO@4_3_37,1930s Semi-Detached Left,Floor2,Bathroom,Water,ShowerHot,Temp,,Celsius degrees,
+CO@4_3_8,1930s Semi-Detached Left,Floor1,Kitchen,Water,SinkCold,Volume,0.000,m^3,2025-01-13 09:55:22
+CO@4_3_83,1930s Semi-Detached Left,Floor2,Bathroom,Water,ToiletCold,Volume,0.000,m^3,2024-12-18 10:19:50
+CO@4_3_84,1930s Semi-Detached Left,Floor2,Bathroom,Water,ToiletCold,Flow,0.000,,2024-12-18 10:19:58
+CO@4_3_85,1930s Semi-Detached Left,Floor2,Bathroom,Water,ToiletCold,Temp,12.700,Celsius degrees,2025-01-20 16:39:44
+CO@4_3_9,1930s Semi-Detached Left,Floor1,Kitchen,Water,SinkCold,Flow,0.000,,2025-01-13 09:55:34
+CO@4_4_0,1930s Semi-Detached Left,Floor1,LivingRoom,Other,,Temperature,21.600,Celsius degrees,2025-01-22 14:04:11
+CO@4_4_1,1930s Semi-Detached Left,Floor1,LivingRoom,Other,,Humidity,47.760,%,2024-12-21 04:54:33
+CO@4_4_10,1930s Semi-Detached Left,Floor1,Kitchen,Other,,Temperature,22.380,Celsius degrees,2025-01-22 14:04:16
+CO@4_4_100,1930s Semi-Detached Left,Floor2,Bed3,Other,,Temperature,21.300,Celsius degrees,2024-12-21 04:54:45
+CO@4_4_101,1930s Semi-Detached Left,Floor2,Bed3,Other,,Humidity,29.880,%,2025-01-22 14:03:58
+CO@4_4_102,1930s Semi-Detached Left,Floor2,Bed3,Other,,CO2,376.960,Parts per million,2025-01-22 14:04:08
+CO@4_4_104,1930s Semi-Detached Left,Floor2,Bed3,Other,,Window1,1.000,,2024-11-20 12:21:13
+CO@4_4_107,1930s Semi-Detached Left,Floor2,Bed3,Other,,Door1,0.000,,2024-08-13 11:59:18
+CO@4_4_11,1930s Semi-Detached Left,Floor1,Kitchen,Other,,Humidity,44.320,%,2024-12-21 04:54:48
+CO@4_4_12,1930s Semi-Detached Left,Floor1,Kitchen,Other,,CO2,276.960,Parts per million,2025-01-22 14:04:16
+CO@4_4_124,1930s Semi-Detached Left,Floor2,Bathroom,Other,,Window1,1.000,,2024-10-30 16:11:30
+CO@4_4_127,1930s Semi-Detached Left,Floor2,Bathroom,Other,,Door1,0.000,,2024-10-24 09:22:28
+CO@4_4_13,1930s Semi-Detached Left,Floor1,Kitchen,Other,,Occupancy,0.000,,2024-12-05 07:45:45
+CO@4_4_14,1930s Semi-Detached Left,Floor1,Kitchen,Other,,Window1,1.000,,2024-11-20 12:21:12
+CO@4_4_17,1930s Semi-Detached Left,Floor1,Kitchen,Other,,Door1,0.000,,2024-12-17 07:40:57
+CO@4_4_18,1930s Semi-Detached Left,Floor1,Kitchen,Other,,Door2,1.000,,2024-11-20 12:20:25
+CO@4_4_2,1930s Semi-Detached Left,Floor1,LivingRoom,Other,,CO2,224.000,Parts per million,2025-01-22 14:04:11
+CO@4_4_20,1930s Semi-Detached Left,Floor1,Hallway,Other,,Temperature,19.660,Celsius degrees,2024-12-21 04:57:16
+CO@4_4_27,1930s Semi-Detached Left,Floor1,Hallway,Other,,Door1,1.000,,2024-11-22 15:36:51
+CO@4_4_3,1930s Semi-Detached Left,Floor1,LivingRoom,Other,,Occupancy,0.000,,2025-01-22 08:04:27
+CO@4_4_30,1930s Semi-Detached Left,Floor1,DiningRoom,Other,,Temperature,21.580,Celsius degrees,2025-01-22 14:04:13
+CO@4_4_31,1930s Semi-Detached Left,Floor1,DiningRoom,Other,,Humidity,38.720,%,2025-01-22 14:04:03
+CO@4_4_32,1930s Semi-Detached Left,Floor1,DiningRoom,Other,,CO2,312.960,Parts per million,2024-12-21 04:57:20
+CO@4_4_33,1930s Semi-Detached Left,Floor1,DiningRoom,Other,,Occupancy,0.000,,2024-11-22 15:37:00
+CO@4_4_34,1930s Semi-Detached Left,Floor1,DiningRoom,Other,,Window1,1.000,,2024-11-20 12:21:12
+CO@4_4_37,1930s Semi-Detached Left,Floor1,DiningRoom,Other,,Door1,0.000,,2024-09-24 07:05:33
+CO@4_4_4,1930s Semi-Detached Left,Floor1,LivingRoom,Other,,Window1,1.000,,2024-11-20 12:21:12
+CO@4_4_64,1930s Semi-Detached Left,Floor1,WC,Other,,Window1,1.000,,2024-10-30 16:11:30
+CO@4_4_67,1930s Semi-Detached Left,Floor1,WC,Other,,Door1,0.000,,2025-01-09 13:29:16
+CO@4_4_7,1930s Semi-Detached Left,Floor1,LivingRoom,Other,,Door1,0.000,,2024-09-20 08:30:34
+CO@4_4_70,1930s Semi-Detached Left,Floor2,Landing,Other,,Temperature,20.560,Celsius degrees,2025-01-22 14:05:33
+CO@4_4_80,1930s Semi-Detached Left,Floor2,Bed1,Other,,Temperature,24.760,Celsius degrees,2025-01-22 14:07:12
+CO@4_4_81,1930s Semi-Detached Left,Floor2,Bed1,Other,,Humidity,32.220,%,2025-01-22 14:04:02
+CO@4_4_82,1930s Semi-Detached Left,Floor2,Bed1,Other,,CO2,313.920,Parts per million,2024-12-21 04:52:38
+CO@4_4_83,1930s Semi-Detached Left,Floor2,Bed1,Other,,Occupancy,0.000,,2024-11-22 09:30:48
+CO@4_4_84,1930s Semi-Detached Left,Floor2,Bed1,Other,,Window1,1.000,,2024-11-20 12:21:12
+CO@4_4_87,1930s Semi-Detached Left,Floor2,Bed1,Other,,Door1,0.000,,2024-08-13 11:59:13
+CO@4_4_90,1930s Semi-Detached Left,Floor2,Bed2,Other,,Temperature,21.480,Celsius degrees,2025-01-22 14:04:09
+CO@4_4_91,1930s Semi-Detached Left,Floor2,Bed2,Other,,Humidity,48.080,%,2024-12-21 04:54:30
+CO@4_4_92,1930s Semi-Detached Left,Floor2,Bed2,Other,,CO2,310.880,Parts per million,2025-01-22 14:04:09
+CO@4_4_93,1930s Semi-Detached Left,Floor2,Bed2,Other,,Occupancy,0.000,,2025-01-03 10:52:03
+CO@4_4_94,1930s Semi-Detached Left,Floor2,Bed2,Other,,Window1,1.000,,2024-11-20 12:21:12
+CO@4_4_97,1930s Semi-Detached Left,Floor2,Bed2,Other,,Door1,0.000,,2025-01-07 14:05:38
+CO@4_5_0,1930s Semi-Detached Left,Floor,Global,HeatingControl,,HeatDemandPWM,0.000,,2024-12-21 04:57:20
+CO@4_5_10,1930s Semi-Detached Left,Floor1,Kitchen,HeatingControl,,Setpoint,21.000,,2024-11-29 12:47:51
+CO@4_5_11,1930s Semi-Detached Left,Floor1,Kitchen,HeatingControl,Setpoint,Status,21.000,,2024-11-29 12:47:51
+CO@4_5_13,1930s Semi-Detached Left,Floor1,Kitchen,HeatingControl,,HeatDemandPERC,0.000,,2024-12-21 04:57:04
+CO@4_5_14,1930s Semi-Detached Left,Floor1,Kitchen,HeatingControl,HeatDemand,Status,0.000,,2024-12-21 04:57:19
+CO@4_5_15,1930s Semi-Detached Left,Floor1,Hallway,HeatingControl,,Setpoint,21.000,,2025-01-07 13:36:48
+CO@4_5_16,1930s Semi-Detached Left,Floor1,Hallway,HeatingControl,Setpoint,Status,18.000,,2024-11-21 13:16:54
+CO@4_5_18,1930s Semi-Detached Left,Floor1,Hallway,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:05:44
+CO@4_5_19,1930s Semi-Detached Left,Floor1,Hallway,HeatingControl,HeatDemand,Status,0.000,,2025-01-22 14:07:43
+CO@4_5_2,1930s Semi-Detached Left,Floor,Global,HeatingControl,HeatDemand,Status,0.000,,2025-01-20 10:34:26
+CO@4_5_20,1930s Semi-Detached Left,Floor1,DiningRoom,HeatingControl,,Setpoint,21.000,,2024-11-29 12:48:01
+CO@4_5_200,1930s Semi-Detached Left,Floor,Global,HeatingControl,CentralSetpoint,Control,21.000,,2024-09-11 20:38:04
+CO@4_5_201,1930s Semi-Detached Left,Floor,Global,HeatingControl,CentralSetpoint,Status,21.000,,2024-11-20 12:21:26
+CO@4_5_202,1930s Semi-Detached Left,Floor,Global,HeatingControl,CentralOnOff,Control,1.000,,2024-10-24 09:59:44
+CO@4_5_203,1930s Semi-Detached Left,Floor,Global,HeatingControl,CentralOnOff,Status,,,
+CO@4_5_21,1930s Semi-Detached Left,Floor1,DiningRoom,HeatingControl,Setpoint,Status,21.000,,2024-11-29 12:48:01
+CO@4_5_23,1930s Semi-Detached Left,Floor1,DiningRoom,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:05:44
+CO@4_5_24,1930s Semi-Detached Left,Floor1,DiningRoom,HeatingControl,HeatDemand,Status,0.000,,2025-01-22 14:06:04
+CO@4_5_3,1930s Semi-Detached Left,Floor,Global,HeatingControl,HotWater,Control,0.000,,2024-11-01 09:57:05
+CO@4_5_4,1930s Semi-Detached Left,Floor,Global,HeatingControl,HotWater,Status,0.000,,2024-11-05 09:13:51
+CO@4_5_40,1930s Semi-Detached Left,Floor2,Bed1,HeatingControl,,Setpoint,21.000,,2024-11-29 12:48:32
+CO@4_5_41,1930s Semi-Detached Left,Floor2,Bed1,HeatingControl,Setpoint,Status,21.000,,2024-11-29 12:48:32
+CO@4_5_43,1930s Semi-Detached Left,Floor2,Bed1,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:05:44
+CO@4_5_44,1930s Semi-Detached Left,Floor2,Bed1,HeatingControl,HeatDemand,Status,0.000,,2024-12-21 04:56:33
+CO@4_5_45,1930s Semi-Detached Left,Floor2,Bed2,HeatingControl,,Setpoint,21.000,,2024-11-29 12:48:41
+CO@4_5_46,1930s Semi-Detached Left,Floor2,Bed2,HeatingControl,Setpoint,Status,21.000,,2024-11-29 12:48:41
+CO@4_5_48,1930s Semi-Detached Left,Floor2,Bed2,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:05:18
+CO@4_5_49,1930s Semi-Detached Left,Floor2,Bed2,HeatingControl,HeatDemand,Status,0.000,,2025-01-22 14:05:53
+CO@4_5_5,1930s Semi-Detached Left,Floor1,LivingRoom,HeatingControl,,Setpoint,21.000,,2024-11-29 12:59:15
+CO@4_5_50,1930s Semi-Detached Left,Floor2,Bed3,HeatingControl,,Setpoint,21.000,,2024-11-29 12:48:47
+CO@4_5_51,1930s Semi-Detached Left,Floor2,Bed3,HeatingControl,Setpoint,Status,21.000,,2024-11-29 12:48:47
+CO@4_5_53,1930s Semi-Detached Left,Floor2,Bed3,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:05:18
+CO@4_5_54,1930s Semi-Detached Left,Floor2,Bed3,HeatingControl,HeatDemand,Status,0.000,,2024-12-21 04:56:28
+CO@4_5_6,1930s Semi-Detached Left,Floor1,LivingRoom,HeatingControl,Setpoint,Status,21.000,,2024-11-29 12:59:15
+CO@4_5_62,1930s Semi-Detached Left,Floor2,Bathroom,HeatingControl,,HeatDemandPWM,,,
+CO@4_5_67,1930s Semi-Detached Left,Floor2,Ensuite,HeatingControl,,HeatDemandPWM,,,
+CO@4_5_8,1930s Semi-Detached Left,Floor1,LivingRoom,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:05:44
+CO@4_5_9,1930s Semi-Detached Left,Floor1,LivingRoom,HeatingControl,HeatDemand,Status,0.000,,2025-01-22 14:07:41
+CO@5_0_1,1930s Semi-Detached Right,Floor,Global,Electric,,Voltage,243.300,Volts,2025-01-22 14:04:06
+CO@5_0_10,1930s Semi-Detached Right,Floor1,LivingRoom,Electric,Sockets,Control,1.000,,2025-01-09 16:51:45
+CO@5_0_11,1930s Semi-Detached Right,Floor1,LivingRoom,Electric,Sockets,Status,1.000,,2025-01-09 16:51:45
+CO@5_0_122,1930s Semi-Detached Right,Floor2,Landing,Electric,Lights,Control,0.000,,2024-10-13 10:14:29
+CO@5_0_123,1930s Semi-Detached Right,Floor2,Landing,Electric,Lights,Status,0.000,,2024-12-17 13:06:31
+CO@5_0_125,1930s Semi-Detached Right,Floor2,Landing,Electric,Lights,Current,0.000,MegaAmpere,2024-12-17 13:06:35
+CO@5_0_126,1930s Semi-Detached Right,Floor2,Landing,Electric,Lights,Power,0.000,Watt,2024-12-17 13:06:35
+CO@5_0_128,1930s Semi-Detached Right,Floor2,Landing,Electric,Lights,CumEnergy,0.000,Watt,2024-06-24 15:59:04
+CO@5_0_13,1930s Semi-Detached Right,Floor1,LivingRoom,Electric,Sockets,Current,0.000,MegaAmpere,2024-10-29 09:57:36
+CO@5_0_130,1930s Semi-Detached Right,Floor2,Bed1,Electric,Lights,Control,0.000,,2025-01-07 14:00:08
+CO@5_0_131,1930s Semi-Detached Right,Floor2,Bed1,Electric,Lights,Status,0.000,,2025-01-07 14:00:08
+CO@5_0_133,1930s Semi-Detached Right,Floor2,Bed1,Electric,Lights,Current,0.000,MegaAmpere,2025-01-07 09:49:23
+CO@5_0_134,1930s Semi-Detached Right,Floor2,Bed1,Electric,Lights,Power,0.000,Watt,2025-01-07 09:49:23
+CO@5_0_136,1930s Semi-Detached Right,Floor2,Bed1,Electric,Lights,CumEnergy,0.000,Watt,2024-06-24 15:59:02
+CO@5_0_138,1930s Semi-Detached Right,Floor2,Bed2,Electric,Lights,Control,0.000,,2025-01-07 14:00:20
+CO@5_0_139,1930s Semi-Detached Right,Floor2,Bed2,Electric,Lights,Status,0.000,,2025-01-07 14:00:20
+CO@5_0_14,1930s Semi-Detached Right,Floor1,LivingRoom,Electric,Sockets,Power,0.000,Watt,2024-10-29 09:57:35
+CO@5_0_141,1930s Semi-Detached Right,Floor2,Bed2,Electric,Lights,Current,0.000,MegaAmpere,2025-01-07 14:00:34
+CO@5_0_142,1930s Semi-Detached Right,Floor2,Bed2,Electric,Lights,Power,0.000,Watt,2025-01-07 14:00:34
+CO@5_0_144,1930s Semi-Detached Right,Floor2,Bed2,Electric,Lights,CumEnergy,0.000,Watt,2024-06-24 15:59:03
+CO@5_0_146,1930s Semi-Detached Right,Floor2,Bed3,Electric,Lights,Control,0.000,,2024-10-13 10:14:06
+CO@5_0_147,1930s Semi-Detached Right,Floor2,Bed3,Electric,Lights,Status,0.000,,2024-12-17 13:06:32
+CO@5_0_149,1930s Semi-Detached Right,Floor2,Bed3,Electric,Lights,Current,0.000,MegaAmpere,2024-12-17 13:06:36
+CO@5_0_150,1930s Semi-Detached Right,Floor2,Bed3,Electric,Lights,Power,0.000,Watt,2024-12-17 13:06:36
+CO@5_0_152,1930s Semi-Detached Right,Floor2,Bed3,Electric,Lights,CumEnergy,0.000,Watt,2024-06-24 15:59:01
+CO@5_0_16,1930s Semi-Detached Right,Floor1,LivingRoom,Electric,Sockets,CumEnergy,0.000,Watt,2024-10-29 09:57:36
+CO@5_0_162,1930s Semi-Detached Right,Floor2,Bathroom,Electric,Lights,Control,0.000,,2025-01-09 12:15:39
+CO@5_0_163,1930s Semi-Detached Right,Floor2,Bathroom,Electric,Lights,Status,0.000,,2024-12-17 13:06:32
+CO@5_0_165,1930s Semi-Detached Right,Floor2,Bathroom,Electric,Lights,Current,0.000,MegaAmpere,2024-12-17 13:06:36
+CO@5_0_166,1930s Semi-Detached Right,Floor2,Bathroom,Electric,Lights,Power,0.000,Watt,2024-12-17 13:06:37
+CO@5_0_168,1930s Semi-Detached Right,Floor2,Bathroom,Electric,Lights,CumEnergy,1.000,Watt,2024-06-24 15:59:06
+CO@5_0_170,1930s Semi-Detached Right,Floor2,WCFF,Electric,Lights,Control,0.000,,2024-11-28 14:33:35
+CO@5_0_171,1930s Semi-Detached Right,Floor2,WCFF,Electric,Lights,Status,0.000,,2024-12-17 13:06:32
+CO@5_0_173,1930s Semi-Detached Right,Floor2,WCFF,Electric,Lights,Current,0.000,MegaAmpere,2024-12-17 13:06:37
+CO@5_0_174,1930s Semi-Detached Right,Floor2,WCFF,Electric,Lights,Power,0.000,Watt,2024-12-17 13:06:37
+CO@5_0_176,1930s Semi-Detached Right,Floor2,WCFF,Electric,Lights,CumEnergy,0.000,Watt,2024-06-24 15:59:07
+CO@5_0_18,1930s Semi-Detached Right,Floor1,Kitchen,Electric,Sockets,Control,1.000,,2025-01-09 16:51:48
+CO@5_0_19,1930s Semi-Detached Right,Floor1,Kitchen,Electric,Sockets,Status,1.000,,2025-01-09 16:51:48
+CO@5_0_194,1930s Semi-Detached Right,Floor,Global,Electric,Immersion,Control,,,
+CO@5_0_195,1930s Semi-Detached Right,Floor,Global,Electric,Immersion,Status,,,
+CO@5_0_197,1930s Semi-Detached Right,Floor,Global,Electric,Immersion,Current,,MegaAmpere,
+CO@5_0_198,1930s Semi-Detached Right,Floor,Global,Electric,Immersion,Power,,Watt,
+CO@5_0_2,1930s Semi-Detached Right,Floor,Global,Electric,,Current,1.213,MegaAmpere,2024-12-21 04:48:06
+CO@5_0_200,1930s Semi-Detached Right,Floor,Global,Electric,Immersion,CumEnergy,,Watt,
+CO@5_0_202,1930s Semi-Detached Right,Floor1,Kitchen,Electric,Hob,Control,0.000,,2024-10-29 09:57:54
+CO@5_0_203,1930s Semi-Detached Right,Floor1,Kitchen,Electric,Hob,Status,0.000,,2024-10-29 09:57:54
+CO@5_0_204,1930s Semi-Detached Right,Floor1,Kitchen,Electric,Hob,Voltage,,Volts,
+CO@5_0_205,1930s Semi-Detached Right,Floor1,Kitchen,Electric,Hob,Current,0.000,MegaAmpere,2024-10-29 09:57:58
+CO@5_0_206,1930s Semi-Detached Right,Floor1,Kitchen,Electric,Hob,Power,5.041,Watt,2025-01-17 13:46:12
+CO@5_0_208,1930s Semi-Detached Right,Floor1,Kitchen,Electric,Hob,CumEnergy,25.000,Watt,2025-01-02 06:06:44
+CO@5_0_21,1930s Semi-Detached Right,Floor1,Kitchen,Electric,Sockets,Current,0.000,MegaAmpere,2024-10-29 09:57:54
+CO@5_0_22,1930s Semi-Detached Right,Floor1,Kitchen,Electric,Sockets,Power,0.000,Watt,2024-10-29 09:57:54
+CO@5_0_24,1930s Semi-Detached Right,Floor1,Kitchen,Electric,Sockets,CumEnergy,0.000,Watt,2024-10-29 09:57:54
+CO@5_0_240,1930s Semi-Detached Right,Floor,Global,Electric,Lights,ALL Control,0.000,,2024-12-17 13:06:30
+CO@5_0_241,1930s Semi-Detached Right,Floor,Global,Electric,Sockets,All Control,1.000,,2024-11-29 12:41:13
+CO@5_0_26,1930s Semi-Detached Right,Floor1,DiningRoom,Electric,Sockets,Control,1.000,,2025-01-07 13:34:25
+CO@5_0_27,1930s Semi-Detached Right,Floor1,DiningRoom,Electric,Sockets,Status,1.000,,2025-01-07 13:34:26
+CO@5_0_29,1930s Semi-Detached Right,Floor1,DiningRoom,Electric,Sockets,Current,0.000,MegaAmpere,2024-11-22 15:59:38
+CO@5_0_3,1930s Semi-Detached Right,Floor,Global,Electric,,Power,3881.700,Watt,2025-01-22 14:07:31
+CO@5_0_30,1930s Semi-Detached Right,Floor1,DiningRoom,Electric,Sockets,Power,0.000,Watt,2024-11-22 15:59:38
+CO@5_0_32,1930s Semi-Detached Right,Floor1,DiningRoom,Electric,Sockets,CumEnergy,0.000,Watt,2024-10-29 09:58:08
+CO@5_0_34,1930s Semi-Detached Right,Floor2,Bed1,Electric,Sockets,Control,1.000,,2025-01-09 16:51:55
+CO@5_0_35,1930s Semi-Detached Right,Floor2,Bed1,Electric,Sockets,Status,1.000,,2024-11-07 15:03:35
+CO@5_0_37,1930s Semi-Detached Right,Floor2,Bed1,Electric,Sockets,Current,0.000,MegaAmpere,2024-10-29 09:58:30
+CO@5_0_38,1930s Semi-Detached Right,Floor2,Bed1,Electric,Sockets,Power,0.000,Watt,2024-10-29 09:58:30
+CO@5_0_4,1930s Semi-Detached Right,Floor,Global,Electric,,AppPower,302.480,Watt,2024-12-21 04:45:54
+CO@5_0_40,1930s Semi-Detached Right,Floor2,Bed1,Electric,Sockets,CumEnergy,0.000,Watt,2024-10-29 09:58:30
+CO@5_0_42,1930s Semi-Detached Right,Floor2,Bed2,Electric,Sockets,Control,1.000,,2025-01-09 16:51:58
+CO@5_0_43,1930s Semi-Detached Right,Floor2,Bed2,Electric,Sockets,Status,1.000,,2024-11-07 15:03:46
+CO@5_0_45,1930s Semi-Detached Right,Floor2,Bed2,Electric,Sockets,Current,0.000,MegaAmpere,2024-10-29 09:58:41
+CO@5_0_46,1930s Semi-Detached Right,Floor2,Bed2,Electric,Sockets,Power,0.000,Watt,2024-10-29 09:58:41
+CO@5_0_48,1930s Semi-Detached Right,Floor2,Bed2,Electric,Sockets,CumEnergy,0.000,Watt,2024-10-29 09:58:41
+CO@5_0_5,1930s Semi-Detached Right,Floor,Global,Electric,,ReacPower,-86.300,Watt,2024-10-14 10:14:03
+CO@5_0_50,1930s Semi-Detached Right,Floor2,Bed3,Electric,Sockets,Control,1.000,,2025-01-09 16:52:01
+CO@5_0_51,1930s Semi-Detached Right,Floor2,Bed3,Electric,Sockets,Status,1.000,,2024-11-07 15:03:41
+CO@5_0_53,1930s Semi-Detached Right,Floor2,Bed3,Electric,Sockets,Current,0.000,MegaAmpere,2024-11-07 15:03:45
+CO@5_0_54,1930s Semi-Detached Right,Floor2,Bed3,Electric,Sockets,Power,0.000,Watt,2024-11-07 15:03:45
+CO@5_0_56,1930s Semi-Detached Right,Floor2,Bed3,Electric,Sockets,CumEnergy,0.000,Watt,2024-11-07 15:03:45
+CO@5_0_6,1930s Semi-Detached Right,Floor,Global,Electric,,PowerFactor,0.996,Watt,2025-01-18 11:19:32
+CO@5_0_66,1930s Semi-Detached Right,Floor1,LivingRoom,Electric,Lights,Control,0.000,,2024-12-17 12:40:52
+CO@5_0_67,1930s Semi-Detached Right,Floor1,LivingRoom,Electric,Lights,Status,0.000,,2024-12-17 13:06:30
+CO@5_0_69,1930s Semi-Detached Right,Floor1,LivingRoom,Electric,Lights,Current,0.000,MegaAmpere,2024-12-17 12:40:56
+CO@5_0_7,1930s Semi-Detached Right,Floor,Global,Electric,,CumEnergy,7963.520,Watt,2025-01-22 14:04:09
+CO@5_0_70,1930s Semi-Detached Right,Floor1,LivingRoom,Electric,Lights,Power,0.000,Watt,2024-12-17 12:40:56
+CO@5_0_72,1930s Semi-Detached Right,Floor1,LivingRoom,Electric,Lights,CumEnergy,0.000,Watt,2024-06-24 15:59:05
+CO@5_0_74,1930s Semi-Detached Right,Floor1,Kitchen,Electric,Lights,Control,0.000,,2025-01-07 13:34:13
+CO@5_0_75,1930s Semi-Detached Right,Floor1,Kitchen,Electric,Lights,Status,0.000,,2025-01-07 13:34:13
+CO@5_0_77,1930s Semi-Detached Right,Floor1,Kitchen,Electric,Lights,Current,0.000,MegaAmpere,2024-12-17 13:06:34
+CO@5_0_78,1930s Semi-Detached Right,Floor1,Kitchen,Electric,Lights,Power,0.000,Watt,2024-12-17 13:06:35
+CO@5_0_8,1930s Semi-Detached Right,Floor,Global,Electric,,CumReactEnergy,4860.000,,2025-01-22 14:04:09
+CO@5_0_80,1930s Semi-Detached Right,Floor1,Kitchen,Electric,Lights,CumEnergy,0.000,Watt,2024-06-24 15:59:02
+CO@5_0_82,1930s Semi-Detached Right,Floor1,Hallway,Electric,Lights,Control,0.000,,2025-01-09 16:03:14
+CO@5_0_83,1930s Semi-Detached Right,Floor1,Hallway,Electric,Lights,Status,0.000,,2025-01-09 16:03:14
+CO@5_0_85,1930s Semi-Detached Right,Floor1,Hallway,Electric,Lights,Current,0.000,MegaAmpere,2025-01-09 16:03:18
+CO@5_0_86,1930s Semi-Detached Right,Floor1,Hallway,Electric,Lights,Power,0.000,Watt,2025-01-09 16:03:18
+CO@5_0_88,1930s Semi-Detached Right,Floor1,Hallway,Electric,Lights,CumEnergy,0.000,Watt,2024-06-24 15:59:06
+CO@5_0_9,1930s Semi-Detached Right,Floor,Global,Electric,,ACFrequency,50.040,,2025-01-22 14:04:06
+CO@5_0_90,1930s Semi-Detached Right,Floor1,DiningRoom,Electric,Lights,Control,0.000,,2024-12-17 08:30:32
+CO@5_0_91,1930s Semi-Detached Right,Floor1,DiningRoom,Electric,Lights,Status,0.000,,2024-12-17 13:06:31
+CO@5_0_93,1930s Semi-Detached Right,Floor1,DiningRoom,Electric,Lights,Current,0.021,MegaAmpere,2024-12-17 13:06:37
+CO@5_0_94,1930s Semi-Detached Right,Floor1,DiningRoom,Electric,Lights,Power,5.227,Watt,2024-12-17 13:06:37
+CO@5_0_96,1930s Semi-Detached Right,Floor1,DiningRoom,Electric,Lights,CumEnergy,0.000,Watt,2024-06-24 15:59:01
+CO@5_1_11,1930s Semi-Detached Right,Floor2,Bathroom,Electric,Radiator,Current,0.000,MegaAmpere,2024-10-29 09:58:50
+CO@5_1_12,1930s Semi-Detached Right,Floor2,Bathroom,Electric,Radiator,Power,0.000,Watt,2024-10-29 09:58:49
+CO@5_1_14,1930s Semi-Detached Right,Floor2,Bathroom,Electric,Radiator,CumEnergy,0.000,Watt,2024-10-29 09:58:50
+CO@5_1_30,1930s Semi-Detached Right,Floor1,LivingRoom,Electric,IRHeating,Current,1088304447.000,MegaAmpere,2024-12-05 06:57:44
+CO@5_1_31,1930s Semi-Detached Right,Floor1,LivingRoom,Electric,IRHeating,Power,1154564424.000,Watt,2024-12-05 06:57:43
+CO@5_1_32,1930s Semi-Detached Right,Floor1,LivingRoom,Electric,IRHeating,CumEnergy,501.000,Watt,2025-01-05 17:05:15
+CO@5_1_33,1930s Semi-Detached Right,Floor1,Kitchen,Electric,IRHeating,Current,0.000,MegaAmpere,2025-01-07 11:14:25
+CO@5_1_34,1930s Semi-Detached Right,Floor1,Kitchen,Electric,IRHeating,Power,1146215318.000,Watt,2024-12-05 06:57:44
+CO@5_1_35,1930s Semi-Detached Right,Floor1,Kitchen,Electric,IRHeating,CumEnergy,174.000,Watt,2025-01-03 17:29:28
+CO@5_1_36,1930s Semi-Detached Right,Floor1,Hallway,Electric,IRHeating,Current,1086570103.000,MegaAmpere,2024-11-25 13:13:38
+CO@5_1_37,1930s Semi-Detached Right,Floor1,Hallway,Electric,IRHeating,Power,0.000,Watt,2025-01-07 11:14:26
+CO@5_1_38,1930s Semi-Detached Right,Floor1,Hallway,Electric,IRHeating,CumEnergy,821.000,Watt,2025-01-03 02:10:56
+CO@5_1_39,1930s Semi-Detached Right,Floor1,DiningRoom,Electric,IRHeating,Current,0.000,MegaAmpere,2025-01-07 11:14:26
+CO@5_1_40,1930s Semi-Detached Right,Floor1,DiningRoom,Electric,IRHeating,Power,0.000,Watt,2025-01-07 11:14:26
+CO@5_1_41,1930s Semi-Detached Right,Floor1,DiningRoom,Electric,IRHeating,CumEnergy,337.000,Watt,2024-12-31 16:41:16
+CO@5_1_42,1930s Semi-Detached Right,Floor2,Landing,Electric,IRHeating,Current,0.000,MegaAmpere,2025-01-07 11:14:26
+CO@5_1_43,1930s Semi-Detached Right,Floor2,Landing,Electric,IRHeating,Power,0.000,Watt,2025-01-07 11:14:26
+CO@5_1_44,1930s Semi-Detached Right,Floor2,Landing,Electric,IRHeating,CumEnergy,92.000,Watt,2024-12-06 07:51:38
+CO@5_1_45,1930s Semi-Detached Right,Floor2,Bed1,Electric,IRHeating,Current,0.000,MegaAmpere,2025-01-07 11:14:26
+CO@5_1_46,1930s Semi-Detached Right,Floor2,Bed1,Electric,IRHeating,Power,0.000,Watt,2024-11-27 01:05:02
+CO@5_1_47,1930s Semi-Detached Right,Floor2,Bed1,Electric,IRHeating,CumEnergy,144.000,Watt,2025-01-06 22:50:47
+CO@5_1_48,1930s Semi-Detached Right,Floor2,Bed2,Electric,IRHeating,Current,0.000,MegaAmpere,2025-01-07 11:14:26
+CO@5_1_49,1930s Semi-Detached Right,Floor2,Bed2,Electric,IRHeating,Power,0.000,Watt,2025-01-07 11:14:26
+CO@5_1_50,1930s Semi-Detached Right,Floor2,Bed2,Electric,IRHeating,CumEnergy,41.000,Watt,2024-12-05 07:51:27
+CO@5_1_51,1930s Semi-Detached Right,Floor2,Bed3,Electric,IRHeating,Current,0.000,MegaAmpere,2025-01-07 11:14:26
+CO@5_1_52,1930s Semi-Detached Right,Floor2,Bed3,Electric,IRHeating,Power,0.000,Watt,2025-01-07 11:14:26
+CO@5_1_53,1930s Semi-Detached Right,Floor2,Bed3,Electric,IRHeating,CumEnergy,679.000,Watt,2024-12-27 07:23:04
+CO@5_1_54,1930s Semi-Detached Right,Floor2,Bathroom,Electric,IRHeating,Current,0.000,MegaAmpere,2025-01-07 11:09:03
+CO@5_1_55,1930s Semi-Detached Right,Floor2,Bathroom,Electric,IRHeating,Power,0.000,Watt,2025-01-07 11:09:02
+CO@5_1_56,1930s Semi-Detached Right,Floor2,Bathroom,Electric,IRHeating,CumEnergy,422.000,Watt,2025-01-05 02:50:56
+CO@5_1_57,1930s Semi-Detached Right,Floor2,WCFF,Electric,IRHeating,Current,0.000,MegaAmpere,2025-01-07 11:14:25
+CO@5_1_58,1930s Semi-Detached Right,Floor2,WCFF,Electric,IRHeating,Power,0.000,Watt,2025-01-07 11:14:25
+CO@5_1_59,1930s Semi-Detached Right,Floor2,WCFF,Electric,IRHeating,CumEnergy,191.000,Watt,2025-01-07 05:56:07
+CO@5_1_8,1930s Semi-Detached Right,Floor2,Bathroom,Electric,Radiator,Control,0.000,,2024-10-29 09:58:45
+CO@5_1_9,1930s Semi-Detached Right,Floor2,Bathroom,Electric,Radiator,Status,0.000,,2024-10-29 09:58:45
+CO@5_2_0,1930s Semi-Detached Right,Floor,Global,Gas,,Volume,207.180,m^3,2025-01-22 14:02:21
+CO@5_3_0,1930s Semi-Detached Right,Floor,Global,Water,Meter,Volume,1019.800,m^3,2025-01-22 14:04:37
+CO@5_3_1,1930s Semi-Detached Right,Floor,Global,Water,Meter,Flow,0.000,,2025-01-22 14:04:37
+CO@5_3_10,1930s Semi-Detached Right,Floor1,Kitchen,Water,SinkCold,Temp,9.800,Celsius degrees,2025-01-22 00:14:29
+CO@5_3_11,1930s Semi-Detached Right,Floor1,Kitchen,Water,SinkHot,Volume,0.000,m^3,2024-09-19 08:56:08
+CO@5_3_12,1930s Semi-Detached Right,Floor1,Kitchen,Water,SinkHot,Flow,0.000,,2024-10-02 13:18:39
+CO@5_3_13,1930s Semi-Detached Right,Floor1,Kitchen,Water,SinkHot,Temp,4.100,Celsius degrees,2024-11-28 08:46:31
+CO@5_3_140,1930s Semi-Detached Right,,,WWHRS,MainCold,Volume,320.000,m^3,2024-09-19 14:20:47
+CO@5_3_141,1930s Semi-Detached Right,,,WWHRS,MainCold,Flow,0.000,,2024-09-19 14:20:55
+CO@5_3_142,1930s Semi-Detached Right,,,WWHRS,MainCold,Temp,6.800,Celsius degrees,2024-12-21 04:49:49
+CO@5_3_143,1930s Semi-Detached Right,,,WWHRS,PreHeat,Volume,184.000,m^3,2024-09-19 14:20:45
+CO@5_3_144,1930s Semi-Detached Right,,,WWHRS,PreHeat,Flow,0.000,,2024-09-19 14:20:57
+CO@5_3_145,1930s Semi-Detached Right,,,WWHRS,PreHeat,Temp,11.400,Celsius degrees,2025-01-22 14:07:44
+CO@5_3_146,1930s Semi-Detached Right,,,WWHRS,ShowerMIX,Volume,926.000,m^3,2024-09-19 14:20:48
+CO@5_3_147,1930s Semi-Detached Right,,,WWHRS,ShowerMIX,Flow,0.000,,2024-09-19 14:20:54
+CO@5_3_148,1930s Semi-Detached Right,,,WWHRS,ShowerMIX,Temp,12.300,Celsius degrees,2025-01-22 14:00:33
+CO@5_3_149,1930s Semi-Detached Right,,,WWHRS,ShowerHOT,Volume,,m^3,
+CO@5_3_150,1930s Semi-Detached Right,,,WWHRS,ShowerHOT,Flow,,,
+CO@5_3_151,1930s Semi-Detached Right,,,WWHRS,ShowerHOT,Temp,150.000,Celsius degrees,2025-01-22 14:07:44
+CO@5_3_152,1930s Semi-Detached Right,,,WWHRS,BathWaste,Temp,12.600,Celsius degrees,2024-12-21 04:55:54
+CO@5_3_20,1930s Semi-Detached Right,Floor2,Bathroom,Water,SinkCold,Volume,0.000,m^3,2024-10-30 14:42:07
+CO@5_3_21,1930s Semi-Detached Right,Floor2,Bathroom,Water,SinkCold,Flow,0.000,,2024-10-30 14:42:15
+CO@5_3_22,1930s Semi-Detached Right,Floor2,Bathroom,Water,SinkCold,Temp,11.300,Celsius degrees,2025-01-15 15:25:14
+CO@5_3_23,1930s Semi-Detached Right,Floor2,Bathroom,Water,SinkHot,Volume,0.000,m^3,2025-01-09 15:23:41
+CO@5_3_24,1930s Semi-Detached Right,Floor2,Bathroom,Water,SinkHot,Flow,0.000,,2025-01-09 15:24:07
+CO@5_3_25,1930s Semi-Detached Right,Floor2,Bathroom,Water,SinkHot,Temp,10.100,Celsius degrees,2025-01-22 05:07:21
+CO@5_3_26,1930s Semi-Detached Right,Floor2,Bathroom,Water,BathCold,Volume,0.000,m^3,2024-09-19 08:55:42
+CO@5_3_27,1930s Semi-Detached Right,Floor2,Bathroom,Water,BathCold,Flow,0.000,,2024-10-01 10:42:44
+CO@5_3_28,1930s Semi-Detached Right,Floor2,Bathroom,Water,BathCold,Temp,6.300,Celsius degrees,2024-11-26 23:07:23
+CO@5_3_29,1930s Semi-Detached Right,Floor2,Bathroom,Water,BathHot,Volume,0.000,m^3,2024-10-29 10:27:46
+CO@5_3_30,1930s Semi-Detached Right,Floor2,Bathroom,Water,BathHot,Flow,0.000,,2024-10-29 10:27:55
+CO@5_3_31,1930s Semi-Detached Right,Floor2,Bathroom,Water,BathHot,Temp,7.000,Celsius degrees,2025-01-09 08:45:07
+CO@5_3_32,1930s Semi-Detached Right,Floor2,Bathroom,Water,ShowerCold,Volume,,m^3,
+CO@5_3_33,1930s Semi-Detached Right,Floor2,Bathroom,Water,ShowerCold,Flow,,,
+CO@5_3_34,1930s Semi-Detached Right,Floor2,Bathroom,Water,ShowerCold,Temp,,Celsius degrees,
+CO@5_3_35,1930s Semi-Detached Right,Floor2,Bathroom,Water,ShowerHot,Volume,,m^3,
+CO@5_3_36,1930s Semi-Detached Right,Floor2,Bathroom,Water,ShowerHot,Flow,,,
+CO@5_3_37,1930s Semi-Detached Right,Floor2,Bathroom,Water,ShowerHot,Temp,,Celsius degrees,
+CO@5_3_8,1930s Semi-Detached Right,Floor1,Kitchen,Water,SinkCold,Volume,0.000,m^3,2024-10-30 14:41:11
+CO@5_3_83,1930s Semi-Detached Right,Floor2,Bathroom,Water,ToiletCold,Volume,0.000,m^3,2024-07-24 10:43:51
+CO@5_3_84,1930s Semi-Detached Right,Floor2,Bathroom,Water,ToiletCold,Flow,0.000,,2024-04-02 08:43:11
+CO@5_3_85,1930s Semi-Detached Right,Floor2,Bathroom,Water,ToiletCold,Temp,7.300,Celsius degrees,2024-11-22 18:37:08
+CO@5_3_9,1930s Semi-Detached Right,Floor1,Kitchen,Water,SinkCold,Flow,0.000,,2024-12-11 08:39:52
+CO@5_4_0,1930s Semi-Detached Right,Floor1,LivingRoom,Other,,Temperature,14.700,Celsius degrees,2024-12-21 04:53:15
+CO@5_4_1,1930s Semi-Detached Right,Floor1,LivingRoom,Other,,Humidity,36.680,%,2025-01-22 14:04:16
+CO@5_4_10,1930s Semi-Detached Right,Floor1,Kitchen,Other,,Temperature,21.700,Celsius degrees,2025-01-22 14:04:28
+CO@5_4_100,1930s Semi-Detached Right,Floor2,Bed3,Other,,Temperature,20.540,Celsius degrees,2025-01-22 14:04:23
+CO@5_4_101,1930s Semi-Detached Right,Floor2,Bed3,Other,,Humidity,56.400,%,2024-12-21 04:55:29
+CO@5_4_102,1930s Semi-Detached Right,Floor2,Bed3,Other,,CO2,224.000,Parts per million,2024-12-21 04:53:09
+CO@5_4_104,1930s Semi-Detached Right,Floor2,Bed3,Other,,Window1,1.000,,2024-11-20 11:45:04
+CO@5_4_107,1930s Semi-Detached Right,Floor2,Bed3,Other,,Door1,0.000,,2024-05-28 07:25:33
+CO@5_4_11,1930s Semi-Detached Right,Floor1,Kitchen,Other,,Humidity,37.140,%,2025-01-22 14:04:18
+CO@5_4_12,1930s Semi-Detached Right,Floor1,Kitchen,Other,,CO2,336.960,Parts per million,2025-01-22 14:04:28
+CO@5_4_120,1930s Semi-Detached Right,Floor2,Bathroom,Other,,Temperature,20.760,Celsius degrees,2025-01-22 14:05:12
+CO@5_4_124,1930s Semi-Detached Right,Floor2,Bathroom,Other,,Window1,1.000,,2024-09-18 06:59:49
+CO@5_4_127,1930s Semi-Detached Right,Floor2,Bathroom,Other,,Door1,0.000,,2025-01-09 11:42:36
+CO@5_4_13,1930s Semi-Detached Right,Floor1,Kitchen,Other,,Occupancy,0.000,,2024-11-22 16:00:52
+CO@5_4_14,1930s Semi-Detached Right,Floor1,Kitchen,Other,,Window1,1.000,,2025-01-10 13:04:32
+CO@5_4_17,1930s Semi-Detached Right,Floor1,Kitchen,Other,,Door1,0.000,,2025-01-08 11:43:15
+CO@5_4_18,1930s Semi-Detached Right,Floor1,Kitchen,Other,,Door2,1.000,,2024-05-17 13:50:57
+CO@5_4_2,1930s Semi-Detached Right,Floor1,LivingRoom,Other,,CO2,346.880,Parts per million,2024-12-21 04:53:15
+CO@5_4_20,1930s Semi-Detached Right,Floor1,Hallway,Other,,Temperature,10.940,Celsius degrees,2024-12-21 04:57:25
+CO@5_4_200,1930s Semi-Detached Right,Floor1,LivingRoom,Other,,IRTemperature,23.840,Celsius degrees,2025-01-22 14:05:15
+CO@5_4_201,1930s Semi-Detached Right,Floor1,Kitchen,Other,,IRTemperature,22.720,Celsius degrees,2025-01-22 14:05:16
+CO@5_4_202,1930s Semi-Detached Right,Floor1,Hallway,Other,,IRTemperature,22.800,Celsius degrees,2025-01-22 14:05:17
+CO@5_4_203,1930s Semi-Detached Right,Floor1,DiningRoom,Other,,IRTemperature,23.840,Celsius degrees,2025-01-22 14:05:15
+CO@5_4_204,1930s Semi-Detached Right,Floor2,Landing,Other,,IRTemperature,21.840,Celsius degrees,2025-01-22 14:05:20
+CO@5_4_205,1930s Semi-Detached Right,Floor2,Bed1,Other,,IRTemperature,22.400,Celsius degrees,2025-01-22 14:05:17
+CO@5_4_206,1930s Semi-Detached Right,Floor2,Bed2,Other,,IRTemperature,22.080,Celsius degrees,2025-01-22 14:05:17
+CO@5_4_207,1930s Semi-Detached Right,Floor2,Bed3,Other,,IRTemperature,23.200,Celsius degrees,2025-01-22 14:05:19
+CO@5_4_208,1930s Semi-Detached Right,Floor2,Bathroom,Other,,IRTemperature,22.320,Celsius degrees,2025-01-22 14:05:20
+CO@5_4_209,1930s Semi-Detached Right,Floor2,WCFF,Other,,IRTemperature,22.480,Celsius degrees,2025-01-22 14:05:21
+CO@5_4_27,1930s Semi-Detached Right,Floor1,Hallway,Other,,Door1,1.000,,2025-01-22 12:23:02
+CO@5_4_3,1930s Semi-Detached Right,Floor1,LivingRoom,Other,,Occupancy,0.000,,2025-01-22 14:07:33
+CO@5_4_30,1930s Semi-Detached Right,Floor1,DiningRoom,Other,,Temperature,21.640,Celsius degrees,2025-01-22 14:04:24
+CO@5_4_31,1930s Semi-Detached Right,Floor1,DiningRoom,Other,,Humidity,53.840,%,2024-12-21 04:55:26
+CO@5_4_32,1930s Semi-Detached Right,Floor1,DiningRoom,Other,,CO2,424.960,Parts per million,2024-12-21 04:53:06
+CO@5_4_33,1930s Semi-Detached Right,Floor1,DiningRoom,Other,,Occupancy,0.000,,2024-12-06 15:53:18
+CO@5_4_34,1930s Semi-Detached Right,Floor1,DiningRoom,Other,,Window1,1.000,,2024-11-20 11:45:03
+CO@5_4_37,1930s Semi-Detached Right,Floor1,DiningRoom,Other,,Door1,0.000,,2024-06-14 10:55:01
+CO@5_4_4,1930s Semi-Detached Right,Floor1,LivingRoom,Other,,Window1,1.000,,2024-11-20 11:45:03
+CO@5_4_60,1930s Semi-Detached Right,Floor2,WCFF,Other,,Temperature,20.460,Celsius degrees,2025-01-22 14:07:33
+CO@5_4_64,1930s Semi-Detached Right,Floor1,WC,Other,,Window1,0.000,,2024-04-04 15:01:29
+CO@5_4_67,1930s Semi-Detached Right,Floor1,WC,Other,,Door1,0.000,,2025-01-09 11:44:54
+CO@5_4_7,1930s Semi-Detached Right,Floor1,LivingRoom,Other,,Door1,0.000,,2024-06-14 10:55:52
+CO@5_4_70,1930s Semi-Detached Right,Floor2,Landing,Other,,Temperature,19.430,Celsius degrees,2025-01-22 14:05:26
+CO@5_4_80,1930s Semi-Detached Right,Floor2,Bed1,Other,,Temperature,15.090,Celsius degrees,2024-12-21 04:53:11
+CO@5_4_81,1930s Semi-Detached Right,Floor2,Bed1,Other,,Humidity,49.800,%,2024-12-21 04:55:31
+CO@5_4_82,1930s Semi-Detached Right,Floor2,Bed1,Other,,CO2,344.960,Parts per million,2025-01-22 14:04:26
+CO@5_4_83,1930s Semi-Detached Right,Floor2,Bed1,Other,,Occupancy,0.000,,2024-11-26 12:07:46
+CO@5_4_84,1930s Semi-Detached Right,Floor2,Bed1,Other,,Window1,1.000,,2024-11-20 11:45:03
+CO@5_4_87,1930s Semi-Detached Right,Floor2,Bed1,Other,,Door1,0.000,,2024-04-03 15:54:49
+CO@5_4_90,1930s Semi-Detached Right,Floor2,Bed2,Other,,Temperature,15.620,Celsius degrees,2024-12-21 04:53:08
+CO@5_4_91,1930s Semi-Detached Right,Floor2,Bed2,Other,,Humidity,35.960,%,2025-01-22 14:04:17
+CO@5_4_92,1930s Semi-Detached Right,Floor2,Bed2,Other,,CO2,338.880,Parts per million,2024-12-21 04:53:08
+CO@5_4_93,1930s Semi-Detached Right,Floor2,Bed2,Other,,Occupancy,0.000,,2025-01-22 02:32:27
+CO@5_4_94,1930s Semi-Detached Right,Floor2,Bed2,Other,,Window1,1.000,,2024-11-20 11:45:04
+CO@5_4_97,1930s Semi-Detached Right,Floor2,Bed2,Other,,Door1,0.000,,2024-04-04 13:07:30
+CO@5_5_0,1930s Semi-Detached Right,Floor,Global,HeatingControl,,HeatDemandPWM,0.000,,2025-01-22 14:07:20
+CO@5_5_10,1930s Semi-Detached Right,Floor1,Kitchen,HeatingControl,,Setpoint,18.000,,2024-12-06 15:40:09
+CO@5_5_100,1930s Semi-Detached Right,Floor1,LivingRoom,HeatingControl,IRHeatDemand2Point,Status,1.000,,2024-12-05 06:57:41
+CO@5_5_101,1930s Semi-Detached Right,Floor1,Kitchen,HeatingControl,IRHeatDemand2Point,Status,0.000,,2025-01-07 11:14:22
+CO@5_5_102,1930s Semi-Detached Right,Floor1,Hallway,HeatingControl,IRHeatDemand2Point,Status,0.000,,2025-01-07 11:14:22
+CO@5_5_103,1930s Semi-Detached Right,Floor1,DiningRoom,HeatingControl,IRHeatDemand2Point,Status,0.000,,2025-01-07 11:14:22
+CO@5_5_104,1930s Semi-Detached Right,Floor2,WCFF,HeatingControl,IRHeatDemand2Point,Status,0.000,,2025-01-07 11:14:22
+CO@5_5_105,1930s Semi-Detached Right,Floor2,Landing,HeatingControl,IRHeatDemand2Point,Status,0.000,,2025-01-07 11:14:22
+CO@5_5_106,1930s Semi-Detached Right,Floor2,Bed1,HeatingControl,IRHeatDemand2Point,Status,0.000,,2024-11-27 01:04:58
+CO@5_5_107,1930s Semi-Detached Right,Floor2,Bed2,HeatingControl,IRHeatDemand2Point,Status,0.000,,2025-01-07 11:14:22
+CO@5_5_108,1930s Semi-Detached Right,Floor2,Bed3,HeatingControl,IRHeatDemand2Point,Status,0.000,,2024-11-29 22:57:36
+CO@5_5_109,1930s Semi-Detached Right,Floor2,Bathroom,HeatingControl,IRHeatDemand2Point,Status,0.000,,2025-01-07 11:08:57
+CO@5_5_11,1930s Semi-Detached Right,Floor1,Kitchen,HeatingControl,Setpoint,Status,21.000,,2025-01-07 11:14:51
+CO@5_5_12,1930s Semi-Detached Right,Floor1,Kitchen,HeatingControl,,IRHeatDemand2Point,1.000,,2024-12-14 08:15:24
+CO@5_5_13,1930s Semi-Detached Right,Floor1,Kitchen,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:04:51
+CO@5_5_14,1930s Semi-Detached Right,Floor1,Kitchen,HeatingControl,HeatDemand,Status,0.000,,2025-01-22 14:06:58
+CO@5_5_15,1930s Semi-Detached Right,Floor1,Hallway,HeatingControl,,Setpoint,18.000,,2024-12-06 15:40:23
+CO@5_5_16,1930s Semi-Detached Right,Floor1,Hallway,HeatingControl,Setpoint,Status,21.000,,2025-01-07 13:35:46
+CO@5_5_17,1930s Semi-Detached Right,Floor1,Hallway,HeatingControl,,IRHeatDemand2Point,0.000,,2024-12-14 10:29:08
+CO@5_5_18,1930s Semi-Detached Right,Floor1,Hallway,HeatingControl,,HeatDemandPERC,0.000,,2024-12-21 04:56:48
+CO@5_5_19,1930s Semi-Detached Right,Floor1,Hallway,HeatingControl,HeatDemand,Status,0.000,,2025-01-22 14:06:59
+CO@5_5_2,1930s Semi-Detached Right,Floor,Global,HeatingControl,HeatDemand,Status,0.000,,2025-01-20 10:39:21
+CO@5_5_20,1930s Semi-Detached Right,Floor1,DiningRoom,HeatingControl,,Setpoint,21.000,,2025-01-07 11:14:58
+CO@5_5_200,1930s Semi-Detached Right,Floor,Global,HeatingControl,CentralSetpoint,Control,21.000,,2024-10-14 10:19:41
+CO@5_5_201,1930s Semi-Detached Right,Floor,Global,HeatingControl,CentralSetpoint,Status,21.000,,2024-11-20 11:45:19
+CO@5_5_202,1930s Semi-Detached Right,Floor,Global,HeatingControl,CentralOnOff,Control,1.000,,2024-10-24 09:02:18
+CO@5_5_204,1930s Semi-Detached Right,Floor,Global,HeatingControl,HerschelOnOff,Control,0.000,,2025-01-07 11:14:22
+CO@5_5_205,1930s Semi-Detached Right,Floor,Global,HeatingControl,HerschelOnOff,Status,0.000,,2025-01-07 11:14:21
+CO@5_5_21,1930s Semi-Detached Right,Floor1,DiningRoom,HeatingControl,Setpoint,Status,21.000,,2025-01-07 11:14:58
+CO@5_5_22,1930s Semi-Detached Right,Floor1,DiningRoom,HeatingControl,,IRHeatDemand2Point,0.000,,2024-12-14 10:29:54
+CO@5_5_23,1930s Semi-Detached Right,Floor1,DiningRoom,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:04:51
+CO@5_5_24,1930s Semi-Detached Right,Floor1,DiningRoom,HeatingControl,HeatDemand,Status,0.000,,2025-01-22 14:07:13
+CO@5_5_3,1930s Semi-Detached Right,Floor,Global,HeatingControl,HotWater,Control,0.000,,2024-10-30 14:31:44
+CO@5_5_30,1930s Semi-Detached Right,Floor2,WCFF,HeatingControl,,Setpoint,18.000,,2024-12-06 15:40:30
+CO@5_5_31,1930s Semi-Detached Right,Floor2,WCFF,HeatingControl,Setpoint,Status,18.000,,2024-12-06 15:40:30
+CO@5_5_32,1930s Semi-Detached Right,Floor2,WCFF,HeatingControl,,IRHeatDemand2Point,1.000,,2024-12-14 10:31:51
+CO@5_5_35,1930s Semi-Detached Right,Floor2,Landing,HeatingControl,,Setpoint,21.000,,2025-01-07 11:15:13
+CO@5_5_36,1930s Semi-Detached Right,Floor2,Landing,HeatingControl,Setpoint,Status,21.000,,2025-01-07 11:15:13
+CO@5_5_37,1930s Semi-Detached Right,Floor2,Landing,HeatingControl,,IRHeatDemand2Point,0.000,,2024-12-14 11:14:57
+CO@5_5_4,1930s Semi-Detached Right,Floor,Global,HeatingControl,HotWater,Status,0.000,,2024-10-30 14:31:44
+CO@5_5_40,1930s Semi-Detached Right,Floor2,Bed1,HeatingControl,,Setpoint,21.000,,2025-01-07 11:15:05
+CO@5_5_41,1930s Semi-Detached Right,Floor2,Bed1,HeatingControl,Setpoint,Status,21.000,,2025-01-07 11:15:05
+CO@5_5_42,1930s Semi-Detached Right,Floor2,Bed1,HeatingControl,,IRHeatDemand2Point,0.000,,2024-12-14 09:03:25
+CO@5_5_43,1930s Semi-Detached Right,Floor2,Bed1,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:04:51
+CO@5_5_44,1930s Semi-Detached Right,Floor2,Bed1,HeatingControl,HeatDemand,Status,0.000,,2025-01-22 14:06:19
+CO@5_5_45,1930s Semi-Detached Right,Floor2,Bed2,HeatingControl,,Setpoint,21.000,,2025-01-07 11:15:32
+CO@5_5_46,1930s Semi-Detached Right,Floor2,Bed2,HeatingControl,Setpoint,Status,21.000,,2025-01-07 11:15:32
+CO@5_5_47,1930s Semi-Detached Right,Floor2,Bed2,HeatingControl,,IRHeatDemand2Point,0.000,,2024-12-14 09:03:25
+CO@5_5_48,1930s Semi-Detached Right,Floor2,Bed2,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:05:14
+CO@5_5_49,1930s Semi-Detached Right,Floor2,Bed2,HeatingControl,HeatDemand,Status,0.000,,2025-01-22 14:07:07
+CO@5_5_5,1930s Semi-Detached Right,Floor1,LivingRoom,HeatingControl,,Setpoint,21.000,,2025-01-07 11:14:35
+CO@5_5_50,1930s Semi-Detached Right,Floor2,Bed3,HeatingControl,,Setpoint,21.000,,2025-01-07 11:15:40
+CO@5_5_51,1930s Semi-Detached Right,Floor2,Bed3,HeatingControl,Setpoint,Status,21.000,,2025-01-07 11:15:40
+CO@5_5_52,1930s Semi-Detached Right,Floor2,Bed3,HeatingControl,,IRHeatDemand2Point,0.000,,2024-12-14 10:33:24
+CO@5_5_53,1930s Semi-Detached Right,Floor2,Bed3,HeatingControl,,HeatDemandPERC,0.000,,2024-12-21 04:57:18
+CO@5_5_54,1930s Semi-Detached Right,Floor2,Bed3,HeatingControl,HeatDemand,Status,0.000,,2025-01-22 14:06:57
+CO@5_5_6,1930s Semi-Detached Right,Floor1,LivingRoom,HeatingControl,Setpoint,Status,21.000,,2025-01-07 11:14:35
+CO@5_5_60,1930s Semi-Detached Right,Floor2,Bathroom,HeatingControl,,Setpoint,16.000,,2024-12-17 12:56:10
+CO@5_5_61,1930s Semi-Detached Right,Floor2,Bathroom,HeatingControl,Setpoint,Status,16.000,,2024-12-17 12:56:10
+CO@5_5_62,1930s Semi-Detached Right,Floor2,Bathroom,HeatingControl,,HeatDemandPWM,,,
+CO@5_5_63,1930s Semi-Detached Right,Floor2,Bathroom,HeatingControl,,IRHeatDemand2Point,1.000,,2024-12-14 09:51:39
+CO@5_5_67,1930s Semi-Detached Right,Floor2,Ensuite,HeatingControl,,HeatDemandPWM,,,
+CO@5_5_7,1930s Semi-Detached Right,Floor1,LivingRoom,HeatingControl,,IRHeatDemand2Point,0.000,,2024-12-14 09:51:05
+CO@5_5_8,1930s Semi-Detached Right,Floor1,LivingRoom,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:04:51
+CO@5_5_9,1930s Semi-Detached Right,Floor1,LivingRoom,HeatingControl,HeatDemand,Status,0.000,,2024-12-21 04:56:40
+CO@6_0_1,1950s Bungalow,Floor,Global,Electric,,Voltage,249.300,Volts,2024-12-05 07:19:32
+CO@6_0_10,1950s Bungalow,Floor1,LivingRoom,Electric,Sockets,Control,1.000,,2025-01-09 16:52:17
+CO@6_0_11,1950s Bungalow,Floor1,LivingRoom,Electric,Sockets,Status,1.000,,2025-01-09 16:52:17
+CO@6_0_13,1950s Bungalow,Floor1,LivingRoom,Electric,Sockets,Current,,MegaAmpere,
+CO@6_0_130,1950s Bungalow,Floor1,Bed1,Electric,Lights,Control,0.000,,2025-01-07 13:45:18
+CO@6_0_131,1950s Bungalow,Floor1,Bed1,Electric,Lights,Status,0.000,,2025-01-07 13:45:19
+CO@6_0_133,1950s Bungalow,Floor1,Bed1,Electric,Lights,Current,0.000,MegaAmpere,2025-01-07 13:45:23
+CO@6_0_134,1950s Bungalow,Floor1,Bed1,Electric,Lights,Power,0.000,Watt,2025-01-07 13:45:23
+CO@6_0_136,1950s Bungalow,Floor1,Bed1,Electric,Lights,CumEnergy,,Watt,
+CO@6_0_138,1950s Bungalow,Floor1,Bed2,Electric,Lights,Control,0.000,,2025-01-07 13:45:27
+CO@6_0_139,1950s Bungalow,Floor1,Bed2,Electric,Lights,Status,0.000,,2025-01-07 13:45:27
+CO@6_0_14,1950s Bungalow,Floor1,LivingRoom,Electric,Sockets,Power,,Watt,
+CO@6_0_141,1950s Bungalow,Floor1,Bed2,Electric,Lights,Current,0.000,MegaAmpere,2024-10-13 10:12:32
+CO@6_0_142,1950s Bungalow,Floor1,Bed2,Electric,Lights,Power,0.000,Watt,2024-10-13 10:12:32
+CO@6_0_144,1950s Bungalow,Floor1,Bed2,Electric,Lights,CumEnergy,0.000,Watt,2024-03-07 12:52:57
+CO@6_0_16,1950s Bungalow,Floor1,LivingRoom,Electric,Sockets,CumEnergy,,Watt,
+CO@6_0_162,1950s Bungalow,Floor1,Bathroom,Electric,Lights,Control,0.000,,2024-12-06 14:54:10
+CO@6_0_163,1950s Bungalow,Floor1,Bathroom,Electric,Lights,Status,0.000,,2024-12-06 14:54:10
+CO@6_0_165,1950s Bungalow,Floor1,Bathroom,Electric,Lights,Current,0.000,MegaAmpere,2024-12-06 14:54:14
+CO@6_0_166,1950s Bungalow,Floor1,Bathroom,Electric,Lights,Power,0.000,Watt,2024-12-06 14:54:14
+CO@6_0_168,1950s Bungalow,Floor1,Bathroom,Electric,Lights,CumEnergy,4.000,Watt,2024-04-21 22:13:06
+CO@6_0_18,1950s Bungalow,Floor1,Kitchen,Electric,Sockets,Control,1.000,,2024-12-05 12:37:08
+CO@6_0_19,1950s Bungalow,Floor1,Kitchen,Electric,Sockets,Status,1.000,,2024-12-05 12:37:08
+CO@6_0_194,1950s Bungalow,Floor,Global,Electric,Immersion,Control,,,
+CO@6_0_195,1950s Bungalow,Floor,Global,Electric,Immersion,Status,,,
+CO@6_0_197,1950s Bungalow,Floor,Global,Electric,Immersion,Current,,MegaAmpere,
+CO@6_0_198,1950s Bungalow,Floor,Global,Electric,Immersion,Power,,Watt,
+CO@6_0_2,1950s Bungalow,Floor,Global,Electric,,Current,0.425,MegaAmpere,2024-08-12 10:23:18
+CO@6_0_200,1950s Bungalow,Floor,Global,Electric,Immersion,CumEnergy,,Watt,
+CO@6_0_202,1950s Bungalow,Floor1,Kitchen,Electric,Hob,Control,0.000,,2024-10-13 10:13:04
+CO@6_0_203,1950s Bungalow,Floor1,Kitchen,Electric,Hob,Status,0.000,,2024-10-13 10:13:04
+CO@6_0_205,1950s Bungalow,Floor1,Kitchen,Electric,Hob,Current,0.022,MegaAmpere,2025-01-13 19:07:13
+CO@6_0_206,1950s Bungalow,Floor1,Kitchen,Electric,Hob,Power,5.427,Watt,2025-01-22 01:33:35
+CO@6_0_208,1950s Bungalow,Floor1,Kitchen,Electric,Hob,CumEnergy,6.000,Watt,2025-01-02 15:21:25
+CO@6_0_21,1950s Bungalow,Floor1,Kitchen,Electric,Sockets,Current,0.000,MegaAmpere,2025-01-10 19:38:47
+CO@6_0_22,1950s Bungalow,Floor1,Kitchen,Electric,Sockets,Power,0.000,Watt,2025-01-10 19:38:47
+CO@6_0_24,1950s Bungalow,Floor1,Kitchen,Electric,Sockets,CumEnergy,,Watt,
+CO@6_0_240,1950s Bungalow,Floor,Global,Electric,Lights,ALL Control,0.000,,2025-01-11 13:10:19
+CO@6_0_241,1950s Bungalow,Floor,Global,Electric,Sockets,All Control,1.000,,2024-12-05 12:37:04
+CO@6_0_3,1950s Bungalow,Floor,Global,Electric,,Power,3735.090,Watt,2025-01-22 14:06:44
+CO@6_0_34,1950s Bungalow,Floor1,Bed1,Electric,Sockets,Control,1.000,,2025-01-09 16:52:24
+CO@6_0_35,1950s Bungalow,Floor1,Bed1,Electric,Sockets,Status,1.000,,2025-01-09 16:52:24
+CO@6_0_37,1950s Bungalow,Floor1,Bed1,Electric,Sockets,Current,0.000,MegaAmpere,2024-10-13 10:12:40
+CO@6_0_38,1950s Bungalow,Floor1,Bed1,Electric,Sockets,Power,0.000,Watt,2024-10-13 10:12:40
+CO@6_0_4,1950s Bungalow,Floor,Global,Electric,,AppPower,3783.780,Watt,2025-01-22 14:07:45
+CO@6_0_40,1950s Bungalow,Floor1,Bed1,Electric,Sockets,CumEnergy,0.000,Watt,2024-10-13 10:12:40
+CO@6_0_42,1950s Bungalow,Floor1,Bed2,Electric,Sockets,Control,1.000,,2025-01-09 16:52:29
+CO@6_0_43,1950s Bungalow,Floor1,Bed2,Electric,Sockets,Status,1.000,,2025-01-09 16:52:29
+CO@6_0_45,1950s Bungalow,Floor1,Bed2,Electric,Sockets,Current,0.000,MegaAmpere,2024-03-07 12:53:05
+CO@6_0_46,1950s Bungalow,Floor1,Bed2,Electric,Sockets,Power,0.000,Watt,2024-03-07 12:53:03
+CO@6_0_48,1950s Bungalow,Floor1,Bed2,Electric,Sockets,CumEnergy,0.000,Watt,2024-03-07 12:53:08
+CO@6_0_5,1950s Bungalow,Floor,Global,Electric,,ReacPower,-72.310,Watt,2024-08-12 10:23:18
+CO@6_0_6,1950s Bungalow,Floor,Global,Electric,,PowerFactor,0.994,Watt,2025-01-22 11:57:31
+CO@6_0_66,1950s Bungalow,Floor1,LivingRoom,Electric,Lights,Control,0.000,,2025-01-09 13:32:00
+CO@6_0_67,1950s Bungalow,Floor1,LivingRoom,Electric,Lights,Status,0.000,,2025-01-09 13:32:00
+CO@6_0_69,1950s Bungalow,Floor1,LivingRoom,Electric,Lights,Current,0.000,MegaAmpere,2025-01-09 13:32:04
+CO@6_0_7,1950s Bungalow,Floor,Global,Electric,,CumEnergy,1967.770,Watt,2025-01-22 14:04:11
+CO@6_0_70,1950s Bungalow,Floor1,LivingRoom,Electric,Lights,Power,0.000,Watt,2025-01-09 13:32:04
+CO@6_0_72,1950s Bungalow,Floor1,LivingRoom,Electric,Lights,CumEnergy,,Watt,
+CO@6_0_74,1950s Bungalow,Floor1,Kitchen,Electric,Lights,Control,0.000,,2024-12-18 07:35:39
+CO@6_0_75,1950s Bungalow,Floor1,Kitchen,Electric,Lights,Status,0.000,,2025-01-09 16:07:14
+CO@6_0_77,1950s Bungalow,Floor1,Kitchen,Electric,Lights,Current,0.000,MegaAmpere,2024-12-18 07:35:43
+CO@6_0_78,1950s Bungalow,Floor1,Kitchen,Electric,Lights,Power,0.000,Watt,2025-01-09 16:07:18
+CO@6_0_8,1950s Bungalow,Floor,Global,Electric,,CumReactEnergy,570.000,,2025-01-22 14:04:11
+CO@6_0_80,1950s Bungalow,Floor1,Kitchen,Electric,Lights,CumEnergy,,Watt,
+CO@6_0_82,1950s Bungalow,Floor1,Hallway,Electric,Lights,Control,0.000,,2024-12-17 07:34:06
+CO@6_0_83,1950s Bungalow,Floor1,Hallway,Electric,Lights,Status,0.000,,2025-01-09 16:07:19
+CO@6_0_85,1950s Bungalow,Floor1,Hallway,Electric,Lights,Current,0.000,MegaAmpere,2025-01-09 16:07:23
+CO@6_0_86,1950s Bungalow,Floor1,Hallway,Electric,Lights,Power,0.000,Watt,2024-12-17 07:34:10
+CO@6_0_88,1950s Bungalow,Floor1,Hallway,Electric,Lights,CumEnergy,,Watt,
+CO@6_0_9,1950s Bungalow,Floor,Global,Electric,,ACFrequency,49.950,,2025-01-21 17:55:48
+CO@6_0_90,1950s Bungalow,Floor1,Vestibule,Electric,Lights,Control,,,
+CO@6_0_91,1950s Bungalow,Floor1,Vestibule,Electric,Lights,Status,0.000,,2024-12-06 14:54:11
+CO@6_0_93,1950s Bungalow,Floor1,Vestibule,Electric,Lights,Current,0.000,MegaAmpere,2024-12-06 14:54:15
+CO@6_0_94,1950s Bungalow,Floor1,Vestibule,Electric,Lights,Power,0.000,Watt,2024-12-06 14:54:14
+CO@6_0_96,1950s Bungalow,Floor1,Vestibule,Electric,Lights,CumEnergy,2.000,Watt,2024-04-18 03:46:06
+CO@6_1_11,1950s Bungalow,Floor1,Bathroom,Electric,Radiator,Current,0.000,MegaAmpere,2025-01-20 06:50:32
+CO@6_1_12,1950s Bungalow,Floor1,Bathroom,Electric,Radiator,Power,0.000,Watt,2025-01-22 11:47:36
+CO@6_1_14,1950s Bungalow,Floor1,Bathroom,Electric,Radiator,CumEnergy,0.000,Watt,2024-03-07 12:52:24
+CO@6_1_8,1950s Bungalow,Floor1,Bathroom,Electric,Radiator,Control,0.000,,2024-10-13 10:12:21
+CO@6_1_9,1950s Bungalow,Floor1,Bathroom,Electric,Radiator,Status,0.000,,2024-10-13 10:12:21
+CO@6_2_0,1950s Bungalow,Floor,Global,Gas,,Volume,605.380,m^3,2025-01-22 14:02:37
+CO@6_3_0,1950s Bungalow,Floor,Global,Water,Meter,Volume,111.700,m^3,2025-01-22 14:03:19
+CO@6_3_1,1950s Bungalow,Floor,Global,Water,Meter,Flow,0.000,,2024-12-21 04:57:13
+CO@6_3_10,1950s Bungalow,Floor1,Kitchen,Water,SinkCold,Temp,8.100,Celsius degrees,2025-01-22 09:12:18
+CO@6_3_11,1950s Bungalow,Floor1,Kitchen,Water,SinkHot,Volume,0.000,m^3,2024-09-19 11:35:53
+CO@6_3_12,1950s Bungalow,Floor1,Kitchen,Water,SinkHot,Flow,0.000,,2025-01-04 15:57:14
+CO@6_3_13,1950s Bungalow,Floor1,Kitchen,Water,SinkHot,Temp,7.800,Celsius degrees,2024-12-21 01:13:08
+CO@6_3_20,1950s Bungalow,Floor1,Bathroom,Water,SinkCold,Volume,0.000,m^3,2025-01-09 15:03:00
+CO@6_3_21,1950s Bungalow,Floor1,Bathroom,Water,SinkCold,Flow,0.000,,2025-01-09 15:03:05
+CO@6_3_22,1950s Bungalow,Floor1,Bathroom,Water,SinkCold,Temp,10.900,Celsius degrees,2025-01-14 15:13:40
+CO@6_3_23,1950s Bungalow,Floor1,Bathroom,Water,SinkHot,Volume,0.000,m^3,2024-11-12 10:16:11
+CO@6_3_24,1950s Bungalow,Floor1,Bathroom,Water,SinkHot,Flow,0.000,,2025-01-09 11:19:23
+CO@6_3_25,1950s Bungalow,Floor1,Bathroom,Water,SinkHot,Temp,10.700,Celsius degrees,2025-01-22 13:58:30
+CO@6_3_26,1950s Bungalow,Floor1,Bathroom,Water,BathCold,Volume,0.000,m^3,2024-09-19 08:53:26
+CO@6_3_27,1950s Bungalow,Floor1,Bathroom,Water,BathCold,Flow,0.000,,2024-12-04 13:59:39
+CO@6_3_28,1950s Bungalow,Floor1,Bathroom,Water,BathCold,Temp,0.600,Celsius degrees,2025-01-22 13:55:46
+CO@6_3_29,1950s Bungalow,Floor1,Bathroom,Water,BathHot,Volume,0.000,m^3,2024-09-19 08:53:21
+CO@6_3_30,1950s Bungalow,Floor1,Bathroom,Water,BathHot,Flow,0.000,,2024-09-19 08:53:27
+CO@6_3_31,1950s Bungalow,Floor1,Bathroom,Water,BathHot,Temp,1.600,Celsius degrees,2024-12-21 01:13:00
+CO@6_3_8,1950s Bungalow,Floor1,Kitchen,Water,SinkCold,Volume,0.000,m^3,2025-01-10 12:06:23
+CO@6_3_83,1950s Bungalow,Floor1,Bathroom,Water,ToiletCold,Volume,0.000,m^3,2025-01-09 15:03:22
+CO@6_3_84,1950s Bungalow,Floor1,Bathroom,Water,ToiletCold,Flow,0.000,,2025-01-09 15:03:30
+CO@6_3_85,1950s Bungalow,Floor1,Bathroom,Water,ToiletCold,Temp,10.500,Celsius degrees,2025-01-14 16:34:16
+CO@6_3_9,1950s Bungalow,Floor1,Kitchen,Water,SinkCold,Flow,0.000,,2025-01-10 12:06:41
+CO@6_4_0,1950s Bungalow,Floor1,LivingRoom,Other,,Temperature,20.900,Celsius degrees,2025-01-22 14:03:19
+CO@6_4_1,1950s Bungalow,Floor1,LivingRoom,Other,,Humidity,37.080,%,2025-01-22 14:03:09
+CO@6_4_10,1950s Bungalow,Floor1,Kitchen,Other,,Temperature,17.810,Celsius degrees,2024-12-21 04:55:04
+CO@6_4_11,1950s Bungalow,Floor1,Kitchen,Other,,Humidity,34.760,%,2025-01-22 14:03:09
+CO@6_4_12,1950s Bungalow,Floor1,Kitchen,Other,,CO2,363.840,Parts per million,2025-01-22 14:03:19
+CO@6_4_120,1950s Bungalow,Floor1,Bathroom,Other,,Temperature,21.120,Celsius degrees,2025-01-22 14:05:28
+CO@6_4_123,1950s Bungalow,Floor1,Bathroom,Other,,Occupancy,0.000,,2025-01-20 10:12:44
+CO@6_4_124,1950s Bungalow,Floor1,Bathroom,Other,,Window1,1.000,,2024-05-08 08:55:07
+CO@6_4_127,1950s Bungalow,Floor1,Bathroom,Other,,Door1,0.000,,2025-01-09 11:19:22
+CO@6_4_13,1950s Bungalow,Floor1,Kitchen,Other,,Occupancy,0.000,,2025-01-22 07:59:37
+CO@6_4_14,1950s Bungalow,Floor1,Kitchen,Other,,Window1,1.000,,2024-11-20 12:51:47
+CO@6_4_17,1950s Bungalow,Floor1,Kitchen,Other,,Door1,0.000,,2024-10-29 16:06:48
+CO@6_4_2,1950s Bungalow,Floor1,LivingRoom,Other,,CO2,345.920,Parts per million,2025-01-22 14:03:19
+CO@6_4_20,1950s Bungalow,Floor1,Hallway,Other,,Temperature,22.320,Celsius degrees,2025-01-22 14:05:29
+CO@6_4_27,1950s Bungalow,Floor1,Hallway,Other,,Door1,1.000,,2024-11-20 12:53:33
+CO@6_4_3,1950s Bungalow,Floor1,LivingRoom,Other,,Occupancy,0.000,,2025-01-21 13:27:29
+CO@6_4_37,1950s Bungalow,Floor1,Vestibule,Other,,Door1,1.000,,2024-11-22 16:06:24
+CO@6_4_4,1950s Bungalow,Floor1,LivingRoom,Other,,Window1,1.000,,2024-07-17 14:42:07
+CO@6_4_7,1950s Bungalow,Floor1,LivingRoom,Other,,Door1,0.000,,2024-06-14 11:13:29
+CO@6_4_80,1950s Bungalow,Floor1,Bed1,Other,,Temperature,17.240,Celsius degrees,2024-12-21 04:54:59
+CO@6_4_81,1950s Bungalow,Floor1,Bed1,Other,,Humidity,45.680,%,2024-12-21 04:52:19
+CO@6_4_82,1950s Bungalow,Floor1,Bed1,Other,,CO2,342.720,Parts per million,2024-12-21 04:54:59
+CO@6_4_83,1950s Bungalow,Floor1,Bed1,Other,,Occupancy,0.000,,2024-11-22 15:51:56
+CO@6_4_84,1950s Bungalow,Floor1,Bed1,Other,,Window1,0.000,,2024-03-07 13:30:15
+CO@6_4_87,1950s Bungalow,Floor1,Bed1,Other,,Door1,0.000,,2024-07-17 14:43:52
+CO@6_4_90,1950s Bungalow,Floor1,Bed2,Other,,Temperature,19.040,Celsius degrees,2025-01-22 14:03:20
+CO@6_4_91,1950s Bungalow,Floor1,Bed2,Other,,Humidity,42.080,%,2025-01-22 14:03:10
+CO@6_4_92,1950s Bungalow,Floor1,Bed2,Other,,CO2,382.720,Parts per million,2024-12-21 04:55:10
+CO@6_4_93,1950s Bungalow,Floor1,Bed2,Other,,Occupancy,0.000,,2024-11-20 14:07:07
+CO@6_4_94,1950s Bungalow,Floor1,Bed2,Other,,Window1,1.000,,2023-12-11 15:31:58
+CO@6_4_97,1950s Bungalow,Floor1,Bed2,Other,,Door1,0.000,,2024-09-06 12:51:36
+CO@6_5_0,1950s Bungalow,Floor,Global,HeatingControl,,HeatDemandPWM,0.000,,2025-01-22 14:05:17
+CO@6_5_10,1950s Bungalow,Floor1,Kitchen,HeatingControl,,Setpoint,21.000,,2024-11-28 07:50:51
+CO@6_5_11,1950s Bungalow,Floor1,Kitchen,HeatingControl,Setpoint,Status,21.000,,2024-11-28 07:50:51
+CO@6_5_13,1950s Bungalow,Floor1,Kitchen,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:05:12
+CO@6_5_14,1950s Bungalow,Floor1,Kitchen,HeatingControl,HeatDemand,Status,0.000,,2025-01-20 10:34:04
+CO@6_5_15,1950s Bungalow,Floor1,Hallway,HeatingControl,,Setpoint,21.000,,2024-11-28 07:50:51
+CO@6_5_16,1950s Bungalow,Floor1,Hallway,HeatingControl,Setpoint,Status,21.000,,2024-11-28 07:50:51
+CO@6_5_18,1950s Bungalow,Floor1,Hallway,HeatingControl,,HeatDemandPERC,0.000,,2024-12-21 04:57:17
+CO@6_5_19,1950s Bungalow,Floor1,Hallway,HeatingControl,HeatDemand,Status,0.000,,2025-01-20 10:38:54
+CO@6_5_2,1950s Bungalow,Floor,Global,HeatingControl,HeatDemand,Status,0.000,,2024-12-20 22:57:22
+CO@6_5_200,1950s Bungalow,Floor,Global,HeatingControl,CentralSetpoint,Control,21.000,,2024-11-28 07:50:48
+CO@6_5_201,1950s Bungalow,Floor,Global,HeatingControl,CentralSetpoint,Status,21.000,,2024-11-28 07:50:51
+CO@6_5_202,1950s Bungalow,Floor,Global,HeatingControl,CentralOnOff,Control,1.000,,2025-01-11 13:10:19
+CO@6_5_203,1950s Bungalow,Floor,Global,HeatingControl,CentralOnOff,Status,,,
+CO@6_5_3,1950s Bungalow,Floor,Global,HeatingControl,HotWater,Control,0.000,,2024-10-13 10:12:05
+CO@6_5_4,1950s Bungalow,Floor,Global,HeatingControl,HotWater,Status,0.000,,2024-10-13 10:12:05
+CO@6_5_40,1950s Bungalow,Floor1,Bed1,HeatingControl,,Setpoint,19.000,,2025-01-07 11:23:42
+CO@6_5_41,1950s Bungalow,Floor1,Bed1,HeatingControl,Setpoint,Status,19.000,,2025-01-07 11:23:38
+CO@6_5_43,1950s Bungalow,Floor1,Bed1,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:05:13
+CO@6_5_44,1950s Bungalow,Floor1,Bed1,HeatingControl,HeatDemand,Status,0.000,,2025-01-20 10:41:23
+CO@6_5_45,1950s Bungalow,Floor1,Bed2,HeatingControl,,Setpoint,18.000,,2024-12-03 16:20:17
+CO@6_5_46,1950s Bungalow,Floor1,Bed2,HeatingControl,Setpoint,Status,18.000,,2024-12-03 16:20:17
+CO@6_5_48,1950s Bungalow,Floor1,Bed2,HeatingControl,,HeatDemandPERC,0.000,,2024-12-21 04:57:17
+CO@6_5_49,1950s Bungalow,Floor1,Bed2,HeatingControl,HeatDemand,Status,0.000,,2024-12-20 22:57:45
+CO@6_5_5,1950s Bungalow,Floor1,LivingRoom,HeatingControl,,Setpoint,21.000,,2024-11-28 07:50:50
+CO@6_5_6,1950s Bungalow,Floor1,LivingRoom,HeatingControl,Setpoint,Status,21.000,,2024-11-28 07:50:50
+CO@6_5_60,1950s Bungalow,Floor1,Bathroom,HeatingControl,,Setpoint,21.000,,2024-11-28 07:50:51
+CO@6_5_61,1950s Bungalow,Floor1,Bathroom,HeatingControl,Setpoint,Status,21.000,,2024-11-28 07:50:51
+CO@6_5_62,1950s Bungalow,Floor1,Bathroom,HeatingControl,,HeatDemandPWM,0.000,,2025-01-22 14:05:17
+CO@6_5_63,1950s Bungalow,Floor1,Bathroom,HeatingControl,,HeatDemandPERC,,,
+CO@6_5_64,1950s Bungalow,Floor1,Bathroom,HeatingControl,HeatDemand,Status,0.000,,2024-12-11 21:45:43
+CO@6_5_8,1950s Bungalow,Floor1,LivingRoom,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:05:12
+CO@6_5_9,1950s Bungalow,Floor1,LivingRoom,HeatingControl,HeatDemand,Status,0.000,,2024-12-20 22:57:54
+CO@7_0_1,1970s Ground Floor Flat,Floor,Global,Electric,,Voltage,244.000,Volts,2025-01-21 23:35:03
+CO@7_0_10,1970s Ground Floor Flat,Floor1,LivingRoom,Electric,Sockets,Control,1.000,,2025-01-09 16:52:36
+CO@7_0_11,1970s Ground Floor Flat,Floor1,LivingRoom,Electric,Sockets,Status,1.000,,2025-01-09 16:52:36
+CO@7_0_122,1970s Ground Floor Flat,Floor1,Landing,Electric,Lights,Control,,,
+CO@7_0_13,1970s Ground Floor Flat,Floor1,LivingRoom,Electric,Sockets,Current,0.000,MegaAmpere,2024-10-13 10:07:45
+CO@7_0_130,1970s Ground Floor Flat,Floor1,Bed1,Electric,Lights,Control,0.000,,2025-01-09 16:03:38
+CO@7_0_131,1970s Ground Floor Flat,Floor1,Bed1,Electric,Lights,Status,0.000,,2025-01-09 16:03:38
+CO@7_0_133,1970s Ground Floor Flat,Floor1,Bed1,Electric,Lights,Current,0.000,MegaAmpere,2025-01-09 16:03:42
+CO@7_0_134,1970s Ground Floor Flat,Floor1,Bed1,Electric,Lights,Power,0.000,Watt,2025-01-09 16:03:42
+CO@7_0_136,1970s Ground Floor Flat,Floor1,Bed1,Electric,Lights,CumEnergy,,Watt,
+CO@7_0_138,1970s Ground Floor Flat,Floor1,Bed2,Electric,Lights,Control,0.000,,2025-01-07 14:16:03
+CO@7_0_139,1970s Ground Floor Flat,Floor1,Bed2,Electric,Lights,Status,0.000,,2025-01-07 14:16:04
+CO@7_0_14,1970s Ground Floor Flat,Floor1,LivingRoom,Electric,Sockets,Power,0.000,Watt,2024-10-13 10:07:45
+CO@7_0_141,1970s Ground Floor Flat,Floor1,Bed2,Electric,Lights,Current,0.000,MegaAmpere,2025-01-07 14:16:08
+CO@7_0_142,1970s Ground Floor Flat,Floor1,Bed2,Electric,Lights,Power,0.000,Watt,2025-01-07 14:16:07
+CO@7_0_144,1970s Ground Floor Flat,Floor1,Bed2,Electric,Lights,CumEnergy,,Watt,
+CO@7_0_16,1970s Ground Floor Flat,Floor1,LivingRoom,Electric,Sockets,CumEnergy,0.000,Watt,2024-10-13 10:07:45
+CO@7_0_162,1970s Ground Floor Flat,Floor1,Bathroom,Electric,Lights,Control,0.000,,2025-01-09 16:05:08
+CO@7_0_163,1970s Ground Floor Flat,Floor1,Bathroom,Electric,Lights,Status,0.000,,2025-01-09 16:05:08
+CO@7_0_165,1970s Ground Floor Flat,Floor1,Bathroom,Electric,Lights,Current,0.316,MegaAmpere,2025-01-09 16:02:39
+CO@7_0_166,1970s Ground Floor Flat,Floor1,Bathroom,Electric,Lights,Power,74.807,Watt,2025-01-22 14:01:14
+CO@7_0_168,1970s Ground Floor Flat,Floor1,Bathroom,Electric,Lights,CumEnergy,635.000,Watt,2025-01-05 07:13:24
+CO@7_0_178,1970s Ground Floor Flat,Floor,Stairwell,Electric,Lights,Control,0.000,,2025-01-09 16:03:19
+CO@7_0_179,1970s Ground Floor Flat,Floor,Stairwell,Electric,Lights,Status,0.000,,2025-01-09 16:03:19
+CO@7_0_18,1970s Ground Floor Flat,Floor1,Kitchen,Electric,Sockets,Control,1.000,,2025-01-07 14:15:06
+CO@7_0_181,1970s Ground Floor Flat,Floor,Stairwell,Electric,Lights,Current,0.000,MegaAmpere,2025-01-09 16:03:23
+CO@7_0_182,1970s Ground Floor Flat,Floor,Stairwell,Electric,Lights,Power,0.000,Watt,2025-01-09 16:03:23
+CO@7_0_184,1970s Ground Floor Flat,Floor,Stairwell,Electric,Lights,CumEnergy,5.000,Watt,2025-01-09 15:56:16
+CO@7_0_19,1970s Ground Floor Flat,Floor1,Kitchen,Electric,Sockets,Status,1.000,,2025-01-07 14:15:07
+CO@7_0_194,1970s Ground Floor Flat,Floor,Global,Electric,Immersion,Control,0.000,,2024-10-13 10:09:18
+CO@7_0_195,1970s Ground Floor Flat,Floor,Global,Electric,Immersion,Status,0.000,,2024-10-13 10:09:19
+CO@7_0_196,1970s Ground Floor Flat,Floor,Global,Electric,Immersion,Voltage,,Volts,
+CO@7_0_197,1970s Ground Floor Flat,Floor,Global,Electric,Immersion,Current,0.000,MegaAmpere,2024-10-13 10:07:14
+CO@7_0_198,1970s Ground Floor Flat,Floor,Global,Electric,Immersion,Power,0.000,Watt,2024-10-13 10:07:14
+CO@7_0_2,1970s Ground Floor Flat,Floor,Global,Electric,,Current,1066133357.000,MegaAmpere,2023-12-01 18:41:08
+CO@7_0_200,1970s Ground Floor Flat,Floor,Global,Electric,Immersion,CumEnergy,0.000,Watt,2024-10-13 10:07:14
+CO@7_0_202,1970s Ground Floor Flat,Floor1,Kitchen,Electric,Hob,Control,0.000,,2024-10-13 10:08:29
+CO@7_0_203,1970s Ground Floor Flat,Floor1,Kitchen,Electric,Hob,Status,0.000,,2024-10-13 10:08:30
+CO@7_0_204,1970s Ground Floor Flat,Floor1,Kitchen,Electric,Hob,Voltage,,Volts,
+CO@7_0_205,1970s Ground Floor Flat,Floor1,Kitchen,Electric,Hob,Current,0.000,MegaAmpere,2024-10-13 10:07:54
+CO@7_0_206,1970s Ground Floor Flat,Floor1,Kitchen,Electric,Hob,Power,4.971,Watt,2025-01-22 14:01:14
+CO@7_0_208,1970s Ground Floor Flat,Floor1,Kitchen,Electric,Hob,CumEnergy,30.000,Watt,2024-12-22 20:51:20
+CO@7_0_21,1970s Ground Floor Flat,Floor1,Kitchen,Electric,Sockets,Current,0.000,MegaAmpere,2024-10-13 10:07:50
+CO@7_0_22,1970s Ground Floor Flat,Floor1,Kitchen,Electric,Sockets,Power,0.000,Watt,2024-10-13 10:07:50
+CO@7_0_24,1970s Ground Floor Flat,Floor1,Kitchen,Electric,Sockets,CumEnergy,0.000,Watt,2024-10-13 10:07:51
+CO@7_0_240,1970s Ground Floor Flat,Floor,Global,Electric,Lights,ALL Control,0.000,,2025-01-11 13:10:28
+CO@7_0_241,1970s Ground Floor Flat,Floor,Global,Electric,Sockets,All Control,1.000,,2025-01-07 14:15:02
+CO@7_0_3,1970s Ground Floor Flat,Floor,Global,Electric,,Power,2544.490,Watt,2025-01-22 14:07:33
+CO@7_0_34,1970s Ground Floor Flat,Floor1,Bed1,Electric,Sockets,Control,1.000,,2025-01-09 16:52:42
+CO@7_0_35,1970s Ground Floor Flat,Floor1,Bed1,Electric,Sockets,Status,1.000,,2025-01-09 16:52:42
+CO@7_0_37,1970s Ground Floor Flat,Floor1,Bed1,Electric,Sockets,Current,,MegaAmpere,
+CO@7_0_38,1970s Ground Floor Flat,Floor1,Bed1,Electric,Sockets,Power,,Watt,
+CO@7_0_4,1970s Ground Floor Flat,Floor,Global,Electric,,AppPower,2832.000,Watt,2025-01-22 14:07:48
+CO@7_0_40,1970s Ground Floor Flat,Floor1,Bed1,Electric,Sockets,CumEnergy,,Watt,
+CO@7_0_42,1970s Ground Floor Flat,Floor1,Bed2,Electric,Sockets,Control,1.000,,2025-01-09 16:52:45
+CO@7_0_43,1970s Ground Floor Flat,Floor1,Bed2,Electric,Sockets,Status,1.000,,2025-01-09 16:52:45
+CO@7_0_45,1970s Ground Floor Flat,Floor1,Bed2,Electric,Sockets,Current,0.000,MegaAmpere,2024-10-13 10:07:31
+CO@7_0_46,1970s Ground Floor Flat,Floor1,Bed2,Electric,Sockets,Power,0.000,Watt,2024-10-13 10:07:31
+CO@7_0_48,1970s Ground Floor Flat,Floor1,Bed2,Electric,Sockets,CumEnergy,0.000,Watt,2024-10-13 10:07:31
+CO@7_0_5,1970s Ground Floor Flat,Floor,Global,Electric,,ReacPower,443.730,Watt,2024-02-28 01:01:02
+CO@7_0_6,1970s Ground Floor Flat,Floor,Global,Electric,,PowerFactor,0.996,Watt,2025-01-22 14:05:55
+CO@7_0_66,1970s Ground Floor Flat,Floor1,LivingRoom,Electric,Lights,Control,0.000,,2025-01-07 15:28:29
+CO@7_0_67,1970s Ground Floor Flat,Floor1,LivingRoom,Electric,Lights,Status,0.000,,2025-01-07 15:28:29
+CO@7_0_69,1970s Ground Floor Flat,Floor1,LivingRoom,Electric,Lights,Current,0.000,MegaAmpere,2024-12-19 14:30:41
+CO@7_0_7,1970s Ground Floor Flat,Floor,Global,Electric,,CumEnergy,9813.940,Watt,2025-01-22 14:04:05
+CO@7_0_70,1970s Ground Floor Flat,Floor1,LivingRoom,Electric,Lights,Power,0.000,Watt,2024-12-19 14:30:41
+CO@7_0_72,1970s Ground Floor Flat,Floor1,LivingRoom,Electric,Lights,CumEnergy,,Watt,
+CO@7_0_74,1970s Ground Floor Flat,Floor1,Kitchen,Electric,Lights,Control,0.000,,2024-10-13 10:08:30
+CO@7_0_75,1970s Ground Floor Flat,Floor1,Kitchen,Electric,Lights,Status,0.000,,2024-10-13 10:09:13
+CO@7_0_77,1970s Ground Floor Flat,Floor1,Kitchen,Electric,Lights,Current,1032805417.000,MegaAmpere,2023-12-11 10:56:00
+CO@7_0_78,1970s Ground Floor Flat,Floor1,Kitchen,Electric,Lights,Power,1098616144.000,Watt,2023-12-11 10:55:58
+CO@7_0_8,1970s Ground Floor Flat,Floor,Global,Electric,,CumReactEnergy,400.000,,2025-01-22 14:04:05
+CO@7_0_80,1970s Ground Floor Flat,Floor1,Kitchen,Electric,Lights,CumEnergy,,Watt,
+CO@7_0_82,1970s Ground Floor Flat,Floor1,Hallway,Electric,Lights,Control,0.000,,2025-01-22 08:07:24
+CO@7_0_83,1970s Ground Floor Flat,Floor1,Hallway,Electric,Lights,Status,0.000,,2025-01-22 08:07:24
+CO@7_0_85,1970s Ground Floor Flat,Floor1,Hallway,Electric,Lights,Current,0.000,MegaAmpere,2025-01-22 08:07:28
+CO@7_0_86,1970s Ground Floor Flat,Floor1,Hallway,Electric,Lights,Power,0.000,Watt,2025-01-22 08:07:28
+CO@7_0_88,1970s Ground Floor Flat,Floor1,Hallway,Electric,Lights,CumEnergy,,Watt,
+CO@7_0_9,1970s Ground Floor Flat,Floor,Global,Electric,,ACFrequency,50.170,,2025-01-22 13:25:03
+CO@7_1_11,1970s Ground Floor Flat,Floor1,Bathroom,Electric,Radiator,Current,0.000,MegaAmpere,2024-10-13 10:07:25
+CO@7_1_12,1970s Ground Floor Flat,Floor1,Bathroom,Electric,Radiator,Power,0.000,Watt,2024-10-13 10:07:25
+CO@7_1_14,1970s Ground Floor Flat,Floor1,Bathroom,Electric,Radiator,CumEnergy,0.000,Watt,2024-10-13 10:07:25
+CO@7_1_213,1970s Ground Floor Flat,Floor1,LivingRoom,Electric,Radiator,Status,0.000,,2024-12-04 16:28:18
+CO@7_1_215,1970s Ground Floor Flat,Floor1,Hallway,Electric,Radiator,Status,0.000,,2025-01-11 13:10:29
+CO@7_1_217,1970s Ground Floor Flat,Floor1,Bed1,Electric,Radiator,Status,0.000,,2025-01-10 19:25:38
+CO@7_1_219,1970s Ground Floor Flat,Floor1,Bed2,Electric,Radiator,Status,0.000,,2025-01-07 15:37:54
+CO@7_1_8,1970s Ground Floor Flat,Floor1,Bathroom,Electric,Radiator,Control,0.000,,2024-10-13 10:09:01
+CO@7_1_9,1970s Ground Floor Flat,Floor1,Bathroom,Electric,Radiator,Status,0.000,,2024-10-13 10:09:01
+CO@7_2_0,1970s Ground Floor Flat,Floor,Global,Gas,,Volume,0.000,m^3,2025-01-22 14:02:26
+CO@7_3_0,1970s Ground Floor Flat,Floor,Global,Water,Meter,Volume,768.000,m^3,2024-12-21 04:55:04
+CO@7_3_1,1970s Ground Floor Flat,Floor,Global,Water,Meter,Flow,0.000,,2025-01-22 14:02:53
+CO@7_3_10,1970s Ground Floor Flat,Floor1,Kitchen,Water,SinkCold,Temp,11.700,Celsius degrees,2025-01-15 10:17:42
+CO@7_3_11,1970s Ground Floor Flat,Floor1,Kitchen,Water,SinkHot,Volume,0.000,m^3,2024-09-06 13:34:04
+CO@7_3_12,1970s Ground Floor Flat,Floor1,Kitchen,Water,SinkHot,Flow,0.000,,2024-09-11 11:53:42
+CO@7_3_13,1970s Ground Floor Flat,Floor1,Kitchen,Water,SinkHot,Temp,2.100,Celsius degrees,2024-11-19 22:40:18
+CO@7_3_20,1970s Ground Floor Flat,Floor1,Bathroom,Water,SinkCold,Volume,0.000,m^3,2024-09-19 09:02:11
+CO@7_3_21,1970s Ground Floor Flat,Floor1,Bathroom,Water,SinkCold,Flow,0.000,,2025-01-09 10:55:36
+CO@7_3_22,1970s Ground Floor Flat,Floor1,Bathroom,Water,SinkCold,Temp,12.400,Celsius degrees,2025-01-14 20:46:16
+CO@7_3_23,1970s Ground Floor Flat,Floor1,Bathroom,Water,SinkHot,Volume,0.000,m^3,2024-11-05 12:53:37
+CO@7_3_24,1970s Ground Floor Flat,Floor1,Bathroom,Water,SinkHot,Flow,0.000,,2025-01-09 14:45:09
+CO@7_3_25,1970s Ground Floor Flat,Floor1,Bathroom,Water,SinkHot,Temp,12.300,Celsius degrees,2025-01-14 20:46:16
+CO@7_3_32,1970s Ground Floor Flat,Floor1,Bathroom,Water,ShowerCold,Volume,,m^3,
+CO@7_3_33,1970s Ground Floor Flat,Floor1,Bathroom,Water,ShowerCold,Flow,,,
+CO@7_3_34,1970s Ground Floor Flat,Floor1,Bathroom,Water,ShowerCold,Temp,,Celsius degrees,
+CO@7_3_35,1970s Ground Floor Flat,Floor1,Bathroom,Water,ShowerHot,Volume,17.000,m^3,2023-12-21 14:13:07
+CO@7_3_36,1970s Ground Floor Flat,Floor1,Bathroom,Water,ShowerHot,Flow,,,
+CO@7_3_37,1970s Ground Floor Flat,Floor1,Bathroom,Water,ShowerHot,Temp,,Celsius degrees,
+CO@7_3_8,1970s Ground Floor Flat,Floor1,Kitchen,Water,SinkCold,Volume,0.000,m^3,2024-09-11 12:20:30
+CO@7_3_83,1970s Ground Floor Flat,Floor1,Bathroom,Water,ToiletCold,Volume,,m^3,
+CO@7_3_84,1970s Ground Floor Flat,Floor1,Bathroom,Water,ToiletCold,Flow,0.000,,2024-10-09 16:47:17
+CO@7_3_85,1970s Ground Floor Flat,Floor1,Bathroom,Water,ToiletCold,Temp,2.500,Celsius degrees,2024-11-19 18:40:34
+CO@7_3_9,1970s Ground Floor Flat,Floor1,Kitchen,Water,SinkCold,Flow,0.000,,2025-01-09 14:45:36
+CO@7_4_0,1970s Ground Floor Flat,Floor1,LivingRoom,Other,,Temperature,22.020,Celsius degrees,2025-01-22 14:03:49
+CO@7_4_1,1970s Ground Floor Flat,Floor1,LivingRoom,Other,,Humidity,47.640,%,2024-12-21 04:52:42
+CO@7_4_10,1970s Ground Floor Flat,Floor1,Kitchen,Other,,Temperature,21.480,Celsius degrees,2025-01-22 14:03:46
+CO@7_4_11,1970s Ground Floor Flat,Floor1,Kitchen,Other,,Humidity,40.220,%,2025-01-22 14:03:36
+CO@7_4_12,1970s Ground Floor Flat,Floor1,Kitchen,Other,,CO2,363.840,Parts per million,2025-01-22 14:03:46
+CO@7_4_120,1970s Ground Floor Flat,Floor1,Bathroom,Other,,Temperature,,Celsius degrees,
+CO@7_4_127,1970s Ground Floor Flat,Floor1,Bathroom,Other,,Door1,0.000,,2025-01-09 11:07:27
+CO@7_4_14,1970s Ground Floor Flat,Floor1,Kitchen,Other,,Window1,1.000,,2024-11-21 18:45:42
+CO@7_4_150,1970s Ground Floor Flat,Floor,Global,Other,,ExternalTemp,,Celsius degrees,
+CO@7_4_151,1970s Ground Floor Flat,Floor,Global,Other,,ExternalHumidity,,%,
+CO@7_4_152,1970s Ground Floor Flat,Floor,Global,Other,,ExternalGlobalRadiation,,Watt/m^2,
+CO@7_4_153,1970s Ground Floor Flat,Floor,Global,Other,,ExternalRain,,,
+CO@7_4_154,1970s Ground Floor Flat,Floor,Global,Other,,ExternalWindSpeed,,m/s,
+CO@7_4_155,1970s Ground Floor Flat,Floor,Global,Other,,ExternalWindDirection,,degrees,
+CO@7_4_2,1970s Ground Floor Flat,Floor1,LivingRoom,Other,,CO2,269.920,Parts per million,2025-01-22 14:03:49
+CO@7_4_20,1970s Ground Floor Flat,Floor1,Hallway,Other,,Temperature,9.020,Celsius degrees,2024-12-21 04:55:31
+CO@7_4_27,1970s Ground Floor Flat,Floor1,Hallway,Other,,Door1,1.000,,2025-01-22 12:40:16
+CO@7_4_3,1970s Ground Floor Flat,Floor1,LivingRoom,Other,,Occupancy,1.000,,2025-01-22 14:06:46
+CO@7_4_4,1970s Ground Floor Flat,Floor1,LivingRoom,Other,,Window1,1.000,,2024-11-22 14:32:11
+CO@7_4_7,1970s Ground Floor Flat,Floor1,LivingRoom,Other,,Door1,0.000,,2024-12-17 13:46:52
+CO@7_4_70,1970s Ground Floor Flat,Floor1,Landing,Other,,Temperature,6.890,Celsius degrees,2025-01-22 14:05:24
+CO@7_4_80,1970s Ground Floor Flat,Floor1,Bed1,Other,,Temperature,19.370,Celsius degrees,2025-01-22 14:03:49
+CO@7_4_81,1970s Ground Floor Flat,Floor1,Bed1,Other,,Humidity,47.160,%,2025-01-22 14:03:39
+CO@7_4_82,1970s Ground Floor Flat,Floor1,Bed1,Other,,CO2,326.880,Parts per million,2025-01-22 14:03:49
+CO@7_4_83,1970s Ground Floor Flat,Floor1,Bed1,Other,,Occupancy,0.000,,2025-01-22 12:40:34
+CO@7_4_84,1970s Ground Floor Flat,Floor1,Bed1,Other,,Window1,1.000,,2024-11-21 18:45:42
+CO@7_4_87,1970s Ground Floor Flat,Floor1,Bed1,Other,,Door1,0.000,,2024-11-21 18:46:12
+CO@7_4_90,1970s Ground Floor Flat,Floor1,Bed2,Other,,Temperature,21.060,Celsius degrees,2025-01-22 14:03:48
+CO@7_4_91,1970s Ground Floor Flat,Floor1,Bed2,Other,,Humidity,42.880,%,2025-01-22 14:03:37
+CO@7_4_92,1970s Ground Floor Flat,Floor1,Bed2,Other,,CO2,266.880,Parts per million,2024-12-21 04:55:17
+CO@7_4_93,1970s Ground Floor Flat,Floor1,Bed2,Other,,Occupancy,1.000,,2025-01-22 14:07:32
+CO@7_4_94,1970s Ground Floor Flat,Floor1,Bed2,Other,,Window1,1.000,,2024-11-21 18:45:42
+CO@7_4_97,1970s Ground Floor Flat,Floor1,Bed2,Other,,Door1,0.000,,2024-11-21 18:46:11
+CO@7_5_0,1970s Ground Floor Flat,Floor,Global,HeatingControl,,HeatDemandPWM,1.000,,2024-12-21 04:54:30
+CO@7_5_15,1970s Ground Floor Flat,Floor1,Hallway,HeatingControl,,Setpoint,21.000,,2025-01-07 14:14:43
+CO@7_5_16,1970s Ground Floor Flat,Floor1,Hallway,HeatingControl,Setpoint,Status,21.000,,2025-01-07 14:14:43
+CO@7_5_17,1970s Ground Floor Flat,Floor1,Hallway,HeatingControl,,HeatDemandPWM,0.000,,2025-01-22 14:05:11
+CO@7_5_18,1970s Ground Floor Flat,Floor1,Hallway,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:05:11
+CO@7_5_2,1970s Ground Floor Flat,Floor,Global,HeatingControl,HeatDemand,Status,1.000,,2024-10-29 08:08:36
+CO@7_5_200,1970s Ground Floor Flat,Floor,Global,HeatingControl,CentralSetpoint,Control,21.000,,2025-01-07 14:14:42
+CO@7_5_201,1970s Ground Floor Flat,Floor,Global,HeatingControl,CentralSetpoint,Status,21.000,,2025-01-07 14:14:43
+CO@7_5_202,1970s Ground Floor Flat,Floor,Global,HeatingControl,CentralOnOff,Control,1.000,,2025-01-09 10:17:15
+CO@7_5_203,1970s Ground Floor Flat,Floor,Global,HeatingControl,CentralOnOff,Status,,,
+CO@7_5_3,1970s Ground Floor Flat,Floor,Global,HeatingControl,HotWater,Control,,,
+CO@7_5_4,1970s Ground Floor Flat,Floor,Global,HeatingControl,HotWater,Status,,,
+CO@7_5_40,1970s Ground Floor Flat,Floor1,Bed1,HeatingControl,,Setpoint,16.000,,2024-12-03 16:21:14
+CO@7_5_41,1970s Ground Floor Flat,Floor1,Bed1,HeatingControl,Setpoint,Status,16.500,,2024-12-03 16:21:14
+CO@7_5_42,1970s Ground Floor Flat,Floor1,Bed1,HeatingControl,,HeatDemandPWM,0.000,,2025-01-22 14:05:11
+CO@7_5_43,1970s Ground Floor Flat,Floor1,Bed1,HeatingControl,,HeatDemandPERC,100.000,,2024-12-21 04:55:29
+CO@7_5_45,1970s Ground Floor Flat,Floor1,Bed2,HeatingControl,,Setpoint,16.000,,2024-12-03 16:21:19
+CO@7_5_46,1970s Ground Floor Flat,Floor1,Bed2,HeatingControl,Setpoint,Status,16.000,,2024-12-03 16:21:18
+CO@7_5_47,1970s Ground Floor Flat,Floor1,Bed2,HeatingControl,,HeatDemandPWM,1.000,,2024-12-21 04:55:35
+CO@7_5_48,1970s Ground Floor Flat,Floor1,Bed2,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:05:11
+CO@7_5_5,1970s Ground Floor Flat,Floor1,LivingRoom,HeatingControl,,Setpoint,21.000,,2025-01-07 14:14:42
+CO@7_5_6,1970s Ground Floor Flat,Floor1,LivingRoom,HeatingControl,Setpoint,Status,21.000,,2025-01-07 14:14:42
+CO@7_5_60,1970s Ground Floor Flat,Floor1,Bathroom,HeatingControl,,Setpoint,,,
+CO@7_5_61,1970s Ground Floor Flat,Floor1,Bathroom,HeatingControl,Setpoint,Status,,,
+CO@7_5_7,1970s Ground Floor Flat,Floor1,LivingRoom,HeatingControl,,HeatDemandPWM,0.000,,2024-12-21 04:55:39
+CO@7_5_8,1970s Ground Floor Flat,Floor1,LivingRoom,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:05:10
+CO@8_0_1,1970s First Floor Flat,Floor,Global,Electric,,Voltage,247.000,Volts,2025-01-22 13:52:40
+CO@8_0_10,1970s First Floor Flat,Floor2,LivingRoom,Electric,Sockets,Control,1.000,,2025-01-09 16:52:53
+CO@8_0_11,1970s First Floor Flat,Floor2,LivingRoom,Electric,Sockets,Status,1.000,,2024-03-07 12:27:16
+CO@8_0_122,1970s First Floor Flat,Floor2,Landing,Electric,Lights,Control,,,
+CO@8_0_13,1970s First Floor Flat,Floor2,LivingRoom,Electric,Sockets,Current,0.035,MegaAmpere,2024-03-07 12:33:12
+CO@8_0_130,1970s First Floor Flat,Floor2,Bed1,Electric,Lights,Control,0.000,,2025-01-09 16:04:41
+CO@8_0_131,1970s First Floor Flat,Floor2,Bed1,Electric,Lights,Status,0.000,,2025-01-09 16:04:41
+CO@8_0_133,1970s First Floor Flat,Floor2,Bed1,Electric,Lights,Current,0.000,MegaAmpere,2025-01-09 16:04:45
+CO@8_0_134,1970s First Floor Flat,Floor2,Bed1,Electric,Lights,Power,0.000,Watt,2025-01-09 16:04:45
+CO@8_0_136,1970s First Floor Flat,Floor2,Bed1,Electric,Lights,CumEnergy,,Watt,
+CO@8_0_138,1970s First Floor Flat,Floor2,Bed2,Electric,Lights,Control,0.000,,2025-01-07 14:10:24
+CO@8_0_139,1970s First Floor Flat,Floor2,Bed2,Electric,Lights,Status,0.000,,2025-01-07 14:10:24
+CO@8_0_14,1970s First Floor Flat,Floor2,LivingRoom,Electric,Sockets,Power,8.481,Watt,2024-03-07 12:33:11
+CO@8_0_141,1970s First Floor Flat,Floor2,Bed2,Electric,Lights,Current,0.043,MegaAmpere,2024-03-07 12:18:30
+CO@8_0_142,1970s First Floor Flat,Floor2,Bed2,Electric,Lights,Power,10.419,Watt,2024-03-07 12:18:33
+CO@8_0_144,1970s First Floor Flat,Floor2,Bed2,Electric,Lights,CumEnergy,,Watt,
+CO@8_0_16,1970s First Floor Flat,Floor2,LivingRoom,Electric,Sockets,CumEnergy,0.000,Watt,2024-03-07 12:27:30
+CO@8_0_162,1970s First Floor Flat,Floor2,Bathroom,Electric,Lights,Control,0.000,,2025-01-09 15:08:04
+CO@8_0_163,1970s First Floor Flat,Floor2,Bathroom,Electric,Lights,Status,0.000,,2025-01-09 15:08:04
+CO@8_0_165,1970s First Floor Flat,Floor2,Bathroom,Electric,Lights,Current,0.000,MegaAmpere,2025-01-09 15:08:09
+CO@8_0_166,1970s First Floor Flat,Floor2,Bathroom,Electric,Lights,Power,0.000,Watt,2025-01-09 15:08:08
+CO@8_0_168,1970s First Floor Flat,Floor2,Bathroom,Electric,Lights,CumEnergy,,Watt,
+CO@8_0_178,1970s First Floor Flat,Floor,Stairwell,Electric,Lights,Control,,,
+CO@8_0_179,1970s First Floor Flat,Floor,Stairwell,Electric,Lights,Status,0.000,,2025-01-09 15:08:04
+CO@8_0_18,1970s First Floor Flat,Floor2,Kitchen,Electric,Sockets,Control,1.000,,2025-01-09 16:52:56
+CO@8_0_181,1970s First Floor Flat,Floor,Stairwell,Electric,Lights,Current,0.000,MegaAmpere,2025-01-09 15:08:09
+CO@8_0_182,1970s First Floor Flat,Floor,Stairwell,Electric,Lights,Power,0.000,Watt,2025-01-09 15:08:09
+CO@8_0_184,1970s First Floor Flat,Floor,Stairwell,Electric,Lights,CumEnergy,5.000,Watt,2024-05-04 06:47:23
+CO@8_0_19,1970s First Floor Flat,Floor2,Kitchen,Electric,Sockets,Status,,,
+CO@8_0_194,1970s First Floor Flat,Floor,Global,Electric,Immersion,Control,,,
+CO@8_0_195,1970s First Floor Flat,Floor,Global,Electric,Immersion,Status,1.000,,2024-06-03 09:16:04
+CO@8_0_196,1970s First Floor Flat,Floor,Global,Electric,Immersion,Voltage,,Volts,
+CO@8_0_197,1970s First Floor Flat,Floor,Global,Electric,Immersion,Current,0.000,MegaAmpere,2024-06-03 09:25:57
+CO@8_0_198,1970s First Floor Flat,Floor,Global,Electric,Immersion,Power,0.000,Watt,2024-06-03 09:25:57
+CO@8_0_2,1970s First Floor Flat,Floor,Global,Electric,,Current,1086448469.000,MegaAmpere,2024-01-08 13:41:57
+CO@8_0_200,1970s First Floor Flat,Floor,Global,Electric,Immersion,CumEnergy,4.000,Watt,2024-06-03 09:16:08
+CO@8_0_202,1970s First Floor Flat,Floor2,Kitchen,Electric,Hob,Control,1.000,,2024-03-07 12:20:44
+CO@8_0_203,1970s First Floor Flat,Floor2,Kitchen,Electric,Hob,Status,1.000,,2024-03-07 12:20:45
+CO@8_0_204,1970s First Floor Flat,Floor2,Kitchen,Electric,Hob,Voltage,,Volts,
+CO@8_0_205,1970s First Floor Flat,Floor2,Kitchen,Electric,Hob,Current,0.021,MegaAmpere,2025-01-13 22:51:30
+CO@8_0_206,1970s First Floor Flat,Floor2,Kitchen,Electric,Hob,Power,3.004,Watt,2024-12-18 09:59:28
+CO@8_0_208,1970s First Floor Flat,Floor2,Kitchen,Electric,Hob,CumEnergy,4.000,Watt,2025-01-12 05:03:06
+CO@8_0_21,1970s First Floor Flat,Floor2,Kitchen,Electric,Sockets,Current,11.439,MegaAmpere,2024-03-07 12:29:05
+CO@8_0_22,1970s First Floor Flat,Floor2,Kitchen,Electric,Sockets,Power,2771.670,Watt,2024-03-07 12:29:03
+CO@8_0_24,1970s First Floor Flat,Floor2,Kitchen,Electric,Sockets,CumEnergy,,Watt,
+CO@8_0_240,1970s First Floor Flat,Floor,Global,Electric,Lights,ALL Control,0.000,,2025-01-11 13:10:38
+CO@8_0_241,1970s First Floor Flat,Floor,Global,Electric,Sockets,All Control,1.000,,2024-03-07 12:18:37
+CO@8_0_3,1970s First Floor Flat,Floor,Global,Electric,,Power,1675.220,Watt,2025-01-22 14:06:35
+CO@8_0_34,1970s First Floor Flat,Floor2,Bed1,Electric,Sockets,Control,1.000,,2025-01-09 16:53:01
+CO@8_0_35,1970s First Floor Flat,Floor2,Bed1,Electric,Sockets,Status,,,
+CO@8_0_37,1970s First Floor Flat,Floor2,Bed1,Electric,Sockets,Current,0.213,MegaAmpere,2025-01-22 14:06:30
+CO@8_0_38,1970s First Floor Flat,Floor2,Bed1,Electric,Sockets,Power,52.506,Watt,2025-01-22 14:06:30
+CO@8_0_4,1970s First Floor Flat,Floor,Global,Electric,,AppPower,2992.550,Watt,2025-01-20 10:17:32
+CO@8_0_40,1970s First Floor Flat,Floor2,Bed1,Electric,Sockets,CumEnergy,131.000,Watt,2025-01-22 00:44:18
+CO@8_0_42,1970s First Floor Flat,Floor2,Bed2,Electric,Sockets,Control,1.000,,2025-01-09 16:53:04
+CO@8_0_43,1970s First Floor Flat,Floor2,Bed2,Electric,Sockets,Status,,,
+CO@8_0_45,1970s First Floor Flat,Floor2,Bed2,Electric,Sockets,Current,0.000,MegaAmpere,2024-03-07 12:37:29
+CO@8_0_46,1970s First Floor Flat,Floor2,Bed2,Electric,Sockets,Power,0.000,Watt,2024-03-07 12:37:27
+CO@8_0_48,1970s First Floor Flat,Floor2,Bed2,Electric,Sockets,CumEnergy,,Watt,
+CO@8_0_5,1970s First Floor Flat,Floor,Global,Electric,,ReacPower,-1036302418.000,Watt,2024-01-08 13:41:52
+CO@8_0_6,1970s First Floor Flat,Floor,Global,Electric,,PowerFactor,0.998,Watt,2025-01-22 14:05:49
+CO@8_0_66,1970s First Floor Flat,Floor2,LivingRoom,Electric,Lights,Control,0.000,,2024-12-17 12:14:01
+CO@8_0_67,1970s First Floor Flat,Floor2,LivingRoom,Electric,Lights,Status,0.000,,2024-12-17 12:14:01
+CO@8_0_69,1970s First Floor Flat,Floor2,LivingRoom,Electric,Lights,Current,0.000,MegaAmpere,2024-12-17 12:14:05
+CO@8_0_7,1970s First Floor Flat,Floor,Global,Electric,,CumEnergy,8736.130,Watt,2025-01-22 14:04:09
+CO@8_0_70,1970s First Floor Flat,Floor2,LivingRoom,Electric,Lights,Power,0.000,Watt,2024-12-17 12:14:05
+CO@8_0_72,1970s First Floor Flat,Floor2,LivingRoom,Electric,Lights,CumEnergy,,Watt,
+CO@8_0_74,1970s First Floor Flat,Floor2,Kitchen,Electric,Lights,Control,0.000,,2024-07-23 13:28:20
+CO@8_0_75,1970s First Floor Flat,Floor2,Kitchen,Electric,Lights,Status,0.000,,2024-07-23 13:28:20
+CO@8_0_77,1970s First Floor Flat,Floor2,Kitchen,Electric,Lights,Current,0.085,MegaAmpere,2024-03-07 12:18:21
+CO@8_0_78,1970s First Floor Flat,Floor2,Kitchen,Electric,Lights,Power,20.596,Watt,2024-03-07 12:18:23
+CO@8_0_8,1970s First Floor Flat,Floor,Global,Electric,,CumReactEnergy,60.000,,2024-12-21 04:48:09
+CO@8_0_80,1970s First Floor Flat,Floor2,Kitchen,Electric,Lights,CumEnergy,,Watt,
+CO@8_0_82,1970s First Floor Flat,Floor2,Hallway,Electric,Lights,Control,0.000,,2025-01-22 08:06:26
+CO@8_0_83,1970s First Floor Flat,Floor2,Hallway,Electric,Lights,Status,0.000,,2025-01-22 08:06:26
+CO@8_0_85,1970s First Floor Flat,Floor2,Hallway,Electric,Lights,Current,0.000,MegaAmpere,2025-01-22 08:06:30
+CO@8_0_86,1970s First Floor Flat,Floor2,Hallway,Electric,Lights,Power,0.000,Watt,2025-01-22 08:06:30
+CO@8_0_88,1970s First Floor Flat,Floor2,Hallway,Electric,Lights,CumEnergy,,Watt,
+CO@8_0_9,1970s First Floor Flat,Floor,Global,Electric,,ACFrequency,49.980,,2024-12-08 06:29:41
+CO@8_1_11,1970s First Floor Flat,Floor2,Bathroom,Electric,Radiator,Current,0.000,MegaAmpere,2024-06-26 11:13:54
+CO@8_1_12,1970s First Floor Flat,Floor2,Bathroom,Electric,Radiator,Power,0.000,Watt,2024-06-26 11:13:53
+CO@8_1_14,1970s First Floor Flat,Floor2,Bathroom,Electric,Radiator,CumEnergy,465.000,Watt,2024-06-26 11:13:54
+CO@8_1_213,1970s First Floor Flat,Floor2,LivingRoom,Electric,Radiator,Status,0.000,,2025-01-09 10:17:37
+CO@8_1_215,1970s First Floor Flat,Floor2,Hallway,Electric,Radiator,Status,0.000,,2025-01-09 10:17:39
+CO@8_1_217,1970s First Floor Flat,Floor2,Bed1,Electric,Radiator,Status,0.000,,2025-01-09 10:17:40
+CO@8_1_219,1970s First Floor Flat,Floor2,Bed2,Electric,Radiator,Status,0.000,,2025-01-08 04:25:52
+CO@8_1_8,1970s First Floor Flat,Floor2,Bathroom,Electric,Radiator,Control,0.000,,2024-06-26 11:13:49
+CO@8_1_9,1970s First Floor Flat,Floor2,Bathroom,Electric,Radiator,Status,0.000,,2024-06-26 11:13:49
+CO@8_2_0,1970s First Floor Flat,Floor,Global,Gas,,Volume,0.000,m^3,2025-01-22 13:59:32
+CO@8_3_0,1970s First Floor Flat,Floor,Global,Water,Meter,Volume,63.900,m^3,2025-01-22 14:04:16
+CO@8_3_1,1970s First Floor Flat,Floor,Global,Water,Meter,Flow,0.000,,2025-01-22 14:04:16
+CO@8_3_10,1970s First Floor Flat,Floor2,Kitchen,Water,SinkCold,Temp,13.100,Celsius degrees,2025-01-15 07:36:13
+CO@8_3_11,1970s First Floor Flat,Floor2,Kitchen,Water,SinkHot,Volume,0.000,m^3,2024-05-16 21:53:11
+CO@8_3_12,1970s First Floor Flat,Floor2,Kitchen,Water,SinkHot,Flow,0.000,,2024-09-06 13:35:56
+CO@8_3_13,1970s First Floor Flat,Floor2,Kitchen,Water,SinkHot,Temp,13.100,Celsius degrees,2025-01-15 06:52:18
+CO@8_3_20,1970s First Floor Flat,Floor2,Bathroom,Water,SinkCold,Volume,0.000,m^3,2024-09-19 09:01:39
+CO@8_3_21,1970s First Floor Flat,Floor2,Bathroom,Water,SinkCold,Flow,0.000,,2024-09-19 09:01:56
+CO@8_3_22,1970s First Floor Flat,Floor2,Bathroom,Water,SinkCold,Temp,10.000,Celsius degrees,2025-01-14 15:26:37
+CO@8_3_23,1970s First Floor Flat,Floor2,Bathroom,Water,SinkHot,Volume,0.000,m^3,2024-03-28 16:19:09
+CO@8_3_24,1970s First Floor Flat,Floor2,Bathroom,Water,SinkHot,Flow,0.000,,2025-01-09 14:48:50
+CO@8_3_25,1970s First Floor Flat,Floor2,Bathroom,Water,SinkHot,Temp,12.600,Celsius degrees,2025-01-14 16:19:34
+CO@8_3_26,1970s First Floor Flat,Floor2,Bathroom,Water,BathCold,Volume,,m^3,
+CO@8_3_27,1970s First Floor Flat,Floor2,Bathroom,Water,BathCold,Flow,,,
+CO@8_3_28,1970s First Floor Flat,Floor2,Bathroom,Water,BathCold,Temp,,Celsius degrees,
+CO@8_3_29,1970s First Floor Flat,Floor2,Bathroom,Water,BathHot,Volume,,m^3,
+CO@8_3_30,1970s First Floor Flat,Floor2,Bathroom,Water,BathHot,Flow,,,
+CO@8_3_31,1970s First Floor Flat,Floor2,Bathroom,Water,BathHot,Temp,,Celsius degrees,
+CO@8_3_32,1970s First Floor Flat,Floor2,Bathroom,Water,ShowerCold,Volume,0.000,m^3,2024-03-07 12:36:32
+CO@8_3_33,1970s First Floor Flat,Floor2,Bathroom,Water,ShowerCold,Flow,0.000,,2024-09-10 11:22:39
+CO@8_3_34,1970s First Floor Flat,Floor2,Bathroom,Water,ShowerCold,Temp,3.500,Celsius degrees,2024-12-01 14:37:02
+CO@8_3_35,1970s First Floor Flat,Floor2,Bathroom,Water,ShowerHot,Volume,0.000,m^3,2024-03-07 12:36:17
+CO@8_3_36,1970s First Floor Flat,Floor2,Bathroom,Water,ShowerHot,Flow,0.000,,2024-09-19 09:02:04
+CO@8_3_37,1970s First Floor Flat,Floor2,Bathroom,Water,ShowerHot,Temp,12.800,Celsius degrees,2025-01-15 01:32:32
+CO@8_3_8,1970s First Floor Flat,Floor2,Kitchen,Water,SinkCold,Volume,0.000,m^3,2025-01-09 15:04:02
+CO@8_3_83,1970s First Floor Flat,Floor2,Bathroom,Water,ToiletCold,Volume,0.000,m^3,2025-01-09 14:50:20
+CO@8_3_84,1970s First Floor Flat,Floor2,Bathroom,Water,ToiletCold,Flow,0.000,,2025-01-09 14:50:32
+CO@8_3_85,1970s First Floor Flat,Floor2,Bathroom,Water,ToiletCold,Temp,10.400,Celsius degrees,2025-01-08 14:10:44
+CO@8_3_9,1970s First Floor Flat,Floor2,Kitchen,Water,SinkCold,Flow,0.000,,2025-01-09 15:04:18
+CO@8_4_0,1970s First Floor Flat,Floor2,LivingRoom,Other,,Temperature,22.460,Celsius degrees,2025-01-22 14:03:57
+CO@8_4_1,1970s First Floor Flat,Floor2,LivingRoom,Other,,Humidity,45.200,%,2025-01-22 14:03:47
+CO@8_4_10,1970s First Floor Flat,Floor2,Kitchen,Other,,Temperature,22.760,Celsius degrees,2025-01-22 14:03:59
+CO@8_4_11,1970s First Floor Flat,Floor2,Kitchen,Other,,Humidity,40.520,%,2025-01-22 14:03:49
+CO@8_4_12,1970s First Floor Flat,Floor2,Kitchen,Other,,CO2,216.000,Parts per million,2025-01-22 14:03:59
+CO@8_4_120,1970s First Floor Flat,Floor2,Bathroom,Other,,Temperature,,Celsius degrees,
+CO@8_4_127,1970s First Floor Flat,Floor2,Bathroom,Other,,Door1,0.000,,2025-01-09 14:26:11
+CO@8_4_14,1970s First Floor Flat,Floor2,Kitchen,Other,,Window1,1.000,,2024-11-21 19:32:10
+CO@8_4_150,1970s First Floor Flat,Floor2,Global,Other,,ExternalTemp,,Celsius degrees,
+CO@8_4_151,1970s First Floor Flat,Floor2,Global,Other,,ExternalHumidity,,%,
+CO@8_4_152,1970s First Floor Flat,Floor2,Global,Other,,ExternalGlobalRadiation,,Watt/m^2,
+CO@8_4_153,1970s First Floor Flat,Floor2,Global,Other,,ExternalRain,,,
+CO@8_4_154,1970s First Floor Flat,Floor2,Global,Other,,ExternalWindSpeed,,m/s,
+CO@8_4_155,1970s First Floor Flat,Floor2,Global,Other,,ExternalWindDirection,,degrees,
+CO@8_4_2,1970s First Floor Flat,Floor2,LivingRoom,Other,,CO2,94.000,Parts per million,2024-12-21 04:56:02
+CO@8_4_20,1970s First Floor Flat,Floor2,Hallway,Other,,Temperature,18.880,Celsius degrees,2025-01-22 14:05:31
+CO@8_4_27,1970s First Floor Flat,Floor2,Hallway,Other,,Door1,1.000,,2025-01-22 08:06:30
+CO@8_4_3,1970s First Floor Flat,Floor2,LivingRoom,Other,,Occupancy,0.000,,2025-01-22 08:06:36
+CO@8_4_4,1970s First Floor Flat,Floor2,LivingRoom,Other,,Window1,1.000,,2024-11-21 19:32:10
+CO@8_4_7,1970s First Floor Flat,Floor2,LivingRoom,Other,,Door1,0.000,,2025-01-08 12:25:45
+CO@8_4_70,1970s First Floor Flat,Floor2,Landing,Other,,Temperature,11.070,Celsius degrees,2025-01-22 14:05:31
+CO@8_4_80,1970s First Floor Flat,Floor2,Bed1,Other,,Temperature,9.660,Celsius degrees,2024-12-21 04:55:58
+CO@8_4_81,1970s First Floor Flat,Floor2,Bed1,Other,,Humidity,46.880,%,2025-01-22 14:03:49
+CO@8_4_82,1970s First Floor Flat,Floor2,Bed1,Other,,CO2,184.960,Parts per million,2025-01-22 14:03:59
+CO@8_4_83,1970s First Floor Flat,Floor2,Bed1,Other,,Occupancy,0.000,,2025-01-22 11:34:52
+CO@8_4_84,1970s First Floor Flat,Floor2,Bed1,Other,,Window1,1.000,,2025-01-09 15:31:32
+CO@8_4_87,1970s First Floor Flat,Floor2,Bed1,Other,,Door1,0.000,,2024-11-21 19:32:24
+CO@8_4_90,1970s First Floor Flat,Floor2,Bed2,Other,,Temperature,9.560,Celsius degrees,2024-12-21 04:56:00
+CO@8_4_91,1970s First Floor Flat,Floor2,Bed2,Other,,Humidity,43.720,%,2025-01-22 14:03:46
+CO@8_4_92,1970s First Floor Flat,Floor2,Bed2,Other,,CO2,202.880,Parts per million,2024-12-21 04:56:00
+CO@8_4_93,1970s First Floor Flat,Floor2,Bed2,Other,,Occupancy,0.000,,2024-12-11 08:48:36
+CO@8_4_94,1970s First Floor Flat,Floor2,Bed2,Other,,Window1,1.000,,2024-11-21 19:32:10
+CO@8_4_97,1970s First Floor Flat,Floor2,Bed2,Other,,Door1,0.000,,2024-11-21 19:32:24
+CO@8_5_0,1970s First Floor Flat,Floor,Global,HeatingControl,,HeatDemandPWM,1.000,,2025-01-22 14:05:11
+CO@8_5_15,1970s First Floor Flat,Floor2,Hallway,HeatingControl,,Setpoint,21.000,,2025-01-09 10:17:38
+CO@8_5_16,1970s First Floor Flat,Floor2,Hallway,HeatingControl,Setpoint,Status,21.000,,2025-01-09 10:17:38
+CO@8_5_17,1970s First Floor Flat,Floor2,Hallway,HeatingControl,,HeatDemandPWM,1.000,,2024-12-21 04:56:44
+CO@8_5_18,1970s First Floor Flat,Floor2,Hallway,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:05:10
+CO@8_5_2,1970s First Floor Flat,Floor,Global,HeatingControl,HeatDemand,Status,1.000,,2024-11-05 19:31:51
+CO@8_5_200,1970s First Floor Flat,Floor,Global,HeatingControl,CentralSetpoint,Control,21.000,,2025-01-09 10:17:38
+CO@8_5_201,1970s First Floor Flat,Floor,Global,HeatingControl,CentralSetpoint,Status,21.000,,2025-01-09 10:17:38
+CO@8_5_202,1970s First Floor Flat,Floor,Global,HeatingControl,CentralOnOff,Control,1.000,,2025-01-11 13:10:38
+CO@8_5_203,1970s First Floor Flat,Floor,Global,HeatingControl,CentralOnOff,Status,,,
+CO@8_5_3,1970s First Floor Flat,Floor,Global,HeatingControl,HotWater,Control,,,
+CO@8_5_4,1970s First Floor Flat,Floor,Global,HeatingControl,HotWater,Status,1.000,,2024-06-03 09:16:05
+CO@8_5_40,1970s First Floor Flat,Floor2,Bed1,HeatingControl,,Setpoint,21.000,,2025-01-07 14:10:14
+CO@8_5_41,1970s First Floor Flat,Floor2,Bed1,HeatingControl,Setpoint,Status,21.000,,2025-01-07 14:10:14
+CO@8_5_42,1970s First Floor Flat,Floor2,Bed1,HeatingControl,,HeatDemandPWM,0.000,,2025-01-22 14:05:10
+CO@8_5_43,1970s First Floor Flat,Floor2,Bed1,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:05:10
+CO@8_5_45,1970s First Floor Flat,Floor2,Bed2,HeatingControl,,Setpoint,21.000,,2025-01-07 14:10:34
+CO@8_5_46,1970s First Floor Flat,Floor2,Bed2,HeatingControl,Setpoint,Status,21.000,,2025-01-07 14:10:34
+CO@8_5_47,1970s First Floor Flat,Floor2,Bed2,HeatingControl,,HeatDemandPWM,0.000,,2025-01-22 14:05:10
+CO@8_5_48,1970s First Floor Flat,Floor2,Bed2,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:05:10
+CO@8_5_5,1970s First Floor Flat,Floor2,LivingRoom,HeatingControl,,Setpoint,21.000,,2025-01-09 10:17:38
+CO@8_5_6,1970s First Floor Flat,Floor2,LivingRoom,HeatingControl,Setpoint,Status,21.000,,2025-01-09 10:17:38
+CO@8_5_60,1970s First Floor Flat,Floor2,Bathroom,HeatingControl,,Setpoint,,,
+CO@8_5_61,1970s First Floor Flat,Floor2,Bathroom,HeatingControl,Setpoint,Status,,,
+CO@8_5_7,1970s First Floor Flat,Floor2,LivingRoom,HeatingControl,,HeatDemandPWM,1.000,,2024-12-21 04:56:44
+CO@8_5_8,1970s First Floor Flat,Floor2,LivingRoom,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:05:10
+CO@9_0_1,1990s Detached,Floor,Global,Electric,,Voltage,246.100,Volts,2025-01-21 21:41:22
+CO@9_0_10,1990s Detached,Floor1,LivingRoom,Electric,Sockets,Control,1.000,,2025-01-09 16:53:29
+CO@9_0_101,1990s Detached,Floor1,Garage,Electric,Lights,Current,0.000,MegaAmpere,2025-01-21 14:41:09
+CO@9_0_102,1990s Detached,Floor1,Garage,Electric,Lights,Power,0.000,Watt,2025-01-21 14:41:09
+CO@9_0_104,1990s Detached,Floor1,Garage,Electric,Lights,CumEnergy,50.000,Watt,2024-08-05 17:18:28
+CO@9_0_106,1990s Detached,Floor1,Utility,Electric,Lights,Control,0.000,,2025-01-07 08:06:03
+CO@9_0_107,1990s Detached,Floor1,Utility,Electric,Lights,Status,0.000,,2025-01-07 08:06:03
+CO@9_0_109,1990s Detached,Floor1,Utility,Electric,Lights,Current,0.000,MegaAmpere,2025-01-07 08:06:07
+CO@9_0_11,1990s Detached,Floor1,LivingRoom,Electric,Sockets,Status,1.000,,2025-01-09 16:53:29
+CO@9_0_110,1990s Detached,Floor1,Utility,Electric,Lights,Power,0.000,Watt,2025-01-07 08:06:07
+CO@9_0_112,1990s Detached,Floor1,Utility,Electric,Lights,CumEnergy,15.000,Watt,2024-07-22 14:56:45
+CO@9_0_114,1990s Detached,Floor1,WC,Electric,Lights,Control,0.000,,2025-01-21 12:47:38
+CO@9_0_115,1990s Detached,Floor1,WC,Electric,Lights,Status,0.000,,2025-01-21 12:47:38
+CO@9_0_117,1990s Detached,Floor1,WC,Electric,Lights,Current,0.000,MegaAmpere,2025-01-21 12:47:42
+CO@9_0_118,1990s Detached,Floor1,WC,Electric,Lights,Power,0.000,Watt,2025-01-21 12:47:42
+CO@9_0_120,1990s Detached,Floor1,WC,Electric,Lights,CumEnergy,4.000,Watt,2024-07-22 14:56:41
+CO@9_0_122,1990s Detached,Floor2,Landing,Electric,Lights,Control,0.000,,2025-01-21 07:37:14
+CO@9_0_123,1990s Detached,Floor2,Landing,Electric,Lights,Status,0.000,,2025-01-21 07:37:14
+CO@9_0_125,1990s Detached,Floor2,Landing,Electric,Lights,Current,0.000,MegaAmpere,2025-01-21 07:37:18
+CO@9_0_126,1990s Detached,Floor2,Landing,Electric,Lights,Power,0.000,Watt,2025-01-21 07:37:18
+CO@9_0_128,1990s Detached,Floor2,Landing,Electric,Lights,CumEnergy,0.000,Watt,2024-07-22 14:56:44
+CO@9_0_13,1990s Detached,Floor1,LivingRoom,Electric,Sockets,Current,0.000,MegaAmpere,2024-07-22 14:56:38
+CO@9_0_130,1990s Detached,Floor2,Bed1,Electric,Lights,Control,0.000,,2025-01-07 13:56:36
+CO@9_0_131,1990s Detached,Floor2,Bed1,Electric,Lights,Status,0.000,,2025-01-07 13:56:36
+CO@9_0_133,1990s Detached,Floor2,Bed1,Electric,Lights,Current,0.000,MegaAmpere,2025-01-07 13:56:45
+CO@9_0_134,1990s Detached,Floor2,Bed1,Electric,Lights,Power,0.000,Watt,2025-01-07 13:56:45
+CO@9_0_136,1990s Detached,Floor2,Bed1,Electric,Lights,CumEnergy,0.000,Watt,2024-07-22 14:56:37
+CO@9_0_138,1990s Detached,Floor2,Bed2,Electric,Lights,Control,0.000,,2025-01-07 13:54:37
+CO@9_0_139,1990s Detached,Floor2,Bed2,Electric,Lights,Status,0.000,,2025-01-07 13:54:37
+CO@9_0_14,1990s Detached,Floor1,LivingRoom,Electric,Sockets,Power,0.000,Watt,2024-07-22 14:56:38
+CO@9_0_141,1990s Detached,Floor2,Bed2,Electric,Lights,Current,0.000,MegaAmpere,2025-01-07 13:53:29
+CO@9_0_142,1990s Detached,Floor2,Bed2,Electric,Lights,Power,0.000,Watt,2025-01-07 13:53:28
+CO@9_0_144,1990s Detached,Floor2,Bed2,Electric,Lights,CumEnergy,0.000,Watt,2024-07-22 14:56:45
+CO@9_0_146,1990s Detached,Floor2,Bed3,Electric,Lights,Control,0.000,,2025-01-07 13:55:13
+CO@9_0_147,1990s Detached,Floor2,Bed3,Electric,Lights,Status,0.000,,2025-01-07 13:55:13
+CO@9_0_149,1990s Detached,Floor2,Bed3,Electric,Lights,Current,0.000,MegaAmpere,2025-01-07 13:51:19
+CO@9_0_150,1990s Detached,Floor2,Bed3,Electric,Lights,Power,0.000,Watt,2025-01-07 13:51:19
+CO@9_0_152,1990s Detached,Floor2,Bed3,Electric,Lights,CumEnergy,0.000,Watt,2024-07-22 14:56:42
+CO@9_0_154,1990s Detached,Floor2,Bed4,Electric,Lights,Control,0.000,,2025-01-07 13:56:29
+CO@9_0_155,1990s Detached,Floor2,Bed4,Electric,Lights,Status,0.000,,2025-01-07 13:56:30
+CO@9_0_157,1990s Detached,Floor2,Bed4,Electric,Lights,Current,0.000,MegaAmpere,2025-01-07 13:56:34
+CO@9_0_158,1990s Detached,Floor2,Bed4,Electric,Lights,Power,0.000,Watt,2025-01-07 13:56:34
+CO@9_0_16,1990s Detached,Floor1,LivingRoom,Electric,Sockets,CumEnergy,0.000,Watt,2024-07-22 14:56:38
+CO@9_0_160,1990s Detached,Floor2,Bed4,Electric,Lights,CumEnergy,0.000,Watt,2024-07-22 14:56:44
+CO@9_0_162,1990s Detached,Floor2,Bathroom,Electric,Lights,Control,0.000,,2024-10-13 10:10:04
+CO@9_0_163,1990s Detached,Floor2,Bathroom,Electric,Lights,Status,0.000,,2024-10-13 10:10:04
+CO@9_0_165,1990s Detached,Floor2,Bathroom,Electric,Lights,Current,0.000,MegaAmpere,2024-07-22 14:56:46
+CO@9_0_166,1990s Detached,Floor2,Bathroom,Electric,Lights,Power,0.000,Watt,2024-07-22 14:56:46
+CO@9_0_168,1990s Detached,Floor2,Bathroom,Electric,Lights,CumEnergy,1.000,Watt,2024-07-22 14:56:46
+CO@9_0_178,1990s Detached,Floor2,EnSuite,Electric,Lights,Control,0.000,,2024-12-17 13:16:18
+CO@9_0_179,1990s Detached,Floor2,EnSuite,Electric,Lights,Status,0.000,,2024-12-17 13:16:18
+CO@9_0_18,1990s Detached,Floor1,Kitchen,Electric,Sockets,Control,1.000,,2025-01-09 16:53:32
+CO@9_0_181,1990s Detached,Floor2,EnSuite,Electric,Lights,Current,0.000,MegaAmpere,2024-12-17 13:16:22
+CO@9_0_182,1990s Detached,Floor2,EnSuite,Electric,Lights,Power,0.000,Watt,2024-12-17 13:16:22
+CO@9_0_184,1990s Detached,Floor2,EnSuite,Electric,Lights,CumEnergy,1.000,Watt,2024-07-22 14:56:45
+CO@9_0_19,1990s Detached,Floor1,Kitchen,Electric,Sockets,Status,1.000,,2025-01-09 16:53:32
+CO@9_0_196,1990s Detached,Floor,Global,Electric,Immersion,Voltage,,Volts,
+CO@9_0_197,1990s Detached,Floor,Global,Electric,Immersion,Current,,MegaAmpere,
+CO@9_0_198,1990s Detached,Floor,Global,Electric,Immersion,Power,,Watt,
+CO@9_0_2,1990s Detached,Floor,Global,Electric,,Current,4.669,MegaAmpere,2025-01-21 16:27:26
+CO@9_0_200,1990s Detached,Floor,Global,Electric,Immersion,CumEnergy,,Watt,
+CO@9_0_202,1990s Detached,Floor1,Kitchen,Electric,Hob,Control,0.000,,2024-10-13 10:11:26
+CO@9_0_203,1990s Detached,Floor1,Kitchen,Electric,Hob,Status,0.000,,2024-10-13 10:11:26
+CO@9_0_204,1990s Detached,Floor1,Kitchen,Electric,Hob,Voltage,,Volts,
+CO@9_0_205,1990s Detached,Floor1,Kitchen,Electric,Hob,Current,,MegaAmpere,
+CO@9_0_206,1990s Detached,Floor1,Kitchen,Electric,Hob,Power,,Watt,
+CO@9_0_208,1990s Detached,Floor1,Kitchen,Electric,Hob,CumEnergy,,Watt,
+CO@9_0_21,1990s Detached,Floor1,Kitchen,Electric,Sockets,Current,0.000,MegaAmpere,2025-01-21 14:48:51
+CO@9_0_210,1990s Detached,Floor1,Garage,Electric,EVCharger,Control,,,
+CO@9_0_22,1990s Detached,Floor1,Kitchen,Electric,Sockets,Power,0.000,Watt,2025-01-21 14:48:51
+CO@9_0_24,1990s Detached,Floor1,Kitchen,Electric,Sockets,CumEnergy,0.000,Watt,2024-07-22 14:56:43
+CO@9_0_240,1990s Detached,Floor,Global,Electric,Lights,ALL Control,0.000,,2025-01-16 12:23:53
+CO@9_0_241,1990s Detached,Floor,Global,Electric,Sockets,All Control,1.000,,2024-03-14 15:13:53
+CO@9_0_26,1990s Detached,Floor1,DiningRoom,Electric,Sockets,Control,1.000,,2025-01-09 16:53:34
+CO@9_0_27,1990s Detached,Floor1,DiningRoom,Electric,Sockets,Status,1.000,,2024-07-22 14:56:34
+CO@9_0_29,1990s Detached,Floor1,DiningRoom,Electric,Sockets,Current,0.224,MegaAmpere,2025-01-22 14:00:39
+CO@9_0_3,1990s Detached,Floor,Global,Electric,,Power,5392.900,Watt,2025-01-22 03:58:04
+CO@9_0_30,1990s Detached,Floor1,DiningRoom,Electric,Sockets,Power,54.949,Watt,2025-01-22 14:00:39
+CO@9_0_32,1990s Detached,Floor1,DiningRoom,Electric,Sockets,CumEnergy,52.000,Watt,2025-01-22 04:58:14
+CO@9_0_34,1990s Detached,Floor2,Bed1,Electric,Sockets,Control,1.000,,2025-01-09 16:53:47
+CO@9_0_35,1990s Detached,Floor2,Bed1,Electric,Sockets,Status,1.000,,2025-01-09 16:53:47
+CO@9_0_37,1990s Detached,Floor2,Bed1,Electric,Sockets,Current,0.000,MegaAmpere,2024-07-22 14:56:41
+CO@9_0_38,1990s Detached,Floor2,Bed1,Electric,Sockets,Power,0.000,Watt,2024-07-22 14:56:41
+CO@9_0_4,1990s Detached,Floor,Global,Electric,,AppPower,2445.920,Watt,2025-01-22 14:07:46
+CO@9_0_40,1990s Detached,Floor2,Bed1,Electric,Sockets,CumEnergy,0.000,Watt,2024-07-22 14:56:41
+CO@9_0_42,1990s Detached,Floor2,Bed2,Electric,Sockets,Control,1.000,,2025-01-09 16:53:49
+CO@9_0_43,1990s Detached,Floor2,Bed2,Electric,Sockets,Status,1.000,,2025-01-09 16:53:49
+CO@9_0_45,1990s Detached,Floor2,Bed2,Electric,Sockets,Current,0.000,MegaAmpere,2024-07-22 14:56:44
+CO@9_0_46,1990s Detached,Floor2,Bed2,Electric,Sockets,Power,0.000,Watt,2024-07-22 14:56:44
+CO@9_0_48,1990s Detached,Floor2,Bed2,Electric,Sockets,CumEnergy,0.000,Watt,2024-07-22 14:56:44
+CO@9_0_5,1990s Detached,Floor,Global,Electric,,ReacPower,-297.060,Watt,2025-01-15 08:11:12
+CO@9_0_50,1990s Detached,Floor2,Bed3,Electric,Sockets,Control,1.000,,2025-01-09 16:53:51
+CO@9_0_51,1990s Detached,Floor2,Bed3,Electric,Sockets,Status,1.000,,2025-01-09 16:53:51
+CO@9_0_53,1990s Detached,Floor2,Bed3,Electric,Sockets,Current,0.000,MegaAmpere,2024-09-16 13:54:43
+CO@9_0_54,1990s Detached,Floor2,Bed3,Electric,Sockets,Power,0.000,Watt,2024-09-16 13:54:43
+CO@9_0_56,1990s Detached,Floor2,Bed3,Electric,Sockets,CumEnergy,0.000,Watt,2024-07-22 14:56:46
+CO@9_0_58,1990s Detached,Floor2,Bed4,Electric,Sockets,Control,1.000,,2025-01-09 16:53:54
+CO@9_0_59,1990s Detached,Floor2,Bed4,Electric,Sockets,Status,1.000,,2025-01-09 16:53:54
+CO@9_0_6,1990s Detached,Floor,Global,Electric,,PowerFactor,0.998,Watt,2025-01-22 14:00:56
+CO@9_0_61,1990s Detached,Floor2,Bed4,Electric,Sockets,Current,0.000,MegaAmpere,2024-07-22 14:56:44
+CO@9_0_62,1990s Detached,Floor2,Bed4,Electric,Sockets,Power,0.000,Watt,2024-07-22 14:56:44
+CO@9_0_64,1990s Detached,Floor2,Bed4,Electric,Sockets,CumEnergy,0.000,Watt,2024-07-22 14:56:45
+CO@9_0_66,1990s Detached,Floor1,LivingRoom,Electric,Lights,Control,1.000,,2025-01-09 12:25:38
+CO@9_0_67,1990s Detached,Floor1,LivingRoom,Electric,Lights,Status,0.000,,2025-01-09 12:25:38
+CO@9_0_69,1990s Detached,Floor1,LivingRoom,Electric,Lights,Current,0.000,MegaAmpere,2025-01-09 12:25:42
+CO@9_0_7,1990s Detached,Floor,Global,Electric,,CumEnergy,3596.060,Watt,2025-01-22 14:04:16
+CO@9_0_70,1990s Detached,Floor1,LivingRoom,Electric,Lights,Power,0.000,Watt,2025-01-09 12:25:42
+CO@9_0_72,1990s Detached,Floor1,LivingRoom,Electric,Lights,CumEnergy,0.000,Watt,2024-07-22 14:56:37
+CO@9_0_74,1990s Detached,Floor1,Kitchen,Electric,Lights,Control,0.000,,2024-12-10 10:13:02
+CO@9_0_75,1990s Detached,Floor1,Kitchen,Electric,Lights,Status,0.000,,2024-12-10 10:13:02
+CO@9_0_77,1990s Detached,Floor1,Kitchen,Electric,Lights,Current,0.000,MegaAmpere,2024-12-10 10:13:06
+CO@9_0_78,1990s Detached,Floor1,Kitchen,Electric,Lights,Power,0.000,Watt,2024-12-10 10:13:06
+CO@9_0_8,1990s Detached,Floor,Global,Electric,,CumReactEnergy,11700.000,,2025-01-22 14:04:16
+CO@9_0_80,1990s Detached,Floor1,Kitchen,Electric,Lights,CumEnergy,2.000,Watt,2024-07-22 14:56:43
+CO@9_0_82,1990s Detached,Floor1,Hallway,Electric,Lights,Control,0.000,,2025-01-22 08:01:17
+CO@9_0_83,1990s Detached,Floor1,Hallway,Electric,Lights,Status,0.000,,2025-01-22 08:01:17
+CO@9_0_85,1990s Detached,Floor1,Hallway,Electric,Lights,Current,0.000,MegaAmpere,2025-01-22 08:01:21
+CO@9_0_86,1990s Detached,Floor1,Hallway,Electric,Lights,Power,0.000,Watt,2025-01-22 08:01:21
+CO@9_0_88,1990s Detached,Floor1,Hallway,Electric,Lights,CumEnergy,3.000,Watt,2024-07-22 14:56:37
+CO@9_0_9,1990s Detached,Floor,Global,Electric,,ACFrequency,49.980,,2024-12-07 05:30:29
+CO@9_0_90,1990s Detached,Floor1,DiningRoom,Electric,Lights,Control,0.000,,2024-09-05 10:39:00
+CO@9_0_91,1990s Detached,Floor1,DiningRoom,Electric,Lights,Status,0.000,,2024-09-05 10:39:01
+CO@9_0_93,1990s Detached,Floor1,DiningRoom,Electric,Lights,Current,0.000,MegaAmpere,2024-09-05 10:39:05
+CO@9_0_94,1990s Detached,Floor1,DiningRoom,Electric,Lights,Power,0.000,Watt,2024-09-05 10:39:04
+CO@9_0_96,1990s Detached,Floor1,DiningRoom,Electric,Lights,CumEnergy,0.000,Watt,2024-07-22 14:56:40
+CO@9_0_98,1990s Detached,Floor1,Garage,Electric,Lights,Control,0.000,,2025-01-21 14:41:05
+CO@9_0_99,1990s Detached,Floor1,Garage,Electric,Lights,Status,0.000,,2025-01-07 14:28:25
+CO@9_1_0,1990s Detached,Floor2,EnSuite,Electric,Radiator,Control,0.000,,2024-10-13 10:09:59
+CO@9_1_11,1990s Detached,Floor2,Bathroom,Electric,Radiator,Current,0.000,MegaAmpere,2024-11-30 08:43:12
+CO@9_1_12,1990s Detached,Floor2,Bathroom,Electric,Radiator,Power,0.000,Watt,2025-01-09 12:25:22
+CO@9_1_14,1990s Detached,Floor2,Bathroom,Electric,Radiator,CumEnergy,110.000,Watt,2024-07-22 14:56:43
+CO@9_1_3,1990s Detached,Floor2,EnSuite,Electric,Radiator,Current,0.000,MegaAmpere,2024-07-22 14:56:42
+CO@9_1_4,1990s Detached,Floor2,EnSuite,Electric,Radiator,Power,0.000,Watt,2024-07-22 14:56:42
+CO@9_1_6,1990s Detached,Floor2,EnSuite,Electric,Radiator,CumEnergy,19.000,Watt,2024-07-22 14:56:42
+CO@9_1_8,1990s Detached,Floor2,Bathroom,Electric,Radiator,Control,0.000,,2024-10-13 10:10:03
+CO@9_2_0,1990s Detached,Floor,Global,Gas,,Volume,444.580,m^3,2025-01-22 14:01:09
+CO@9_3_0,1990s Detached,Floor,Global,Water,Meter,Volume,420.700,m^3,2025-01-22 14:07:08
+CO@9_3_1,1990s Detached,Floor,Global,Water,Meter,Flow,0.000,,2025-01-22 14:07:08
+CO@9_3_10,1990s Detached,Floor1,Kitchen,Water,SinkCold,Temp,9.300,Celsius degrees,2025-01-19 05:36:25
+CO@9_3_11,1990s Detached,Floor1,Kitchen,Water,SinkHot,Volume,0.000,m^3,2024-12-18 09:12:33
+CO@9_3_12,1990s Detached,Floor1,Kitchen,Water,SinkHot,Flow,0.000,,2024-12-18 09:12:54
+CO@9_3_13,1990s Detached,Floor1,Kitchen,Water,SinkHot,Temp,6.500,Celsius degrees,2025-01-11 04:32:17
+CO@9_3_14,1990s Detached,Floor1,WC,Water,SinkCold,Volume,0.000,m^3,2024-10-25 08:40:30
+CO@9_3_140,1990s Detached,,,WWHRS,PreHeat,Volume,620.000,m^3,2024-09-19 13:36:19
+CO@9_3_141,1990s Detached,,,WWHRS,PreHeat,Flow,0.000,,2024-09-19 13:36:33
+CO@9_3_142,1990s Detached,,,WWHRS,PreHeat,Temp,30.700,Celsius degrees,2024-09-10 11:14:46
+CO@9_3_143,1990s Detached,,,WWHRS,ShowerMIX,Volume,1472.000,m^3,2025-01-09 13:57:15
+CO@9_3_144,1990s Detached,,,WWHRS,ShowerMIX,Flow,0.000,,2025-01-09 13:57:21
+CO@9_3_145,1990s Detached,,,WWHRS,ShowerMIX,Temp,9.000,Celsius degrees,2024-12-21 04:49:25
+CO@9_3_146,1990s Detached,,,WWHRS,BathWaste,Temp,20.400,Celsius degrees,2025-01-22 13:57:50
+CO@9_3_147,1990s Detached,,,WWHRS,ShowerHOT,Volume,826.000,m^3,2024-12-17 13:13:18
+CO@9_3_148,1990s Detached,,,WWHRS,ShowerHOT,Flow,,,
+CO@9_3_149,1990s Detached,,,WWHRS,ShowerHOT,Temp,9.200,Celsius degrees,2024-12-21 04:54:10
+CO@9_3_15,1990s Detached,Floor1,WC,Water,SinkCold,Flow,0.000,,2025-01-21 12:47:17
+CO@9_3_16,1990s Detached,Floor1,WC,Water,SinkCold,Temp,6.700,Celsius degrees,2024-11-22 16:38:58
+CO@9_3_17,1990s Detached,Floor1,WC,Water,SinkHot,Volume,0.000,m^3,2024-10-25 08:40:55
+CO@9_3_18,1990s Detached,Floor1,WC,Water,SinkHot,Flow,0.000,,2025-01-21 12:47:19
+CO@9_3_19,1990s Detached,Floor1,WC,Water,SinkHot,Temp,12.400,Celsius degrees,2025-01-21 15:06:18
+CO@9_3_20,1990s Detached,Floor2,Bathroom,Water,SinkCold,Volume,0.000,m^3,2024-09-19 08:54:57
+CO@9_3_21,1990s Detached,Floor2,Bathroom,Water,SinkCold,Flow,0.000,,2024-09-19 08:55:10
+CO@9_3_22,1990s Detached,Floor2,Bathroom,Water,SinkCold,Temp,12.700,Celsius degrees,2025-01-15 10:51:34
+CO@9_3_23,1990s Detached,Floor2,Bathroom,Water,SinkHot,Volume,0.000,m^3,2024-09-07 08:20:04
+CO@9_3_24,1990s Detached,Floor2,Bathroom,Water,SinkHot,Flow,0.000,,2025-01-09 13:58:22
+CO@9_3_25,1990s Detached,Floor2,Bathroom,Water,SinkHot,Temp,12.700,Celsius degrees,2025-01-15 10:14:27
+CO@9_3_26,1990s Detached,Floor2,Bathroom,Water,BathCold,Volume,0.000,m^3,2024-09-19 08:55:02
+CO@9_3_27,1990s Detached,Floor2,Bathroom,Water,BathCold,Flow,0.000,,2025-01-09 13:58:37
+CO@9_3_28,1990s Detached,Floor2,Bathroom,Water,BathCold,Temp,12.400,Celsius degrees,2025-01-15 08:28:28
+CO@9_3_29,1990s Detached,Floor2,Bathroom,Water,BathHot,Volume,0.000,m^3,2024-07-24 11:30:53
+CO@9_3_30,1990s Detached,Floor2,Bathroom,Water,BathHot,Flow,0.000,,2024-09-10 14:43:18
+CO@9_3_31,1990s Detached,Floor2,Bathroom,Water,BathHot,Temp,12.400,Celsius degrees,2025-01-15 10:03:52
+CO@9_3_32,1990s Detached,Floor2,Bathroom,Water,ShowerCold,Volume,0.000,m^3,2024-09-06 13:22:39
+CO@9_3_33,1990s Detached,Floor2,Bathroom,Water,ShowerCold,Flow,0.000,,2024-09-19 08:50:31
+CO@9_3_34,1990s Detached,Floor2,Bathroom,Water,ShowerCold,Temp,12.800,Celsius degrees,2025-01-15 12:36:09
+CO@9_3_35,1990s Detached,Floor2,Bathroom,Water,ShowerHot,Volume,0.000,m^3,2024-09-09 13:45:22
+CO@9_3_36,1990s Detached,Floor2,Bathroom,Water,ShowerHot,Flow,0.000,,2024-09-10 14:43:18
+CO@9_3_37,1990s Detached,Floor2,Bathroom,Water,ShowerHot,Temp,12.800,Celsius degrees,2025-01-15 12:36:12
+CO@9_3_56,1990s Detached,Floor2,EnSuite,Water,SinkCold,Volume,0.000,m^3,2024-07-30 14:11:43
+CO@9_3_57,1990s Detached,Floor2,EnSuite,Water,SinkCold,Flow,0.000,,2025-01-09 13:57:05
+CO@9_3_58,1990s Detached,Floor2,EnSuite,Water,SinkCold,Temp,8.500,Celsius degrees,2024-11-28 21:27:32
+CO@9_3_59,1990s Detached,Floor2,EnSuite,Water,SinkHot,Volume,0.000,m^3,2025-01-22 10:27:07
+CO@9_3_60,1990s Detached,Floor2,EnSuite,Water,SinkHot,Flow,0.000,,2025-01-22 10:27:18
+CO@9_3_61,1990s Detached,Floor2,EnSuite,Water,SinkHot,Temp,11.800,Celsius degrees,2025-01-22 10:27:32
+CO@9_3_68,1990s Detached,Floor2,EnSuite,Water,ShowerCold,Volume,0.000,m^3,2024-12-17 13:13:10
+CO@9_3_69,1990s Detached,Floor2,EnSuite,Water,ShowerCold,Flow,0.000,,2024-12-17 13:13:31
+CO@9_3_70,1990s Detached,Floor2,EnSuite,Water,ShowerCold,Temp,12.600,Celsius degrees,2025-01-15 10:31:18
+CO@9_3_71,1990s Detached,Floor2,EnSuite,Water,ShowerHot,Volume,0.000,m^3,2024-12-17 13:13:24
+CO@9_3_72,1990s Detached,Floor2,EnSuite,Water,ShowerHot,Flow,0.000,,2025-01-09 13:57:21
+CO@9_3_73,1990s Detached,Floor2,EnSuite,Water,ShowerHot,Temp,12.700,Celsius degrees,2025-01-15 10:31:07
+CO@9_3_74,1990s Detached,Floor1,Utility,Water,SinkCold,Volume,0.000,m^3,2024-09-19 08:54:35
+CO@9_3_75,1990s Detached,Floor1,Utility,Water,SinkCold,Flow,0.000,,2024-09-19 08:54:48
+CO@9_3_76,1990s Detached,Floor1,Utility,Water,SinkCold,Temp,9.300,Celsius degrees,2025-01-21 15:10:14
+CO@9_3_77,1990s Detached,Floor1,Utility,Water,SinkHot,Volume,0.000,m^3,2024-09-19 10:49:59
+CO@9_3_78,1990s Detached,Floor1,Utility,Water,SinkHot,Flow,0.000,,2025-01-09 14:04:08
+CO@9_3_79,1990s Detached,Floor1,Utility,Water,SinkHot,Temp,9.400,Celsius degrees,2025-01-20 14:47:12
+CO@9_3_8,1990s Detached,Floor1,Kitchen,Water,SinkCold,Volume,0.000,m^3,2025-01-10 13:24:09
+CO@9_3_80,1990s Detached,Floor1,WC,Water,ToiletCold,Volume,0.000,m^3,2024-07-24 11:30:51
+CO@9_3_81,1990s Detached,Floor1,WC,Water,ToiletCold,Flow,0.000,,2024-09-10 11:56:26
+CO@9_3_82,1990s Detached,Floor1,WC,Water,ToiletCold,Temp,12.400,Celsius degrees,2025-01-21 20:55:00
+CO@9_3_83,1990s Detached,Floor2,Bathroom,Water,ToiletCold,Volume,0.000,m^3,2025-01-09 13:59:26
+CO@9_3_84,1990s Detached,Floor2,Bathroom,Water,ToiletCold,Flow,0.000,,2025-01-09 13:59:44
+CO@9_3_85,1990s Detached,Floor2,Bathroom,Water,ToiletCold,Temp,12.400,Celsius degrees,2025-01-14 22:11:13
+CO@9_3_86,1990s Detached,Floor2,EnSuite,Water,ToiletCold,Volume,0.000,m^3,2025-01-22 10:28:34
+CO@9_3_87,1990s Detached,Floor2,EnSuite,Water,ToiletCold,Flow,0.000,,2025-01-22 10:28:50
+CO@9_3_88,1990s Detached,Floor2,EnSuite,Water,ToiletCold,Temp,12.000,Celsius degrees,2025-01-22 12:13:39
+CO@9_3_9,1990s Detached,Floor1,Kitchen,Water,SinkCold,Flow,0.000,,2025-01-10 13:24:13
+CO@9_4_0,1990s Detached,Floor1,LivingRoom,Other,,Temperature,21.820,Celsius degrees,2025-01-22 14:05:30
+CO@9_4_1,1990s Detached,Floor1,LivingRoom,Other,,Humidity,29.500,%,2025-01-22 14:04:09
+CO@9_4_10,1990s Detached,Floor1,Kitchen,Other,,Temperature,18.190,Celsius degrees,2024-12-21 04:55:21
+CO@9_4_100,1990s Detached,Floor2,Bed3,Other,,Temperature,21.500,Celsius degrees,2025-01-22 14:05:43
+CO@9_4_101,1990s Detached,Floor2,Bed3,Other,,Humidity,33.460,%,2025-01-22 14:04:23
+CO@9_4_102,1990s Detached,Floor2,Bed3,Other,,CO2,376.960,Parts per million,2025-01-22 14:05:43
+CO@9_4_103,1990s Detached,Floor2,Bed3,Other,,Occupancy,0.000,,2025-01-22 10:28:13
+CO@9_4_104,1990s Detached,Floor2,Bed3,Other,,Window1,1.000,,2024-07-09 11:02:20
+CO@9_4_107,1990s Detached,Floor2,Bed3,Other,,Door1,0.000,,2024-08-05 11:05:49
+CO@9_4_11,1990s Detached,Floor1,Kitchen,Other,,Humidity,36.740,%,2025-01-22 14:04:34
+CO@9_4_110,1990s Detached,Floor2,Bed4,Other,,Temperature,21.040,Celsius degrees,2025-01-22 14:05:41
+CO@9_4_111,1990s Detached,Floor2,Bed4,Other,,Humidity,33.920,%,2025-01-22 14:04:20
+CO@9_4_112,1990s Detached,Floor2,Bed4,Other,,CO2,445.760,Parts per million,2025-01-22 14:05:41
+CO@9_4_113,1990s Detached,Floor2,Bed4,Other,,Occupancy,0.000,,2025-01-20 10:17:07
+CO@9_4_114,1990s Detached,Floor2,Bed4,Other,,Window1,1.000,,2024-06-25 14:19:58
+CO@9_4_117,1990s Detached,Floor2,Bed4,Other,,Door1,0.000,,2024-08-05 10:55:11
+CO@9_4_12,1990s Detached,Floor1,Kitchen,Other,,CO2,285.920,Parts per million,2025-01-22 14:05:54
+CO@9_4_120,1990s Detached,Floor2,Bathroom,Other,,Temperature,20.860,Celsius degrees,2025-01-22 14:05:41
+CO@9_4_121,1990s Detached,Floor2,Bathroom,Other,,Humidity,34.020,%,2025-01-22 14:04:21
+CO@9_4_122,1990s Detached,Floor2,Bathroom,Other,,CO2,402.880,Parts per million,2025-01-22 14:05:41
+CO@9_4_123,1990s Detached,Floor2,Bathroom,Other,,Occupancy,0.000,,2025-01-22 10:28:32
+CO@9_4_124,1990s Detached,Floor2,Bathroom,Other,,Window1,1.000,,2024-09-25 13:06:04
+CO@9_4_127,1990s Detached,Floor2,Bathroom,Other,,Door1,0.000,,2024-12-10 12:40:26
+CO@9_4_13,1990s Detached,Floor1,Kitchen,Other,,Occupancy,0.000,,2025-01-22 10:29:14
+CO@9_4_14,1990s Detached,Floor1,Kitchen,Other,,Window1,1.000,,2025-01-21 13:59:57
+CO@9_4_140,1990s Detached,Floor2,EnSuite,Other,,Temperature,20.920,Celsius degrees,2025-01-22 14:05:42
+CO@9_4_141,1990s Detached,Floor2,EnSuite,Other,,Humidity,34.900,%,2025-01-22 14:04:22
+CO@9_4_142,1990s Detached,Floor2,EnSuite,Other,,CO2,402.880,Parts per million,2025-01-22 14:05:42
+CO@9_4_143,1990s Detached,Floor2,EnSuite,Other,,Occupancy,0.000,,2025-01-22 10:28:20
+CO@9_4_144,1990s Detached,Floor2,EnSuite,Other,,Window1,1.000,,2024-06-06 07:14:51
+CO@9_4_147,1990s Detached,Floor2,EnSuite,Other,,Door1,1.000,,2025-01-08 11:57:32
+CO@9_4_17,1990s Detached,Floor1,Kitchen,Other,,Door1,0.000,,2025-01-08 11:12:58
+CO@9_4_2,1990s Detached,Floor1,LivingRoom,Other,,CO2,413.760,Parts per million,2025-01-22 14:05:29
+CO@9_4_20,1990s Detached,Floor1,Hallway,Other,,Temperature,16.900,Celsius degrees,2025-01-22 14:05:24
+CO@9_4_27,1990s Detached,Floor1,Hallway,Other,,Door1,1.000,,2025-01-16 12:00:05
+CO@9_4_3,1990s Detached,Floor1,LivingRoom,Other,,Occupancy,0.000,,2025-01-22 10:29:48
+CO@9_4_30,1990s Detached,Floor1,DiningRoom,Other,,Temperature,21.980,Celsius degrees,2025-01-22 14:05:58
+CO@9_4_31,1990s Detached,Floor1,DiningRoom,Other,,Humidity,32.660,%,2025-01-22 14:04:38
+CO@9_4_32,1990s Detached,Floor1,DiningRoom,Other,,CO2,331.840,Parts per million,2024-12-21 04:55:13
+CO@9_4_33,1990s Detached,Floor1,DiningRoom,Other,,Occupancy,0.000,,2025-01-22 10:29:14
+CO@9_4_37,1990s Detached,Floor1,DiningRoom,Other,,Door1,0.000,,2024-06-14 10:41:51
+CO@9_4_38,1990s Detached,Floor1,DiningRoom,Other,,Door2,1.000,,2025-01-21 12:19:01
+CO@9_4_39,1990s Detached,Floor1,DiningRoom,Other,,Door3,,,
+CO@9_4_4,1990s Detached,Floor1,LivingRoom,Other,,Window1,1.000,,2025-01-06 08:08:09
+CO@9_4_40,1990s Detached,Floor1,Garage,Other,,Temperature,10.560,Celsius degrees,2024-12-21 04:55:07
+CO@9_4_41,1990s Detached,Floor1,Garage,Other,,Humidity,68.920,%,2024-12-21 04:55:28
+CO@9_4_42,1990s Detached,Floor1,Garage,Other,,CO2,448.960,Parts per million,2025-01-22 14:05:35
+CO@9_4_43,1990s Detached,Floor1,Garage,Other,,Occupancy,0.000,,2024-12-01 05:18:06
+CO@9_4_47,1990s Detached,Floor1,Garage,Other,,Door1,1.000,,2025-01-21 14:41:07
+CO@9_4_50,1990s Detached,Floor1,Utility,Other,,Temperature,22.580,Celsius degrees,2025-01-22 14:05:48
+CO@9_4_51,1990s Detached,Floor1,Utility,Other,,Humidity,31.620,%,2025-01-22 14:04:28
+CO@9_4_52,1990s Detached,Floor1,Utility,Other,,CO2,420.800,Parts per million,2024-12-21 04:55:15
+CO@9_4_53,1990s Detached,Floor1,Utility,Other,,Occupancy,0.000,,2025-01-22 10:29:12
+CO@9_4_57,1990s Detached,Floor1,Utility,Other,,Door1,0.000,,2025-01-09 14:03:31
+CO@9_4_60,1990s Detached,Floor1,WC,Other,,Temperature,16.900,Celsius degrees,2024-12-21 04:55:22
+CO@9_4_63,1990s Detached,Floor1,WC,Other,,Occupancy,0.000,,2024-11-27 07:40:20
+CO@9_4_67,1990s Detached,Floor1,WC,Other,,Door1,0.000,,2025-01-21 12:47:36
+CO@9_4_7,1990s Detached,Floor1,LivingRoom,Other,,Door1,0.000,,2024-06-14 10:50:41
+CO@9_4_70,1990s Detached,Floor2,Landing,Other,,Temperature,20.820,Celsius degrees,2025-01-22 14:05:32
+CO@9_4_80,1990s Detached,Floor2,Bed1,Other,,Temperature,17.810,Celsius degrees,2024-12-21 04:55:15
+CO@9_4_81,1990s Detached,Floor2,Bed1,Other,,Humidity,33.480,%,2025-01-22 14:04:34
+CO@9_4_82,1990s Detached,Floor2,Bed1,Other,,CO2,304.000,Parts per million,2024-12-21 04:55:15
+CO@9_4_83,1990s Detached,Floor2,Bed1,Other,,Occupancy,0.000,,2025-01-21 13:20:45
+CO@9_4_84,1990s Detached,Floor2,Bed1,Other,,Window1,1.000,,2024-09-10 14:43:00
+CO@9_4_87,1990s Detached,Floor2,Bed1,Other,,Door1,0.000,,2024-09-06 11:03:32
+CO@9_4_90,1990s Detached,Floor2,Bed2,Other,,Temperature,21.340,Celsius degrees,2025-01-22 14:05:57
+CO@9_4_91,1990s Detached,Floor2,Bed2,Other,,Humidity,33.880,%,2025-01-22 14:04:36
+CO@9_4_92,1990s Detached,Floor2,Bed2,Other,,CO2,539.840,Parts per million,2025-01-22 14:05:56
+CO@9_4_93,1990s Detached,Floor2,Bed2,Other,,Occupancy,0.000,,2025-01-22 10:28:28
+CO@9_4_94,1990s Detached,Floor2,Bed2,Other,,Window1,1.000,,2023-11-29 08:29:06
+CO@9_4_97,1990s Detached,Floor2,Bed2,Other,,Door1,0.000,,2024-08-06 12:56:11
+CO@9_5_0,1990s Detached,Floor,Global,HeatingControl,,HeatDemandPWM,,,
+CO@9_5_10,1990s Detached,Floor1,Kitchen,HeatingControl,,Setpoint,21.000,,2025-01-09 10:18:41
+CO@9_5_11,1990s Detached,Floor1,Kitchen,HeatingControl,Setpoint,Status,21.000,,2025-01-09 10:18:41
+CO@9_5_13,1990s Detached,Floor1,Kitchen,HeatingControl,,HeatDemandPERC,0.000,,2024-12-21 04:57:19
+CO@9_5_14,1990s Detached,Floor1,Kitchen,HeatingControl,HeatDemand,Status,0.000,,2025-01-20 10:38:50
+CO@9_5_15,1990s Detached,Floor1,Hallway,HeatingControl,,Setpoint,21.000,,2025-01-09 10:18:41
+CO@9_5_16,1990s Detached,Floor1,Hallway,HeatingControl,Setpoint,Status,21.000,,2025-01-09 10:18:41
+CO@9_5_18,1990s Detached,Floor1,Hallway,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:05:16
+CO@9_5_19,1990s Detached,Floor1,Hallway,HeatingControl,HeatDemand,Status,0.000,,2024-12-20 22:57:49
+CO@9_5_2,1990s Detached,Floor,Global,HeatingControl,HeatDemand,Status,,,
+CO@9_5_20,1990s Detached,Floor1,DiningRoom,HeatingControl,,Setpoint,21.000,,2025-01-09 10:18:41
+CO@9_5_200,1990s Detached,Floor,Global,HeatingControl,CentralSetpoint,Control,21.000,,2025-01-09 10:18:41
+CO@9_5_201,1990s Detached,Floor,Global,HeatingControl,CentralSetpoint,Status,21.000,,2025-01-09 10:18:42
+CO@9_5_202,1990s Detached,Floor,Global,HeatingControl,CentralOnOff,Control,1.000,,2024-12-20 22:57:20
+CO@9_5_21,1990s Detached,Floor1,DiningRoom,HeatingControl,Setpoint,Status,21.000,,2025-01-09 10:18:41
+CO@9_5_23,1990s Detached,Floor1,DiningRoom,HeatingControl,,HeatDemandPERC,0.000,,2024-12-21 04:57:19
+CO@9_5_24,1990s Detached,Floor1,DiningRoom,HeatingControl,HeatDemand,Status,0.000,,2025-01-20 10:38:50
+CO@9_5_25,1990s Detached,Floor1,Utility,HeatingControl,,Setpoint,21.000,,2025-01-09 10:18:42
+CO@9_5_26,1990s Detached,Floor1,Utility,HeatingControl,Setpoint,Status,21.000,,2025-01-09 10:18:42
+CO@9_5_28,1990s Detached,Floor1,Utility,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:05:17
+CO@9_5_29,1990s Detached,Floor1,Utility,HeatingControl,HeatDemand,Status,0.000,,2025-01-20 10:34:16
+CO@9_5_3,1990s Detached,Floor,Global,HeatingControl,HotWater,Control,,,
+CO@9_5_30,1990s Detached,Floor1,WC,HeatingControl,,Setpoint,21.000,,2025-01-09 10:18:42
+CO@9_5_31,1990s Detached,Floor1,WC,HeatingControl,Setpoint,Status,21.000,,2025-01-09 10:18:42
+CO@9_5_33,1990s Detached,Floor1,WC,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:05:17
+CO@9_5_34,1990s Detached,Floor1,WC,HeatingControl,HeatDemand,Status,0.000,,2024-11-30 16:12:33
+CO@9_5_4,1990s Detached,Floor,Global,HeatingControl,HotWater,Status,0.000,,2024-03-15 10:56:34
+CO@9_5_40,1990s Detached,Floor2,Bed1,HeatingControl,,Setpoint,18.000,,2024-11-22 15:46:15
+CO@9_5_41,1990s Detached,Floor2,Bed1,HeatingControl,Setpoint,Status,18.000,,2024-11-22 15:46:15
+CO@9_5_43,1990s Detached,Floor2,Bed1,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:06:39
+CO@9_5_44,1990s Detached,Floor2,Bed1,HeatingControl,HeatDemand,Status,0.000,,2025-01-20 10:33:23
+CO@9_5_45,1990s Detached,Floor2,Bed2,HeatingControl,,Setpoint,21.000,,2025-01-09 10:18:41
+CO@9_5_46,1990s Detached,Floor2,Bed2,HeatingControl,Setpoint,Status,21.000,,2025-01-09 10:18:41
+CO@9_5_48,1990s Detached,Floor2,Bed2,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:07:48
+CO@9_5_49,1990s Detached,Floor2,Bed2,HeatingControl,HeatDemand,Status,0.000,,2025-01-20 10:38:43
+CO@9_5_5,1990s Detached,Floor1,LivingRoom,HeatingControl,,Setpoint,21.000,,2025-01-09 10:18:41
+CO@9_5_50,1990s Detached,Floor2,Bed3,HeatingControl,,Setpoint,21.000,,2025-01-09 10:18:41
+CO@9_5_51,1990s Detached,Floor2,Bed3,HeatingControl,Setpoint,Status,21.000,,2025-01-09 10:18:41
+CO@9_5_53,1990s Detached,Floor2,Bed3,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:07:48
+CO@9_5_54,1990s Detached,Floor2,Bed3,HeatingControl,HeatDemand,Status,0.000,,2025-01-20 10:34:54
+CO@9_5_55,1990s Detached,Floor2,Bed4,HeatingControl,,Setpoint,21.000,,2025-01-09 10:18:41
+CO@9_5_56,1990s Detached,Floor2,Bed4,HeatingControl,Setpoint,Status,21.000,,2025-01-09 10:18:41
+CO@9_5_58,1990s Detached,Floor2,Bed4,HeatingControl,,HeatDemandPERC,0.000,,2024-12-21 04:57:18
+CO@9_5_59,1990s Detached,Floor2,Bed4,HeatingControl,HeatDemand,Status,0.000,,2024-11-30 08:12:48
+CO@9_5_6,1990s Detached,Floor1,LivingRoom,HeatingControl,Setpoint,Status,21.000,,2025-01-09 10:18:41
+CO@9_5_60,1990s Detached,Floor2,Bathroom,HeatingControl,,Setpoint,21.000,,2025-01-09 10:18:41
+CO@9_5_61,1990s Detached,Floor2,Bathroom,HeatingControl,Setpoint,Status,21.000,,2025-01-09 10:18:41
+CO@9_5_62,1990s Detached,Floor2,Bathroom,HeatingControl,,HeatDemandPWM,0.000,,2025-01-22 14:07:48
+CO@9_5_64,1990s Detached,Floor2,Bathroom,HeatingControl,HeatDemand,Status,0.000,,2025-01-09 12:25:18
+CO@9_5_65,1990s Detached,Floor2,Ensuite,HeatingControl,,Setpoint,21.000,,2025-01-09 10:18:42
+CO@9_5_66,1990s Detached,Floor2,Ensuite,HeatingControl,Setpoint,Status,21.000,,2025-01-09 10:18:42
+CO@9_5_67,1990s Detached,Floor2,Ensuite,HeatingControl,,HeatDemandPWM,0.000,,2025-01-22 14:07:48
+CO@9_5_69,1990s Detached,Floor2,Ensuite,HeatingControl,HeatDemand,Status,0.000,,2025-01-09 12:26:00
+CO@9_5_8,1990s Detached,Floor1,LivingRoom,HeatingControl,,HeatDemandPERC,0.000,,2025-01-22 14:05:16
+CO@9_5_9,1990s Detached,Floor1,LivingRoom,HeatingControl,HeatDemand,Status,0.000,,2025-01-20 10:34:09

@@ -1,0 +1,80 @@
+name: "ngn-sensor-publisher-connector"
+
+x-common-logging:
+  driver: "json-file"
+  options:
+    max-size: "100m"
+    max-file: "10"
+
+services:
+  # Sensor Publisher
+  sensor_publisher:
+    container_name: "sensor_publisher"
+    build:
+      context: ".."
+      dockerfile: "ngn-sensor-publisher/Dockerfile"
+    command: "python3 /home/ngn/main.py"
+    env_file:
+      - ".env"
+    restart: "always"
+    depends_on:
+      sensor_cache:
+        condition: service_started
+      redis:
+        condition: service_started
+    environment:
+      - TZ=Europe/London
+    networks:
+      - cev-connector
+      - default
+
+  # Sensor Cache
+  sensor_cache:
+    container_name: "sensor_cache"
+    build:
+      context: ".."
+      dockerfile: "ngn-sensor-cache/Dockerfile"
+    command: "python3 /home/ngn/main.py"
+    env_file:
+      - ".env"
+    restart: "always"
+    depends_on:
+      redis:
+        condition: service_started
+    environment:
+      - TZ=Europe/London
+    networks: ["cev-connector"]
+
+  # Redis
+  redis:
+    image: redis:latest
+    container_name: redis-publisher
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-data:/data
+    restart: "always"
+    command: ["redis-server", "--appendonly", "yes", "--maxmemory-policy", "noeviction"]
+    networks: ["cev-connector"]
+
+  # Gira Test
+  gira_test:
+    container_name: "gira_test"
+    build:
+      context: ".."
+      dockerfile: "gira-server-test/Dockerfile"
+    command: "python3 /home/ngn/main.py"
+    env_file:
+      - ".env"
+    environment:
+      - TZ=Europe/London
+
+networks:
+  cev-connector:
+    name: "cev-connector"
+  default:
+    driver: bridge  # Ensures that containers can access the internet
+
+volumes:
+  redis-data:
+    driver: local
